@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "Inspiration"
       
       - name: Update C8
-        run: python3 Stream/Python/C8.py > Streams/C8.m3u8
+        run: python3 Streams/Python/C8.py > Streams/C8.m3u8
         
       - name: git add
         run: |
