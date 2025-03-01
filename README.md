@@ -52,7 +52,7 @@ https://bit.ly/InspirationFreetv
 
 ---
 
-#### 📺📱 OTT Navigator IPTV Para Sistema Android
+### 📺📱 OTT Navigator IPTV Para Sistema Android
 
 ![OTT Navigator screenshot](/LogosTv/OTTNavigator.png "OTT Navigator screenshot")
 
