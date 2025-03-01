@@ -60,7 +60,7 @@ https://bit.ly/InspirationFreetv
 
 Depois de instalado, faça esta Configuração, para ter a lista Inspiration Freetv no OTTNavigator.
 ```bash
-⚙️ Configurações - Configurações adicionais - Backup e Restauração - Restaurar um backup de configuração feito anteriormente - inserir código xCYaL6  - Restaurar posição (Todos) - inserir senha 123 - reiniciar aplicação.
+⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código xCYaL6 > Restaurar posição (Todos) > inserir senha 123 > reiniciar aplicação.
 ```
 ---
 
