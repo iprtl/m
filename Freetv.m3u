@@ -383,6 +383,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-l
 https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 cuid="" tvg-chno="344" tvg-name="CNN Fast 🇺🇸" tvg-id="66c45ba803e3b20008d8c294" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",CNN Fast 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c45ba803e3b20008d8c294/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
+---
+
 #EXTINF:-1 cuid="" tvg-chno="345" tvg-name="Sky News 🇺🇸" tvg-id="Sky.News.HD.uk" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",Sky News 🇺🇸
 https://is.gd/CHzw32?SkyNews.m3u8
 #EXTINF:-1 cuid="" tvg-chno="346" tvg-name="Cheddar News ᶠᴴᴰ 🇺🇸" tvg-id="USAJ3504714A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20240520T214521SQUARE.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",Cheddar News ᶠᴴᴰ 🇺🇸
@@ -397,10 +400,28 @@ https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 https://live-manifest.production-public.tubi.io/live/346a3973-426a-45dc-85fd-a598cc9d1487/playlist.m3u8
 #EXTINF:-1 cuid="" tvg-chno="351" tvg-name="FOX 12 New York" tvg-logo="https://canvas-lb.tubitv.com/opts/-7LfJWOBjXLPNQ==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjVAAQ==" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",FOX 12 New York
 https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8
+
+---
+
 #EXTINF:-1 cuid="" tvg-chno="352" tvg-name="GB News ᶠᴴᴰ 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",GB News ᶠᴴᴰ 🇬🇧
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 cuid="" tvg-chno="353" tvg-name="NBC" tvg-id="NBC.(KNTV).San.Francisco,.CA.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",NBC San Francisco News 🇺🇸
+https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 cuid="" tvg-chno="353" tvg-name="NBC" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",NBC New York News 🇺🇸
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 cuid="" tvg-chno="353" tvg-name="NBC" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",NBC Washington News 🇺🇸
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 cuid="" tvg-chno="353" tvg-name="NBC" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",NBC Los Angeles News 🇺🇸
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 cuid="" tvg-chno="353" tvg-name="NBC News Now 🇺🇸" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NBCNewsNow.webp" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",NBC News Now 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:-1 cuid="" tvg-chno="353" tvg-name="NBC News Now 🇺🇸" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NBCNewsNow.webp" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",NBC News Now 🇺🇸
+https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
+
+---
+
 #EXTINF:-1 cuid="" tvg-chno="354" tvg-name="CBS News 🇺🇸" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",CBS News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 cuid="" tvg-chno="355" tvg-name="CBS News Explore ᶠᴴᴰ 🇺🇸" tvg-id="CABC2300009KD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" group-title="🅵 News 🌍|☆ Canais 🇺🇸🇬🇧",CBS News Explore ᶠᴴᴰ 🇺🇸
@@ -1361,6 +1382,12 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 --- 🇲🇽
+
+#EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas 🇧🇷" tvg-id="6474a8c64f5ba50008683603" tvg-logo="https://images.pluto.tv/channels/6474a8c64f5ba50008683603/colorLogoPNG.png" group-title="🅵 Novelas|☆ Canais 🇲🇽🇺🇸",TV Novelas 🇦🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a8c64f5ba50008683603/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
+#EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas 🇧🇷" tvg-id="6474a86917f5e100089a0c1c" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png" group-title="🅵 Novelas|☆ Canais 🇲🇽🇺🇸",TV Novelas 🇻🇪
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 
 #EXTINF:-1 cuid="495" tvg-chno="495" tvg-name="TNT Novelas 🇲🇽" tvg-id="Canal.TNT.Novelas.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="🅵 Novelas|☆ Canais 🇲🇽🇺🇸",TNT Novelas 🇲🇽
 http://45.184.87.142:8000/play/a02j
@@ -2728,6 +2755,11 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 cuid="1077" tvg-chno="1077" tvg-name="" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240520T212951SQUARE.png" group-title="🅵 Desporto|☆ Canais 🇲🇽🇪🇸",Zona TUDN 🇲🇽
 https://is.gd/BUqSed?USBD1700016X9.m3u8
 
+---
+
+#EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="" tvg-id="plex.tv.ACCDN.plex" tvg-logo="https://canvas-lb.tubitv.com/opts/OHSQUeln9PTvbg==/033a7701-c6ef-42be-a66e-b517d36a83e1/CHgQeDoFMS4xLjJAAQ==" group-title="🅵 Desporto|☆ Canais 🇬🇧🇺🇸",ACCDN 🇺🇸
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="" tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/OHSQUeln9PTvbg==/033a7701-c6ef-42be-a66e-b517d36a83e1/CHgQeDoFMS4xLjJAAQ==" group-title="🅵 Desporto|☆ Canais 🇬🇧🇺🇸",Fanduel tv Extra 🇺🇸
 https://apollo.production-public.tubi.io/live/fanduel.m3u8
 
@@ -2802,6 +2834,8 @@ https://cloudvideo.servers10.com:8081/8184/index.m3u8
 
 #EXTINF:-1 cuid="1092" tvg-chno="1092" tvg-name="Tigo Sports 🇬🇹" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="🅵 Desporto|☆ Canais 🇲🇽🇪🇸",Tigo Sports 🇬🇹
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+---
 
 #EXTINF:-1 cuid="1093" tvg-chno="1093" tvg-name="NBC Sports 🇺🇸" tvg-id="6549306c83595c000815a696" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" group-title="🅵 Desporto|☆ Canais 🇬🇧🇺🇸",NBC Sports 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -2914,7 +2948,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866
 #EXTINF:-1 cuid="1125" tvg-chno="1125" tvg-name="PadelTime 🇺🇸" tvg-id="65c2424eec452d0008987459" tvg-logo="https://images.pluto.tv/channels/65c2424eec452d0008987459/colorLogoPNG.png" group-title="🅵 Desporto|☆ Canais Tennis 🎾",PadelTime 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c2424eec452d0008987459/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-📺  𝗴𝙤𝙡𝙛 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🏌️ 
+--- 📺  𝗴𝙤𝙡𝙛 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🏌️ 
 
 #EXTINF:-1 cuid="1126" tvg-chno="1126" tvg-name="NBC Golf 🇺🇸" tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="🅵 Desporto|☆ Canais Golf 🏌️",NBC Golf 🇺🇸
 http://49.0.64.96:8007/GOLF
