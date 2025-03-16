@@ -69,15 +69,29 @@ https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 
 #EXTINF:-1 cuid="9" tvg-chno="9" tvg-name="RTP 1 🇵🇹" tvg-id="RTP 1 HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",RTP 1 🇵🇹
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
+http://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
 #EXTINF:-1 cuid="10" tvg-chno="10" tvg-name="RTP 2 🇵🇹" tvg-id="RTP 2 HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",RTP 2 🇵🇹
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
+http://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
-#EXTINF:-1 cuid="12" tvg-chno="12" tvg-name="RTP 3 🇵🇹" tvg-id="RTP 3 HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",RTP 3 🇵🇹
+#EXTINF:-1 cuid="12" tvg-chno="12" tvg-name="RTP 3 🇵🇹" tvg-id="RTP 3 HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",RTP 3 🇵🇹 
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+
+#EXTINF:-1 cuid="12" tvg-chno="12" tvg-name="RTP 3 🇵🇹" tvg-id="RTP 3 HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",RTP 3 🇵🇹 (Test)
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
+http://streaming-live.rtp.pt/liverepeater/rtpCleannHD.smil/manifest.mpd
+#http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 cuid="13" tvg-chno="13" tvg-name="RTP Memoria 🇵🇹" tvg-id="RTP Memoria.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-memoria-pt.png" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",RTP Memoriaᴸᴼᵂ 🇵🇹
 #EXTVLCOPT:http-user-agent=IE
@@ -2545,47 +2559,22 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/Goltv.m3u8
 
 --- 📺 𝙀𝙡𝙚𝙫𝙚𝙣 🇵🇱
 
-#EXTINF:-1 cuid="" tvg-chno="" tvg-name="Eleven sports 1 🇵🇱" tvg-id="Eleven.Sports.1.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport1.png" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic",Eleven sports 1 🇵🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9d042fa273964e24a9109e23f4e313cc":"540e3601e1b82192c76c7411ad9c8c8e","801d9e39d41a49418615f7cee4b6e031":"84b9bec014f0509ee2a4296e5877cf40","cf513b83f32d4234a7b4982ae9ca3161":"68293d1b7143588339baeaedbe3939d9","014e7cf40d9e490a812964f4aa72449e":"01b8caafb230eb2a07cc965d54ef4441"}
-https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
-
-#EXTINF:-1 cuid="" tvg-chno="" tvg-id="Eleven.Sports.2.HD.pl" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic" tvg-logo="https://logo.iptveditor.com/elevensport2.png",Eleven sports 2 🇵🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8331b6fdb5d14cdb82ff4895b997704c":"2efbc6cd610345be9401fafd818c4dc4","4e1df327c661472f96319dd7e98bf5bd":"36263f85c3c25a131f47cee90924e1f3","147736fc9f244d0ca8bc3f2169acec8e":"3d1c1f5044392378b5c05f29899920a1","71be6f968ab54a8bb847b58bbc7c628e":"3dd907fffdbffd7ec01b4025ad97ec6a"}
-https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
 #EXTINF:-1 cuid="" tvg-chno="" tvg-id="Eleven.Sports.2.HD.pl" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic" tvg-logo="https://logo.iptveditor.com/elevensport2.png",Eleven sports 2 🇵🇱
 http://pro-solut-xi.eu:5436//live/live:dinjo79/SkypeDinjo@telon.al/16498.ts
 
 #EXTINF:-1 cuid="" tvg-chno="" tvg-id="Eleven.Sports.3.HD.pl" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic" tvg-logo="https://logo.iptveditor.com/elevensport3.png",Eleven sports 3 🇵🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"55b19ea29fdd4c96825531f96a504df1":"a6ec613e0eadfb923ff816e4c8c68a4a","696c7203cea54375a2433c8be361f6ed":"39e60bf9f0154884f5039d8e6cc47601","1de6210c1b064b928c5bb003da7023e5":"d1eb59b178c89539d7caf1022968107e","ce125d7af48a45799d671941125ed55e":"973599517f31f3b4327fa975f549ed2b"}
-https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
-#EXTINF:-1 cuid="" tvg-chno="" tvg-id="Eleven.Sports.3.HD.pl" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic" tvg-logo="https://logo.iptveditor.com/elevensport3.png",Eleven sports 3 🇵🇱
 http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/16499.ts
 
-#EXTINF:-1 cuid="" tvg-chno="" tvg-id="Eleven.Sports.4.HD.pl" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic" tvg-logo="https://logo.iptveditor.com/elevensport4.png",Eleven sports 4 🇵🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0bc811aaa10a4c3198aa3b6679198382":"609b0c987d1657f1adc7aa53ae733200","a662726cb8804451961d356d65ba8450":"47f362b448bd8f63d2402d428d352aed","f6818e7c25964791896250a119420d85":"9f67cb00a75a9e0a068918256a227806","2c7dea2fa563424789ea200675e56817":"5bf4b84797df5a8ac149c5bb69d639c4"}
-https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd
 
 ---
 
 #EXTINF:-1 cuid="" tvg-chno="" tvg-name="SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic",SportDigital 🇩🇪 
 http://tv.cloudcdn.me/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 cuid="" tvg-chno="" tvg-name="SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic",SportDigital 🇩🇪 (Test)
-https://inspiration@oha.to/play/1939849274/index.m3u8
+#https://inspiration@oha.to/play/1939849274/index.m3u8
 
 #EXTINF:-1 cuid="" tvg-chno="" tvg-name="Ring HD 🇧🇬" tvg-id="Ring.BG.bg" tvg-logo="https://logo.iptveditor.com/ring.png" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic",Ring HD 🇧🇬
-http://195.24.90.119:800/play/a0b3
+#http://195.24.90.119:800/play/a0b3
 #EXTINF:-1 cuid="" tvg-chno="" tvg-name="Ring HD 🇧🇬" tvg-id="Ring.BG.bg" tvg-logo="https://logo.iptveditor.com/ring.png" group-title="🅵 Futbol Total ⚽️|✧ Liga Betclic",Ring HD 🇧🇬
 http://87.246.60.6:11021
 
