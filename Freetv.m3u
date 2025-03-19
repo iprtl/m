@@ -239,22 +239,22 @@ https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="TVM.HD.mt" tvg-name="" tvg-logo="https://tvm.co.mz/templates/templatetvmmain/favicon.ico" group-title="🅵 Português 🇵🇹|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",TV Moçambique 🇲🇴
 http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w695546362_b714000_slpor.m3u8
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-id="Cubavisión.Internacional.pt" tvg-name="Cubavisión TV" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-title="🅵 Português|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Cubavisión TV Internacional 🇨🇺
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-id="Cubavisión.Internacional.pt" tvg-name="Cubavisión TV" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-title="🅵 Português 🇵🇹|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Cubavisión TV Internacional 🇨🇺
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-id="Cubavisión.Internacional.pt" tvg-name="Cubavisión TV" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-title="🅵 Português|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Cubavisión TV Internacional 🇨🇺
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-id="Cubavisión.Internacional.pt" tvg-name="Cubavisión TV" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-title="🅵 Português 🇵🇹|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Cubavisión TV Internacional 🇨🇺
 http://177.93.63.5:10000/play/a0gh/index.m3u8
 
-#EXTINF:-1 cuid="42" tvg-chno="42" tvg-id="Das.Erste.de" tvg-logo="https://logo.iptveditor.com/daserste.png" group-title="🅵 Português|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Das Erste 🇩🇪
+#EXTINF:-1 cuid="42" tvg-chno="42" tvg-id="Das.Erste.de" tvg-logo="https://logo.iptveditor.com/daserste.png" group-title="🅵 Português 🇵🇹|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Das Erste 🇩🇪
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/index.m3u8
 
-#EXTINF:-1 cuid="43" tvg-chno="43" tvg-name="Fashion Paris 🇺🇸" tvg-id="Fashion TV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png" group-title="🅵 Português|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Fashion Parisᶠᴴᴰ 🇺🇸
+#EXTINF:-1 cuid="43" tvg-chno="43" tvg-name="Fashion Paris 🇺🇸" tvg-id="Fashion TV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png" group-title="🅵 Português 🇵🇹|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Fashion Parisᶠᴴᴰ 🇺🇸
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="44" tvg-chno="44" tvg-name="Fashion Midnight 🇺🇸" tvg-id="Fashion TV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png" group-title="🅵 Português|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Fashion Midnightᶠᴴᴰ 🇺🇸
+#EXTINF:-1 cuid="44" tvg-chno="44" tvg-name="Fashion Midnight 🇺🇸" tvg-id="Fashion TV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png" group-title="🅵 Português 🇵🇹|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Fashion Midnightᶠᴴᴰ 🇺🇸
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 cuid="46" tvg-chno="46" tvg-name="Love Wine 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Lovewine.webp" group-title="🅵 Português|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Love Wineᶠᴴᴰ 🇺🇸
+#EXTINF:-1 cuid="46" tvg-chno="46" tvg-name="Love Wine 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Lovewine.webp" group-title="🅵 Português 🇵🇹|☆ Diversos 🇲🇴🇵🇹🇧🇷🇺🇸",Love Wineᶠᴴᴰ 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8
 
 --- 📺  𝙈𝙚𝙩𝙚𝙤𝙧𝙤𝙡𝙤𝙜𝙮 ❄︎ 
