@@ -8,7 +8,7 @@
 
 ## 🚩 Siga nos
 
-<p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.wordpress.com/wp-content/uploads/2024/02/qr_github.png?w=200" alt="github Inspiration" width="133" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="133" height="140" border="0" /></a><a href="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/1QRtelegram.png" target="_blank" rel="noopener"><img class="alignleft" style="border: 0px; height: 133px;" src="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/1QRtelegram.png?w=210" alt="Telegram" width="124" height="150" border="0" /></a></p>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.wordpress.com/wp-content/uploads/2024/02/qr_github.png?w=200" alt="github Inspiration" width="133" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="133" height="140" border="0" /></a></p>
 
 ---
 
@@ -56,7 +56,9 @@ https://bit.ly/InspirationFreetv
 
 ![OTT Navigator screenshot](/LogosTv/OTTNavigator.png "OTT Navigator screenshot")
 
-[👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
+[👉 🖧 Download OTT v1.7.2.2 Premium](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
+
+[👉 🖧 Download OTT PlayStore](https://play.google.com/store/apps/details?id=appnovatica.stbp)
 
 Depois de instalado, faça esta Configuração, para ter a lista Inspiration Freetv no OTTNavigator.
 
