@@ -4,7 +4,7 @@
 
 ✅ 🇬🇧 This free IPTV project is designed to save you time and money while providing a streaming experience. If you found this project and initiative useful... consider making a donation through PayPal. Any contribution, no matter how small, is greatly appreciated and helps maintain this project that has been going on for over a decade. Thank you for your support!
 
-[![Paypal](https://github.com/inspirationlinks/m3u/blob/live/LogosTv/donativoPaypal.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS)
+[![Paypal](https://storage.ko-fi.com/cdn/kofi5.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS)
 
 ## 🚩 Siga nos
 
@@ -30,11 +30,11 @@
 
 ---
 
-### 🔔 Indice e Legenda da lista inspiration Free and Live tv
+### 🔔 Indice e Legenda da lista inspiration FreeTV
 
 * [📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
-### 🌍🌐 List of Main TV channels the Freetv and Livetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+### 🌍🌐 List of Main TV channels the Freetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
 * [📺 📋 Confira a Lista Completa de Canais da Freetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20FreeTV)
 
@@ -43,12 +43,6 @@
 ```bash
 https://bit.ly/InspirationFreetv
 ```
-
-* [📺 📋 Confira a Lista Completa de Canais da Livetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20LiveTV)
-  
-🇵🇹 ➾ Esta lista é totalmente Gratuita mas... Não é facultada de forma Publica. Terá que solicitar o acesso à mesma. Por [AQUI](https://github.com/inspirationlinks/m3u/discussions) ou através do [Blog](https://wp.me/p11I1T-68V).
-
-🇬🇧 ➾ This list is completely free but... It is not publicly available. You will have to request access to it. Here or on the Blog.
 
 ---
 
