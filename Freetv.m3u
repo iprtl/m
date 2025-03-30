@@ -91,7 +91,8 @@ http://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
 http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
-
+#EXTINF:-1 cuid="12" tvg-chno="12" tvg-name="RTP 3 🇵🇹" tvg-id="RTP 3 HD.pt" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" http-referrer="https://rtp.pt/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="[я] Portugal 🇵🇹|☆ Generalista 🇵🇹",RTP 3 🇵🇹 (Don't Work OTT)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 cuid="12" tvg-chno="12" tvg-name="RTP 3 🇵🇹" tvg-id="RTP 3 HD.pt" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" http-referrer="https://rtp.pt/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="[я] Portugal 🇵🇹|☆ Generalista 🇵🇹",RTP 3 🇵🇹 (Don't Work OTT)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
@@ -103,15 +104,15 @@ http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=IE
 http://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 
-#EXTINF:-1 cuid="14" tvg-chno="14" tvg-name="RTP Açores 🇵🇹" tvg-id="RTP Açores.pt" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" http-referrer="https://rtp.pt/" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-title="[я] Portugal 🇵🇹|☆ Generalista 🇵🇹",RTP Açores 🇵🇹 (Don't Work OTT)
+#EXTINF:-1 cuid="14" tvg-chno="14" tvg-name="RTP Açores 🇵🇹" tvg-id="RTP Açores.pt" user-agent="user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" http-referrer="https://rtp.pt/" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-title="[я] Portugal 🇵🇹|☆ Generalista 🇵🇹",RTP Açores 🇵🇹 (Don't Work OTT)
 #EXTVLCOPT:http-user-agent=IE
 http://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 cuid="15" tvg-chno="15" tvg-name="RTP Madeira 🇵🇹" tvg-id="RTP Madeira.pt" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" http-referrer="https://rtp.pt/" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-madeira-pt.png" group-title="[я] Portugal 🇵🇹|☆ Generalista 🇵🇹",RTP Madeiraᴸᴼᵂ 🇵🇹 (Don't Work OTT)
+#EXTINF:-1 cuid="15" tvg-chno="15" tvg-name="RTP Madeira 🇵🇹" tvg-id="RTP Madeira.pt" user-agent="user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" http-referrer="https://rtp.pt/" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-madeira-pt.png" group-title="[я] Portugal 🇵🇹|☆ Generalista 🇵🇹",RTP Madeiraᴸᴼᵂ 🇵🇹 (Don't Work OTT)
 #EXTVLCOPT:http-user-agent=IE
 http://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 cuid="16" tvg-chno="16" tvg-name="RTP África 🇵🇹" tvg-id="RTP África.pt" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" http-referrer="https://rtp.pt/" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-africa-pt.png" group-title="[я] Portugal 🇵🇹|☆ Generalista 🇵🇹",RTP Áfricaᴸᴼᵂ 🇵🇹 (Don't Work OTT)
+#EXTINF:-1 cuid="16" tvg-chno="16" tvg-name="RTP África 🇵🇹" tvg-id="RTP África.pt" user-agent="user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" http-referrer="https://rtp.pt/" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-africa-pt.png" group-title="[я] Portugal 🇵🇹|☆ Generalista 🇵🇹",RTP Áfricaᴸᴼᵂ 🇵🇹 (Don't Work OTT)
 #EXTVLCOPT:http-user-agent=IE
 http://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 
@@ -160,7 +161,6 @@ https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="28" tvg-chno="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="🅵 News 🌍|☆ Canais 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDI1IDQ6NDA6MjkgUE0maGFzaF92YWx1ZT1wNjJSZWxYWmtUWlZFdFU5RHJVdkt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmU0MmU1ZGMtZjUyZC00OGZmLWFlZjMtZTgxN2U2ZjA5ZTJj/
-
 
 ---
 
@@ -343,8 +343,9 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 cuid="" tvg-chno="322" tvg-name="Rai News 24 🇮🇹" tvg-id="RaiNews24.it" tvg-logo="https://logo.iptveditor.com/rainews24.png" group-title="[я] News 🌍|☆ Canais 🇫🇷🇮🇹",Rai News 24 🇮🇹
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 cuid="" tvg-chno="323" tvg-name="Euronews" tvg-id="Euronews.fr" tvg-logo="https://pt.euronews.com/favicon-192x192.png" group-title="[я] News 🌍|☆ Canais 🇵🇹🇧🇷",Euronews 🇫🇷
+#EXTINF:-1 cuid="" tvg-chno="323" tvg-name="Euronews" tvg-id="Euronews.fr" tvg-logo="https://pt.euronews.com/favicon-192x192.png" group-title="[я] News 🌍|☆ Canais 🇫🇷🇮🇹",Euronews 🇫🇷
 https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiMTYwZWIwZDUtM2JlNS00YmM4LWFlNjYtNTFlNGQ3YTU0NjI0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjoxfQ==/26032/euronews-fr.m3u8
+
 
 #EXTINF:-1 cuid="" tvg-chno="323" tvg-name="France Info 🇫🇷" tvg-id="franceinfo:.fr" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/180-1797f52d.png" group-title="[я] News 🌍|☆ Canais 🇫🇷🇮🇹",France Info 🇫🇷
 https://github.com/LeBazarDeBryan/XTVZ_/raw/main/Stream/Live/franceinfo.m3u8
@@ -822,6 +823,7 @@ https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/p
 
 #EXTINF:-1 cuid="245" tvg-chno="253" tvg-name="Mr. Bean 🇪🇸" tvg-id="ES900001SH" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" group-title="[я] Infantil 🧒|☆ Canais 🇪🇸",Mr. Bean
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
 #EXTINF:-1 cuid="245" tvg-chno="253" tvg-name="Mr. Bean 🇪🇸" tvg-id="IT900001A7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900001A7_20241106T142453SQUARE.png" group-title="[я] Infantil 🧒|☆ Canais 🇪🇸",Mr. Bean
 https://amg00627-amg00627c27-samsung-au-3944.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanko-samsungau/playlist.m3u8
 
@@ -2641,7 +2643,7 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://wikinew.koskoros.ru/wiki/goltv/mono.m3u8
 #EXTINF:-1 cuid="" tvg-chno="" tvg-name="Goltv 🇺🇸" tvg-id="GOL.TV.uy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="[я] Liga Betclic 🌍",Goltv 🇺🇸
-#https://github.com/inspirationlinks/m3u/raw/live/Streams/Goltv.m3u8
+https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8
 
 --- 📺 ESPN
 
@@ -2966,7 +2968,7 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="Pac 12 Insider 🇺🇸" tvg-id="USBA300034DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20240520T215920SQUARE.png" group-title="[я] Desportos 🌍|☆ Canais 🇬🇧🇺🇸",Pac 12 Insider 🇺🇸
 https://bit.ly/3u6nprG?USBA300034DB.m3u8
 
-#EXTINF:-1 cuid="1098" tvg-chno="1098" tvg-name="Origin Sports 🇺🇸" tvg-id="USBD1200010I8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200010I8_20240520T220120SQUARE.png" group-title="[я] Desportos 🌍|☆ Canais 🇬🇧🇺🇸",Origin Sports 🇺🇸
+#EXTINF:-1 cuid="1098" tvg-chno="1098" tvg-name="Origin Sports 🇺🇸" tvg-id="CABC2300014PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200010I8_20240520T220120SQUARE.png" group-title="[я] Desportos 🌍|☆ Canais 🇬🇧🇺🇸",Origin Sports 🇺🇸
 https://d3p5ht7q3twp32.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8z9wshyryruk3/4c3ac6bb-c329-44f2-a3c6-97bc46c8a82d/3.m3u8
 
 #EXTINF:-1 cuid="1099" tvg-chno="1099" tvg-name="Trace Sport Stars 🇺🇸" tvg-id="Trace.Sport.Stars.HDTV.(TRCSPHD).us" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/30/Trace_Sport_Stars_(2013-.n.v.).png" group-title="[я] Desportos 🌍|☆ Canais 🇬🇧🇺🇸",Trace Sport Stars 🇺🇸
