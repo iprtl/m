@@ -64,12 +64,13 @@ Backup: xCYaL6 | Password: 123
 
 ### 📺📱 Serviço IPTV by ITTuga
 
-![Best Iptv Tuga](/LogosTv/ott.jpg "Best Iptv Tuga")
+![Best Iptv pars os Pobres](/LogosTv/ott.jpg "Best Iptv Tuga")
 
 [💬👉 Telegram](https://t.me/Ittuga)
 
 
-Estamos a trabalhar no intuito de melhorar o serviço com mais variedades de conteúdo, Temáticas e opções. Tudo a pensar em si.
+IPTV PARA OS POBRES 
+Estamos a trabalhar no intuito de melhorar o serviço com mais variedade de conteúdos, Temáticas e outras opções. Tudo a pensar em si.
 Já disponível secção de Exclusivo, canais de filmes 24h legendados em 🇵🇹. E categoria de Cinema em Casa (VOB).
 ---
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
