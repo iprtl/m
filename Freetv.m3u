@@ -588,9 +588,6 @@ https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 cuid="185" tvg-chno="193" tvg-name="" tvg-id="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6326899c-25c3-435b-b688-e98f67ab0a08.jpeg" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",KKTV 🇦🇴🇵🇹
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 
-#EXTINF:-1 cuid="188" tvg-chno="196" tvg-name="Patrulha Canina 🇧🇷" tvg-id="6495c7ad115d060008bf6df0" tvg-logo="https://images.pluto.tv/channels/6495c7ad115d060008bf6df0/colorLogoPNG.png" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Patrulha Canina 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-
 #EXTINF:-1 cuid="199" tvg-chno="207" tvg-name="Retro Cartoon 🇧🇷" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Retro Cartoon 🇧🇷
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
@@ -644,20 +641,20 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
 --- 𝙎𝙤𝙪𝙩𝙝 𝙋𝙖𝙧𝙠
 
-#EXTINF:-1 cuid="" tvg-chno="427" tvg-name="South Park (Rock and Roll) 🇧🇷" tvg-id="66ba7c8814a2bb000875cff0" tvg-logo="https://images.pluto.tv/channels/66ba7c8814a2bb000875cff0/colorLogoPNG.png" group-title="🆁 Infantil 🧒|☆ Canais South Park 🇧🇷",South Park (Rock and Roll) 🇧🇷
+#EXTINF:-1 cuid="" tvg-chno="427" tvg-name="South Park (Rock and Roll) 🇧🇷" tvg-id="66ba7c8814a2bb000875cff0" tvg-logo="https://images.pluto.tv/channels/66ba7c8814a2bb000875cff0/colorLogoPNG.png" group-title="🆁 South Park 🇧🇷",South Park (Rock and Roll) 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://embedstream.org/
 https://livst.site/adultswim/index.m3u8
-#EXTINF:-1 cuid="" tvg-chno="428" tvg-name="South Park (Coleção Cartman) 🇧🇷" tvg-id="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="🆁 Infantil 🧒|☆ Canais South Park 🇧🇷",South Park (Coleção Cartman) 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="" tvg-chno="428" tvg-name="South Park (Coleção Cartman) 🇧🇷" tvg-id="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="🆁 South Park 🇧🇷",South Park (Coleção Cartman) 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 cuid="" tvg-chno="429" tvg-name="South Park (Coleção Kenny) 🇧🇷" tvg-id="65df704366eec8000898e32f" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="🆁 Infantil 🧒|☆ Canais South Park 🇧🇷",South Park (Coleção Kenny) 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="" tvg-chno="429" tvg-name="South Park (Coleção Kenny) 🇧🇷" tvg-id="65df704366eec8000898e32f" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="🆁 South Park 🇧🇷",South Park (Coleção Kenny) 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="" tvg-chno="430" tvg-name="South Park (Coleção Kyle) 🇧🇷" tvg-id="65df713dec9fda0008b7a81d" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="🆁 Infantil 🧒|☆ Canais South Park 🇧🇷",South Park (Coleção Kyle) 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="" tvg-chno="430" tvg-name="South Park (Coleção Kyle) 🇧🇷" tvg-id="65df713dec9fda0008b7a81d" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="🆁 South Park 🇧🇷",South Park (Coleção Kyle) 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 cuid="" tvg-chno="431" tvg-name="South Park (Coleção Stan) 🇧🇷" tvg-id="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="🆁 Infantil 🧒|☆ Canais South Park 🇧🇷",South Park (Coleção Stan) 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="" tvg-chno="431" tvg-name="South Park (Coleção Stan) 🇧🇷" tvg-id="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="🆁 South Park 🇧🇷",South Park (Coleção Stan) 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 cuid="" tvg-chno="432" tvg-name="Comedy Central South Park 🇧🇷" tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="🆁 Infantil 🧒|☆ Canais South Park 🇧🇷",Comedy Central South Park 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="" tvg-chno="432" tvg-name="Comedy Central South Park 🇧🇷" tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="🆁 South Park 🇧🇷",Comedy Central South Park 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 --- 📺 𝙆𝙞𝙙𝙨 🧒 🇵🇹🇧🇷
@@ -696,7 +693,6 @@ https://embedcanaisdetv.site/24h-patrulhacanina/tracks-v1a1/mono.m3u8
 #EXTINF:-1 cuid="" tvg-chno="390" tvg-name="Patrulha Canina 🇧🇷" tvg-id="6495c7ad115d060008bf6df0" tvg-logo="https://images.pluto.tv/channels/6495c7ad115d060008bf6df0/colorLogoPNG.png" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Patrulha Canina 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 
-
 #EXTINF:-1 cuid="" tvg-chno="393" tvg-name="Discovery Kids 🇧🇷" tvg-id="DISCOVERYKIDS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Discovery Kids 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-origin=https://embedstream.org
@@ -704,18 +700,20 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6
 https://livst.site/discoverykids/index.m3u8
 
 
-#EXTINF:-1 cuid="" tvg-chno="394" tvg-name="Cartoon Network 🇧🇷" tvg-id="CARTOONNETWORK" tvg-logo="https://logo.iptveditor.com/cartoonnet.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0" http-referrer="https://embedstream.org/" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Cartoon Network 🇧🇷
+#EXTINF:-1 cuid="" tvg-chno="394" tvg-name="Cartoon Network 🇧🇷" tvg-id="CARTOONNETWORK" tvg-logo="https://logo.iptveditor.com/cartoonnet.png" user-agent="" http-referrer="" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Cartoon Network 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-origin=https://embedstream.org
+#EXTVLCOPT:http-referrer=https://embedstream.org/
 https://livst.site/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 cuid="" tvg-chno="396" tvg-name="DreamWorks 🇧🇷" tvg-id="Dreamworks.br" tvg-logo="https://www.dreamworks.com/images/favicon/android-icon-192x192.png" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",DreamWorks 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
 #EXTVLCOPT:http-origin=https://embedcanaistv.com
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://livst.site/dreamworkschannel/video.m3u8
+#https://livst.site/dreamworkschannel/video.m3u8
 
 #EXTINF:-1 cuid="245" tvg-chno="253" tvg-name="Mr. Bean" tvg-id="ES900001SH" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Mr. Bean [ᴘʟᴇx]
-https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 #EXTINF:-1 cuid="" tvg-chno="398" tvg-name="Tom & Jerry 🇧🇷" tvg-logo="https://logo.iptveditor.com/tomejerry.png" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Tom & Jerry 🇧🇷
 http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/index.m3u8
@@ -760,7 +758,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eba189c111bc0008ff59c5/master.m3u
 #EXTINF:-1 cuid="" tvg-chno="410" tvg-name="Kids Club 🇧🇷" tvg-id="66c8cae7fed35b0008580ec0" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",Kids Club 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8cae7fed35b0008580ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 
-#EXTINF:-1 cuid="" tvg-chno="411" tvg-name="TG Junior Kids" tvg-id="608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8" tvg-logo="https://sck.pm/gl9u" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",TG Junior Kids
+#EXTINF:-1 cuid="" tvg-chno="411" tvg-name="TG Junior Kids" tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",TG Junior Kids [ᴏᴛᴛᴇʀᴀ]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 
 #EXTINF:-1 cuid="" tvg-chno="412" tvg-name="O Reino Infantil 🇧🇷" tvg-id="5f5c216df68f920007888315" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ReinoInfantil.webp" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",O Reino Infantil 🇧🇷 [ᴘʟυᴛᴏ]
@@ -1122,51 +1120,51 @@ https://video04.logicahost.com.br/soumaispop/soumaispop/playlist.m3u8
 
 ---
 
-#EXTINF:-1 cuid="392" tvg-chno="392" tvg-name="Sony One Emoções 🇧🇷" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA380003886_20230524T004006SQUARE.png_20230524004007.png" group-title="🆁 Brasil 🇧🇷 🎬",Sony One Emoções 🇧🇷
+#EXTINF:-1 cuid="392" tvg-chno="392" tvg-name="Sony One Emoções 🇧🇷" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA380003886_20230524T004006SQUARE.png_20230524004007.png" group-title="🆁 Brasil Series 🇧🇷 🎬",Sony One Emoções 🇧🇷
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="393" tvg-chno="393" tvg-name="Sony One Emoções 🇧🇷" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA380003886_20230524T004006SQUARE.png_20230524004007.png" group-title="🆁 Brasil 🇧🇷 🎬",Sony One Emoções 🇧🇷
+#EXTINF:-1 cuid="393" tvg-chno="393" tvg-name="Sony One Emoções 🇧🇷" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA380003886_20230524T004006SQUARE.png_20230524004007.png" group-title="🆁 Brasil Series 🇧🇷 🎬",Sony One Emoções 🇧🇷
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
-#EXTINF:-1 cuid="394" tvg-chno="394" tvg-name="Sony One Clássicos 🇧🇷" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/77d108724ea49c113b434b912bc66da1.webp" group-title="🆁 Brasil 🇧🇷 🎬",Sony One Clássicos 🇧🇷
+#EXTINF:-1 cuid="394" tvg-chno="394" tvg-name="Sony One Clássicos 🇧🇷" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/77d108724ea49c113b434b912bc66da1.webp" group-title="🆁 Brasil Series 🇧🇷 🎬",Sony One Clássicos 🇧🇷
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="412" tvg-chno="412" tvg-name="BET 🇧🇷" tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="🆁 Brasil 🇧🇷 🎬",BET 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="412" tvg-chno="412" tvg-name="BET 🇧🇷" tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="🆁 Brasil Series 🇧🇷 🎬",BET 🇧🇷 [ᴘʟυᴛᴏ]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="419" tvg-chno="419" tvg-name="NCIS 🇧🇷" tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="🆁 Brasil 🇧🇷 🎬",NCIS 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="419" tvg-chno="419" tvg-name="NCIS 🇧🇷" tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="🆁 Brasil Series 🇧🇷 🎬",NCIS 🇧🇷 [ᴘʟυᴛᴏ]
 https://bit.ly/429JSAQ?profile=63eb9fdda995710008991c54.m3u8
 
-#EXTINF:-1 cuid="420" tvg-chno="420" tvg-name="CSI Miami 🇧🇷" tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="🆁 Brasil 🇧🇷 🎬",CSI Miami 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="420" tvg-chno="420" tvg-name="CSI Miami 🇧🇷" tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="🆁 Brasil Series 🇧🇷 🎬",CSI Miami 🇧🇷 [ᴘʟυᴛᴏ]
 https://bit.ly/3SkIV58?profile=63eb9c5351f5d000085e8d7e.m3u8
 
-#EXTINF:-1 cuid="420" tvg-chno="420" tvg-name="" tvg-id="" tvg-logo="https://imgur.com/Bav8k4e.png" group-title="🆁 Brasil 🇧🇷 🎬",Urban Series 🇧🇷
+#EXTINF:-1 cuid="420" tvg-chno="420" tvg-name="" tvg-id="" tvg-logo="https://imgur.com/Bav8k4e.png" group-title="🆁 Brasil Series 🇧🇷 🎬",Urban Series 🇧🇷
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-#EXTINF:-1 cuid="404" tvg-chno="404" tvg-name="FilmRise Séries Gratuitas 🇧🇷" tvg-id="FilmRiseSeriesGratis.us" tvg-logo="https://cdn.adrise.tv/image/channels/filmriseclassictv/logo_short.png" group-title="🆁 Brasil 🇧🇷 🎬",FilmRise Séries Gratuitas 🇧🇷
+#EXTINF:-1 cuid="404" tvg-chno="404" tvg-name="FilmRise Séries Gratuitas 🇧🇷" tvg-id="FilmRiseSeriesGratis.us" tvg-logo="https://cdn.adrise.tv/image/channels/filmriseclassictv/logo_short.png" group-title="🆁 Brasil Series 🇧🇷 🎬",FilmRise Séries Gratuitas 🇧🇷
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 
-#EXTINF:-1 cuid="407" tvg-chno="407" tvg-name="Old Series 🇧🇷" tvg-logo="https://www.rd.com/wp-content/uploads/2022/01/classic-tv-shows-opener-with-100th-badge.jpg" group-title="🆁 Brasil 🇧🇷 🎬",Old Series 🇧🇷
+#EXTINF:-1 cuid="407" tvg-chno="407" tvg-name="Old Series 🇧🇷" tvg-logo="https://www.rd.com/wp-content/uploads/2022/01/classic-tv-shows-opener-with-100th-badge.jpg" group-title="🆁 Brasil Series 🇧🇷 🎬",Old Series 🇧🇷
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 
-#EXTINF:-1 cuid="408" tvg-chno="408" tvg-name="Séries Classic 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100_RYYThZ7.png" group-title="🆁 Brasil 🇧🇷 🎬",Séries Classic 🇧🇷
+#EXTINF:-1 cuid="408" tvg-chno="408" tvg-name="Séries Classic 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100_RYYThZ7.png" group-title="🆁 Brasil Series 🇧🇷 🎬",Séries Classic 🇧🇷
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w62678542.m3u8
 
 ---
 
-#EXTINF:-1 cuid="850" tvg-chno="850" tvg-name="Assombrações 🇧🇷" tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="🆁 Brasil Filmes Terror 🇧🇷 😱",Assombrações 👽 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="850" tvg-chno="850" tvg-name="Assombrações 🇧🇷" tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="🆁 Brasil Terror 🇧🇷 😱",Assombrações 👽 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
 
-#EXTINF:-1 cuid="851" tvg-chno="851" tvg-name="Estado Paranormal 🇧🇷" tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="🆁 Brasil Filmes Terror 🇧🇷 😱",Paranormal 👽 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="851" tvg-chno="851" tvg-name="Estado Paranormal 🇧🇷" tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="🆁 Brasil Terror 🇧🇷 😱",Paranormal 👽 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=web&servertSideAds=true&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
 
-#EXTINF:-1 cuid="409" tvg-chno="409" tvg-name="Clube de Terror 🇧🇷" tvg-id="64e501eec630a900088ed0f8" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="🆁 Brasil Filmes Terror 🇧🇷 😱",Clube de Terror 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="409" tvg-chno="409" tvg-name="Clube de Terror 🇧🇷" tvg-id="64e501eec630a900088ed0f8" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="🆁 Brasil Terror 🇧🇷 😱",Clube de Terror 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
 
-#EXTINF:-1 cuid="410" tvg-chno="410" tvg-name="Cine Terror 🇧🇷" tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="🆁 Brasil Filmes Terror 🇧🇷 😱",Cine Terror 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="410" tvg-chno="410" tvg-name="Cine Terror 🇧🇷" tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="🆁 Brasil Terror 🇧🇷 😱",Cine Terror 🇧🇷 [ᴘʟυᴛᴏ]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="411" tvg-chno="411" tvg-name="Terror Trash 🇧🇷" tvg-id="66aa67493a4ad2000806d91b" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="🆁 Brasil Filmes Terror 🇧🇷 😱",Terror Trash 🇧🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="411" tvg-chno="411" tvg-name="Terror Trash 🇧🇷" tvg-id="66aa67493a4ad2000806d91b" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="🆁 Brasil Terror 🇧🇷 😱",Terror Trash 🇧🇷 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=Revolucioniptv&deviceDNT=1
 
 ---
@@ -1686,7 +1684,7 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 cuid="507" tvg-chno="507" tvg-name="Sony One Novelas² 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-title="🆁 Novelas 🌎|☆ Canales 🇪🇸🇲🇽🇺🇸",Sony One Novelas² 🇲🇽 [xɪᴀᴏᴍɪ]
 https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="508" tvg-chno="508" tvg-name="Sony One Novelas³ 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-title="🆁 Novelas 🌎|☆ Canais 🇺🇸",Sony One Novelas³ 🇲🇽 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="508" tvg-chno="508" tvg-name="Sony One Novelas³ 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-title="🆁 Novelas 🌎|☆ Canales 🇪🇸🇲🇽🇺🇸",Sony One Novelas³ 🇲🇽 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #EXTINF:-1 cuid="509" tvg-chno="509" tvg-name="Novelas Turcas 🇺🇸🇲🇽" tvg-id="US27000033D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png" group-title="🆁 Novelas 🌎|☆ Canales 🇪🇸🇲🇽🇺🇸",Novelas Turcas 🇺🇸🇲🇽 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
@@ -1925,65 +1923,65 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
 
 --- 📺 𝙇𝙞𝙛𝙚𝙨𝙩𝙮𝙡𝙚 & 𝘾𝙚𝙡𝙚𝘽𝙧𝙞𝙩𝙞𝙚𝙨 
 
-#EXTINF:-1 cuid="662" tvg-chno="662" tvg-name="BelAiR tv 🇺🇸" tvg-id="643054b1fc3be59477853717-61e9dd3e9da6ee6e0527826d" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300064WS_20241015T035833SQUARE.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",BelAiR tv 🇺🇸
+#EXTINF:-1 cuid="662" tvg-chno="662" tvg-name="BelAiR tv 🇺🇸" tvg-id="643054b1fc3be59477853717-61e9dd3e9da6ee6e0527826d" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300064WS_20241015T035833SQUARE.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",BelAiR tv 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tcl/playlist.m3u8
 
-#EXTINF:-1 cuid="663" tvg-chno="663" tvg-name="The Bob Ross Channel 🇺🇸" tvg-id="USBD700012OA" tvg-logo="https://images.pluto.tv/channels/64b82075e4391c0008c3c1fe/colorLogoPNG.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",The Bob Ross Channel 🇺🇸
+#EXTINF:-1 cuid="663" tvg-chno="663" tvg-name="The Bob Ross Channel 🇺🇸" tvg-id="USBD700012OA" tvg-logo="https://images.pluto.tv/channels/64b82075e4391c0008c3c1fe/colorLogoPNG.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",The Bob Ross Channel 🇺🇸
 https://is.gd/Qhg7Bj?USBD700012OA.m3u8
 
-#EXTINF:-1 cuid="664" tvg-chno="664" tvg-name="5 Minute Crafts 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",5 Minute Crafts 🇺🇸
+#EXTINF:-1 cuid="664" tvg-chno="664" tvg-name="5 Minute Crafts 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",5 Minute Crafts 🇺🇸
 https://bit.ly/3QLfTvi?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 cuid="665" tvg-chno="665" tvg-name="Wellbeing TV 🇫🇷" tvg-id="62f21f7e0f61420008273b9e" tvg-logo="https://images.pluto.tv/channels/62f21f7e0f61420008273b9e/colorLogoPNG.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",Wellbeing TV 🇫🇷 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="665" tvg-chno="665" tvg-name="Wellbeing TV 🇫🇷" tvg-id="62f21f7e0f61420008273b9e" tvg-logo="https://images.pluto.tv/channels/62f21f7e0f61420008273b9e/colorLogoPNG.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Wellbeing TV 🇫🇷 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/62f21f7e0f61420008273b9e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b72fc4e7-6948-11ef-b196-e6200563439a
 
-#EXTINF:-1 cuid="666" tvg-chno="666" tvg-name="Fitmaxx TV 🇨🇱" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",Fitmaxx TV 🇨🇱
+#EXTINF:-1 cuid="666" tvg-chno="666" tvg-name="Fitmaxx TV 🇨🇱" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Fitmaxx TV 🇨🇱
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 
-#EXTINF:-1 cuid="667" tvg-chno="667" tvg-name="Bravo Vault 🇺🇸" tvg-id="6549316d2c1d330008631496" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",Bravo Vault 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="667" tvg-chno="667" tvg-name="Bravo Vault 🇺🇸" tvg-id="6549316d2c1d330008631496" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Bravo Vault 🇺🇸 [ᴘʟυᴛᴏ]
 https://bit.ly/3LzIGz9?6549316d2c1d330008631496.m3u8
 
-#EXTINF:-1 cuid="668" tvg-chno="668" tvg-name="AWE 🇺🇸" tvg-id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us" tvg-logo="https://logo.iptveditor.com/awe.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",AWE 🇺🇸
+#EXTINF:-1 cuid="668" tvg-chno="668" tvg-name="AWE 🇺🇸" tvg-id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us" tvg-logo="https://logo.iptveditor.com/awe.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",AWE 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
 
-#EXTINF:-1 cuid="669" tvg-chno="669" tvg-name="Superyacht tv 🇺🇸" tvg-logo="https://sck.pm/ctcN" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",Superyacht tv 🇺🇸
+#EXTINF:-1 cuid="669" tvg-chno="669" tvg-name="Superyacht tv 🇺🇸" tvg-logo="https://sck.pm/ctcN" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Superyacht tv 🇺🇸
 https://sy.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 cuid="670" tvg-chno="670" tvg-name="Tastemade Home 🇺🇸" tvg-id="USBC3200022W6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240910T003655SQUARE.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Lifestyles Channels 🛍️",Tastemade Home 🇺🇸
+#EXTINF:-1 cuid="670" tvg-chno="670" tvg-name="Tastemade Home 🇺🇸" tvg-id="USBC3200022W6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240910T003655SQUARE.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Tastemade Home 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
 
 --- 📺 𝘾𝙚𝙡𝙚𝘽𝙧𝙞𝙩𝙞𝙚𝙨
 
-#EXTINF:-1 cuid="673" tvg-chno="673" tvg-name="¡HOLA! Play 🇪🇸" tvg-id="ES:.¡HOLA!.Play.es" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",¡HOLA! Play 🇪🇸
+#EXTINF:-1 cuid="673" tvg-chno="673" tvg-name="¡HOLA! Play 🇪🇸" tvg-id="ES:.¡HOLA!.Play.es" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",¡HOLA! Play 🇪🇸
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
-#EXTINF:-1 cuid="677" tvg-chno="677" tvg-name="ET Live Entertainment Tonight" tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="https://images.pluto.tv/channels/62e91da1f07afa0007ffccfc/colorLogoPNG.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",ET Live Entertainment Tonightᶠᴴᴰ 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="677" tvg-chno="677" tvg-name="ET Live Entertainment Tonight" tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",ET Live Entertainment Tonightᶠᴴᴰ 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc
-#EXTINF:-1 cuid="677" tvg-chno="677" tvg-name="ET Live Entertainment Tonight" tvg-id="USBA3700002JF" tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",ET Live Entertainment Tonightᶠᴴᴰ 🇺🇸
+#EXTINF:-1 cuid="677" tvg-chno="677" tvg-name="ET Live Entertainment Tonight" tvg-id="USBA3700002JF" tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",ET Live Entertainment Tonightᶠᴴᴰ 🇺🇸
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsNews
 
-#EXTINF:-1 cuid="674" tvg-chno="674" tvg-name="young hollywood tv 🇺🇸" tvg-id="Young.Hollywood.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Young_Hollywood_logo.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",Young Hollywood tv 🇺🇸
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="675" tvg-chno="675" tvg-name="Sidewalks 🇺🇸" tvg-id="30ASidewalks.us" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2021/03/Sidewalks-Entertainment-logo-size-500.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",Sidewalks 🇺🇸
-https://30a-tv.com/sidewalks.m3u8
-
-#EXTINF:-1 cuid="676" tvg-chno="676" tvg-name="Hollywire 🇺🇸" tvg-id="USBC2400015DO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400015DO_20240520T214806SQUARE.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",Hollywire 🇺🇸
+#EXTINF:-1 cuid="676" tvg-chno="676" tvg-name="Hollywire 🇺🇸" tvg-id="USBC2400015DO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400015DO_20240520T214806SQUARE.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Hollywire 🇺🇸
 https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8
 
-#EXTINF:-1 cuid="678" tvg-chno="678" tvg-name="GQ 🇺🇸" tvg-id="UK:.GQ.en" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Gq-Logo-PNG-Image.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",GQ 🇺🇸
+#EXTINF:-1 cuid="674" tvg-chno="674" tvg-name="young hollywood tv 🇺🇸" tvg-id="Young.Hollywood.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Young_Hollywood_logo.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Young Hollywood tv 🇺🇸
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="675" tvg-chno="675" tvg-name="Sidewalks 🇺🇸" tvg-id="30ASidewalks.us" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2021/03/Sidewalks-Entertainment-logo-size-500.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Sidewalks 🇺🇸
+https://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:-1 cuid="678" tvg-chno="678" tvg-name="GQ 🇺🇸" tvg-id="UK:.GQ.en" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Gq-Logo-PNG-Image.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",GQ 🇺🇸
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991137
 
-#EXTINF:-1 cuid="679" tvg-chno="679" tvg-name="Vogue 🇺🇸" tvg-id="UK:.Vogue.en" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Vogue-Logo.png" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",Vogue 🇺🇸
+#EXTINF:-1 cuid="679" tvg-chno="679" tvg-name="Vogue 🇺🇸" tvg-id="UK:.Vogue.en" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Vogue-Logo.png" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Vogue 🇺🇸
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
 
-#EXTINF:-1 cuid="680" tvg-chno="680" tvg-name="Popstar! TV 🇺🇸" tvg-id="plex.tv.Popstar!.TV.plex" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/popstartv.webp" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",Popstar! TV 🇺🇸
+#EXTINF:-1 cuid="680" tvg-chno="680" tvg-name="Popstar! TV 🇺🇸" tvg-id="plex.tv.Popstar!.TV.plex" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/popstartv.webp" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Popstar! TV 🇺🇸
 https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
 
-#EXTINF:-1 cuid="681" tvg-chno="681" tvg-name="Popcorn 🇫🇷" tvg-id="FRBD4100002R7" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Popcorn.webp" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",Popcorn 🇫🇷
+#EXTINF:-1 cuid="681" tvg-chno="681" tvg-name="Popcorn 🇫🇷" tvg-id="FRBD4100002R7" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Popcorn.webp" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Popcorn 🇫🇷
 https://is.gd/56CFLD?FRBD4100002R7.m3u8
 
-#EXTINF:-1 cuid="682" tvg-chno="682" tvg-name="Life Minute TV 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LifeMinute.webp" group-title="🆁 Celebrities & Lifestyles 🌎|☆ Celebrities Channels 🤩",Life Minute TV 🇺🇸
+#EXTINF:-1 cuid="682" tvg-chno="682" tvg-name="Life Minute TV 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LifeMinute.webp" group-title="🆁 Lifestyles & Celebrities 🛍️🤩",Life Minute TV 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lgau/playlist.m3u8
 
 --- 📺 𝙎𝙚𝙧𝙞𝗲𝙨 & 𝙏𝙫 𝙎𝙝𝙤𝙬𝙨
