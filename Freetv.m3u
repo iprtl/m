@@ -1,9 +1,10 @@
+#EXTM3U url-tvg="https://tvpass.org/epg.xml,https://bit.ly/RevolutionEpg,https://bit.ly/Brazilepg,https://www.tdtchannels.com/epg/TV.xml.gz,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz"
 
 
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-04-18 11:15:11 GMT+7 "
+# (●) Last Update: 2025-04-10 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: Null
 
@@ -44,9 +45,6 @@ http://185.57.68.33:8091/232/playlist.m3u8
 //Collected by @inspirationlinks
 //========================================================================
 
-
-#EXTM3U url-tvg="https://tvpass.org/epg.xml,https://bit.ly/RevolutionEpg,https://bit.ly/Brazilepg,https://www.tdtchannels.com/epg/TV.xml.gz,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz"
-
 --- 🌈🆁™  𝙍𝙏𝙋
 
 #EXTINF:-1 cuid="1" tvg-name="Tv Portuguesa 🇵🇹🇧🇷" tvg-logo="https://portaltvportuguesa.com.br/wp-content/uploads/2022/08/portaltv_b1_w.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",Tv Portuguesa 🇵🇹🇧🇷
@@ -85,7 +83,7 @@ http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=107445&extension=ts&play_token=L79jum6Yuv
 
-#EXTINF:-1 cuid="10" tvg-name="RTP Açores 🇵🇹 [Don't Work OTT]" tvg-id="RTP.Açores.pt" user-agent="Wink/1.31.1" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",RTP Açores 🇵🇹
+#EXTINF:-1 cuid="10" tvg-name="RTP Açores 🇵🇹 [Don't Work OTT]" tvg-id="RTP.Açores.pt" user-agent="Wink/1.31.1" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",RTP Açores 🇵🇹 [Don't Work OTT]
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 http://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 
@@ -172,14 +170,14 @@ https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 cuid="26" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="🌈🆁™News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="🌈🆁™News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDQ6NDE6MjEgUE0maGFzaF92YWx1ZT1ER1RNbEpQcXV6eEFrOGowU2lLYVNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmZhNzlmOWUtYTY4Mi00YmExLWFmMGItNjQ0ZTg2Mzk0MDg2/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDEyOjU3OjQzIFBNJmhhc2hfdmFsdWU9alZiZkNFQXRaaTFIVm5Obm85M0Vudz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBiOWJiZGU0LWE1OGYtNGMxOC1hMzNmLWRlYzRjNzZiYjg1YQ==/
 
 --- 🌈🆁™ 
 
 #EXTINF:-1 cuid="41" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://pt.euronews.com/favicon-192x192.png" group-title="🌈🆁™News 🇵🇹🇧🇷",Euronews 🇵🇹
 https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
 #EXTINF:-1 cuid="42" tvg-name="Euronews 🇵🇹" tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="🌈🆁™News 🇵🇹🇧🇷",Euronews 🇵🇹
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDQ6NDE6MjEgUE0maGFzaF92YWx1ZT1ER1RNbEpQcXV6eEFrOGowU2lLYVNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmZhNzlmOWUtYTY4Mi00YmExLWFmMGItNjQ0ZTg2Mzk0MDg2/
 
 #EXTINF:-1 cuid="60" tvg-name="Record News 🇧🇷" tvg-id="RECORDNEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="🌈🆁™News 🇵🇹🇧🇷",Record News 🇧🇷 [ᴏᴛᴛᴇʀᴀ]
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
@@ -223,7 +221,7 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #http://conexao-vs.live/BBB1/index.m3u8
 
 #EXTINF:-1 cuid="34" tvg-name="BBB Mosaico 🇧🇷" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-01/22303531LCDLF5logo-aa6f66.png" group-title="🌈🆁™Secret Story 👁️🌎",La Casa de los Famosos All Stars 🇲🇽
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/146252.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/146252.ts
 
 #EXTINF:-1 cuid="35" tvg-name="RCN La Casa de los Famosos 🇨🇴" tvg-id="RCN.co" tvg-logo="https://imagenes.noticiasrcn.com/cms/2025/02/03145405/cambio-de-horario-de-la-casa-de-los-famosos-colombia-2025-el-martes-4-de-febrero-de-2025.webp" group-title="🌈🆁™Secret Story 👁️🌎",RCN La Casa de los Famosos 🇨🇴
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -242,7 +240,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655f30c19d5ac4000816e
 https://d3c70waf14qui9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qt977i5mpmr0b-ssai-prd/master.m3u8
 
 #EXTINF:-1 cuid="39" tvg-name="Gran Hermano" tvg-id="" tvg-logo="https://ghglobal.ar/favicon.png" group-title="🌈🆁™Secret Story 👁️🌎",Gran Hermano 🇦🇷
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/143227.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/143227.m3u8
 
 --- 🌈🆁™ 📺
 
@@ -608,7 +606,7 @@ https://futebolhoje.org/discoverykids/video.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-origin=https://embedstream.org
 #EXTVLCOPT:http-referrer=https://embedstream.org/
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96385.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96385.ts
 https://futebolhoje.org/cartoonnetwork/video.m3u8
 
 #EXTINF:-1 cuid="177" tvg-name="DreamWorks 🇧🇷" tvg-id="Dreamworks.br" tvg-logo="https://www.dreamworks.com/images/favicon/android-icon-192x192.png" group-title="🌈🆁™Kids 🧒🌎",DreamWorks 🇧🇷
@@ -970,7 +968,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59227&extensio
 --- 🌈🆁™ 
 
 #EXTINF:-1 cuid="287" tvg-name="HBO Signature 🇧🇷" tvg-id="HBOSIGNATURE" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="🌈🆁™Brasil 🇧🇷",HBO Signature 🇧🇷
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.ts
 #EXTINF:-1 cuid="288" tvg-name="HBO Signature 🇧🇷" tvg-id="HBOSIGNATURE" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="🌈🆁™Brasil 🇧🇷",HBO Signature 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-origin=https://embedstream.org
@@ -1444,58 +1442,60 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 http://78.128.125.60:9981/play/a00o/index.m3u8
 
 
-#EXTINF:-1 cuid="414" tvg-name="La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="414" tvg-name="La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="La.1.HD.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
-#EXTINF:-1 cuid="415" tvg-name="La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="415" tvg-name="La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 cuid="416" tvg-name="La 1 ᶠᴴᴰ 🇪🇸" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 ᶠᴴᴰ 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 --- 🌈🆁™ 
 
-#EXTINF:-1 cuid="417" tvg-name="La 2 ᶠᴴᴰ 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="417" tvg-name="La 2 ᶠᴴᴰ 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
 #EXTINF:-1 cuid="418" tvg-name="La 2 ᶠᴴᴰ 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 cuid="419" tvg-name="La 2 ᶠᴴᴰ 🇪🇸" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 cuid="420" tvg-name="La 2 ᶠᴴᴰ 🇪🇸" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸
+#EXTINF:-1 cuid="420" tvg-name="La 2 ᶠᴴᴰ 🇪🇸" tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 --- 🌈🆁™ 
 
-#EXTINF:-1 cuid="421" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="🌈🆁™Espanha 🇪🇸",Antena 3 🇪🇸
+#EXTINF:-1 cuid="421" tvg-name="Antena 3 🇪🇸" tvg-id="Antena3.TV" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="🌈🆁™Espanha 🇪🇸",Antena 3 🇪🇸
 http://185.189.225.150:85/Antena3HD/index.m3u8
 
-#EXTINF:-1 cuid="422" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.es" tvg-logo="https://logo.iptveditor.com/cuatro.png" group-title="🌈🆁™Espanha 🇪🇸",Cuatro 🇪🇸
+#EXTINF:-1 cuid="422" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.TV" tvg-logo="https://logo.iptveditor.com/cuatro.png" group-title="🌈🆁™Espanha 🇪🇸",Cuatro 🇪🇸
 http://185.189.225.150:85/CuatroHD/index.m3u8
 
-#EXTINF:-1 cuid="423" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="https://logo.iptveditor.com/telecinco.png" group-title="🌈🆁™Espanha 🇪🇸",Telecinco 🇪🇸
+#EXTINF:-1 cuid="423" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.TV" tvg-logo="https://logo.iptveditor.com/telecinco.png" group-title="🌈🆁™Espanha 🇪🇸",Telecinco 🇪🇸
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 
-#EXTINF:-1 cuid="424" tvg-name="La Sexta 🇪🇸" tvg-id="laSexta.es" tvg-logo="https://logo.iptveditor.com/lasexta.png" group-title="🌈🆁™Espanha 🇪🇸",La Sexta 🇪🇸
+#EXTINF:-1 cuid="424" tvg-name="La Sexta 🇪🇸" tvg-id="LaSexta.TV" tvg-logo="https://logo.iptveditor.com/lasexta.png" group-title="🌈🆁™Espanha 🇪🇸",La Sexta 🇪🇸
 http://185.189.225.150:85/LaSexta/index.m3u8
 
 --- 🌈🆁™  CONTEUDO INDISPONIVEL NA FREETV
 
-#EXTINF:-1 cuid="425" tvg-name="BeMad" tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="🌈🆁™Espanha 🇪🇸",BeMad
-#https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236492.m3u8
+#EXTINF:-1 cuid="425" tvg-name="Hollywood" tvg-id="Hollywood.es" tvg-logo="https://logo.iptveditor.com/hollywood.png" group-title="🌈🆁™Espanha 🇪🇸",Hollywood 🇪🇸
+http://185.189.225.150:85/Hollywood/index.m3u8
 #EXTINF:-1 cuid="426" tvg-name="BeMad" tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="🌈🆁™Espanha 🇪🇸",BeMad
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236493.m3u8
-#EXTINF:-1 cuid="427" tvg-name="Divinity" tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="🌈🆁™Espanha 🇪🇸",Divinity
-#https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236494.m3u8
+#EXTINF:-1 cuid="427" tvg-name="Mega.TV" tvg-id="Mega.TV" tvg-logo="https://logo.iptveditor.com/mega.png" group-title="🌈🆁™Espanha 🇪🇸",Mega 🇪🇸
+http://185.189.225.150:85/mega/index.m3u8
+
+
 #EXTINF:-1 cuid="428" tvg-name="Divinity" tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="🌈🆁™Espanha 🇪🇸",Divinity
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236495.m3u8
-#EXTINF:-1 cuid="429" tvg-name="DKiss" tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="🌈🆁™Espanha 🇪🇸",DKiss
-#https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236496.m3u8
+#EXTINF:-1 cuid="429" tvg-name="AXN" tvg-id="AXN.es" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="🌈🆁™Espanha 🇪🇸",AXN 🇪🇸
+http://185.189.225.150:85/AXN/index.m3u8
 #EXTINF:-1 cuid="430" tvg-name="DKiss" tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="🌈🆁™Espanha 🇪🇸",DKiss
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236497.m3u8
-#EXTINF:-1 cuid="431" tvg-name="Dmax" tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="🌈🆁™Espanha 🇪🇸",Dmax
-#https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236498.m3u8
+#EXTINF:-1 cuid="431" tvg-name="Odisea" tvg-id="Odisea.es" tvg-logo="https://logo.iptveditor.com/odisea.png" group-title="🌈🆁™Espanha 🇪🇸",Odisea 🇪🇸
+http://185.189.225.150:85/odisea/index.m3u8
 #EXTINF:-1 cuid="432" tvg-name="Dmax" tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="🌈🆁™Espanha 🇪🇸",Dmax
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236499.m3u8
-#EXTINF:-1 cuid="433" tvg-name="El Toro TV" tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" group-title="🌈🆁™Espanha 🇪🇸",El Toro TV
-#https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236500.m3u8
+#EXTINF:-1 cuid="433" tvg-name="" tvg-id="Syfy.es" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="🌈🆁™Espanha 🇪🇸",SYFY 🇪🇸
+http://185.189.225.150:85/syfy/index.m3u8
 #EXTINF:-1 cuid="434" tvg-name="El Toro TV" tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" group-title="🌈🆁™Espanha 🇪🇸",El Toro TV
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236501.m3u8
 #EXTINF:-1 cuid="435" tvg-name="Energy" tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="🌈🆁™Espanha 🇪🇸",Energy
@@ -1514,10 +1514,12 @@ http://185.189.225.150:85/LaSexta/index.m3u8
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236512.m3u8
 #EXTINF:-1 cuid="442" tvg-name="Neox" tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="🌈🆁™Espanha 🇪🇸",Neox
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236513.m3u8
-#EXTINF:-1 cuid="443" tvg-name="Nova" tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="🌈🆁™Espanha 🇪🇸",Nova
-#https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236514.m3u8
+#EXTINF:-1 cuid="443" tvg-name="Nova" tvg-id="Nova.TV" tvg-logo="https://logo.iptveditor.com/nova.png" group-title="🌈🆁™Espanha 🇪🇸",Nova 🇪🇸
+http://185.189.225.150:85/nova/index.m3u8
 #EXTINF:-1 cuid="444" tvg-name="Nova" tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="🌈🆁™Espanha 🇪🇸",Nova
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/236515.m3u8
+
+
 #EXTINF:-1 cuid="445" tvg-name="MOVISTAR COMEDIA HEVC" tvg-id="M+ Comedia" tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="🌈🆁™Espanha 🇪🇸",MOVISTAR COMEDIA HEVC
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/12457.m3u8
 #EXTINF:-1 cuid="446" tvg-name="MOVISTAR COMEDIA" tvg-id="M+ Comedia" tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="🌈🆁™Espanha 🇪🇸",MOVISTAR COMEDIA
@@ -2575,7 +2577,7 @@ https://new.m3u8.one/espn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://embedcanaistv.com/
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96367.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96367.ts
 https://futebolhoje.org/espn1/video.m3u8
 
 
@@ -2585,7 +2587,7 @@ https://new.m3u8.one/espn2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://embedcanaistv.com/
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96364.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96364.ts
 https://futebolhoje.org/espn2/video.m3u8
 
 
@@ -2611,7 +2613,7 @@ https://futebolhoje.org/espn4/video.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://embedcanaistv.com/
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96369.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96369.ts
 https://futebolhoje.org/espn5/video.m3u8
 
 #EXTINF:-1 cuid="791" tvg-name="ESPN 6 🇧🇷" tvg-id="ESPN.6.br" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="🌈🆁™Liga Betclic 🌍",ESPN 6 🇧🇷
@@ -2623,7 +2625,7 @@ https://futebolhoje.org/espn6/video.m3u8
 --- 🌈🆁™ 
 
 #EXTINF:-1 cuid="824" tvg-name="Goltv 🇪🇨" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="🌈🆁™Liga Betclic 🌍",Goltv 🇪🇨
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.ts
 #EXTINF:-1 cuid="825" tvg-name="Goltv 🇺🇸" tvg-id="GOL.TV.uy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="🌈🆁™Liga Betclic 🌍",Goltv 🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8
 #EXTINF:-1 cuid="826" tvg-name="Goltv 🇺🇸" tvg-id="GOL.TV.uy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="🌈🆁™Liga Betclic 🌍",Goltv 🇺🇸
@@ -2640,10 +2642,10 @@ http://pro-solut-xi.eu:5436//live/live:dinjo79/SkypeDinjo@telon.al/16498.ts
 #EXTINF:-1 cuid="931" tvg-name="Eleven sports 3 🇵🇱" tvg-id="Eleven.Sports.3.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="🌈🆁™Liga Betclic 🌍",Eleven sports 3 🇵🇱
 http://pro-solut-xi.eu:5436//live/live:dinjo79/SkypeDinjo@telon.al/16499.m3u8
 
-#EXTINF:-1 cuid="934" tvg-name="" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv2.png" group-title="🌈🆁™Liga Betclic 🌍",Sportunga 2 🇵🇹
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.m3u8
-#EXTINF:-1 cuid="935" tvg-name="Ring 🇧🇬" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="🌈🆁™Liga Betclic 🌍",Sportunga 3 🇵🇹
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.m3u8
+#EXTINF:-1 cuid="934" tvg-name="" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv2.png" group-title="🌈🆁™Liga Betclic 🌍",Sportunga 2 🇵🇹 [Test]
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.ts
+#EXTINF:-1 cuid="935" tvg-name="Ring 🇧🇬" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="🌈🆁™Liga Betclic 🌍",Sportunga 3 🇵🇹 [Test]
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.ts
 
 #EXTINF:-1 cuid="936" tvg-name="Sport 1 🇱🇻" tvg-logo="https://ltkanalai.eu/wp-content/uploads/2015/06/sport1-logo.png" group-title="🌈🆁™Liga Betclic 🌍",Sport 1 🇱🇻
 http://ua.1usd.tv:34000/ch676/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtlcvKwROU6CMGQ3mZCgNlO2QbUCkLKgHWx0YTt_SHm5o
@@ -2764,8 +2766,8 @@ http://ua.1usd.tv:34000/ch765/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtj
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/12380.m3u8
 #EXTINF:-1 cuid="815" tvg-name="LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/JqW00RS/LIGBAR.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",LA LIGA TV BAR 1 [LIVE-EVENT]
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/12354.m3u8
-#EXTINF:-1 cuid="816" tvg-name="MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]" tvg-id="M+ Liga de Campeones 2 UHD" tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/150031.m3u8
+#EXTINF:-1 cuid="816" tvg-name="MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]" tvg-id="M+ Liga de Campeones 2 UHD" tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",M+ La Liga Campeones
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/150031.ts
 #EXTINF:-1 cuid="817" tvg-name="MOVISTAR LIGA CAMPEONES HEVC" tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",MOVISTAR LIGA CAMPEONES HEVC
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV/12459.m3u8
 
@@ -2785,14 +2787,14 @@ https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 --- 🌈🆁™  SPORTS HISPANICOS
 
 #EXTINF:-1 cuid="822" tvg-name="cLARO" tvg-id="CLAROSPORTS.uy" tvg-logo="https://logo.iptveditor.com/clarosports.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",Claro Sports
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/94803.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/94803.m3u8
 
 #EXTINF:-1 cuid="823" tvg-name="" tvg-id="TyC.Sports.International(TYCS).co" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",Tyc Sports 🇦🇷
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149932.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149932.m3u8
 #https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12109&live=1
 
 #EXTINF:-1 cuid="827" tvg-name="ESPN.Deportes" tvg-id="ESPN.Deportes.us" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",ESPN Deportes 🇲🇽
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149901.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149901.m3u8
 
 #EXTINF:-1 cuid="828" tvg-name="Win Sports+" tvg-id="Win Sports+" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/win-sportsplus-columbia.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",Win Sports+ 🇨🇴
 https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8
@@ -2801,7 +2803,7 @@ https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8
 https://windnew.newkso.ru/wind/premium391/mono.m3u8
 
 --- 🌈🆁™  SPORTS 🇺🇸🇬🇧🇨🇦
@@ -2829,9 +2831,11 @@ https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
 
 --- 🌈🆁™ EUROSPORT
 
-#EXTINF:-1 cuid="834" tvg-name="Eurosport 1 🇬🇧🇷🇺" tvg-id="Eurosport.1.HD.uk" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",Eurosport 1 🇬🇧🇷🇺
+#EXTINF:-1 cuid="834" tvg-name="Eurosport 1 🇬🇧🇷🇺" tvg-id="Eurosport.es" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",Eurosport 1 🇬🇧🇷🇺
+http://185.189.225.150:85/Eurosport1/index.m3u8
 http://ua.1usd.tv:34000/ch039/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtvTy2FD1SrpqEspEPTmPoPZJzc13gL8A-cfK0HP8mcgb
-#EXTINF:-1 cuid="835" tvg-name="Eurosport 2 🇬🇧🇷🇺" tvg-id="Eurosport.2.HD.uk" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",Eurosport 2 🇬🇧🇷🇺
+#EXTINF:-1 cuid="835" tvg-name="Eurosport 2 🇬🇧🇷🇺" tvg-id="Eurosport.2.es" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",Eurosport 2 🇬🇧🇷🇺
+http://185.189.225.150:85/Eurosport2/index.m3u8
 http://ua.1usd.tv:34000/ch071/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtpADdXEuHDYBBU0h3k6grHPJpGHuEvcBopOb6q4pMgNJ
 
 --- 🌈🆁™ NBA
@@ -2885,7 +2889,7 @@ https://tvpass.org/live/tsn5/sd
 --- 🌈🆁™ TVPASS
 
 #EXTINF:-1 cuid="850" tvg-name="TUDN 🇺🇸" tvg-id="TUDN.us" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",TUDN 🇺🇸
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149920.m3u8
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149920.m3u8
 
 #EXTINF:-1 cuid="851" tvg-name="NBA TV 🇺🇸" tvg-id="NBA.TV.USA.us" tvg-logo="https://logo.iptveditor.com/nbatv.png" group-title="🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",NBA TV 🇺🇸
 https://tvpass.org/live/NBATV/sd
@@ -5730,6 +5734,8 @@ http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:-1 cuid="1783" tvg-name="Babestation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png" group-title="🌈🆁™Erotic 🔥💥",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
+#Inspi🌈🆁ation Links © 2025 All rights reserved
+
 
 
 
@@ -5838,4 +5844,3 @@ http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_26
 
 
 #EXTM3U billed-msg="🌈🆁™Source Playlist [github.com/inspirationlinks] | [jerrymoz.wordpress.com] 😎"
-#Inspi🌈🆁ation Links © 2025 All rights reserved
