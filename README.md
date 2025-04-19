@@ -49,9 +49,7 @@ https://bit.ly/InspirationFreetv
 
 ![OTT Navigator screenshot](/LogosTv/OTTNavigator.png "OTT Navigator screenshot")
 
-[👉 🖧 Download Latest Version Original OTTNavigator ](https://www.mediafire.com/file/x2kx71b9w054dl2/Latest_OTTN_Version.apk/file)
-
-[👉 🖧 Download OTT PlayStore](https://play.google.com/store/apps/details?id=appnovatica.stbp)
+[👉 🖧 Download Latest Version Original OTTNavigator ](https://app.ott-nav.com/dist/std/latest.apk)
 
 Depois de instalado, faça esta Configuração, para ter a lista Inspiration Freetv no OTTNavigator.
 
