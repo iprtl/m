@@ -207,6 +207,8 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://embedtv-0.icu/
 #EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
 https://s2.100mundial.icu/fontes/nossoplayer/bbb2.m3u8
 
 #EXTINF:-1 cuid="34" tvg-name="BBB Mosaico 🇧🇷" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-01/22303531LCDLF5logo-aa6f66.png" group-title="🌈🆁™Secret Story 👁️🌎",La Casa de los Famosos All Stars 🇲🇽
@@ -1716,7 +1718,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
 #EXTINF:-1 cuid="498" tvg-name="Azteca Cinema 🇲🇽" tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://logo.iptveditor.com/aztecacinema.png" group-title="🌈🆁™Hispânicos 🇨🇺🇨🇴🇲🇽",Azteca Cinema 🇲🇽
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 cuid="499" tvg-name="Azteca Internacionalᶠᴴᴰ 🇲🇽" tvg-id="646cce4d1593940008a33f09" tvg-logo="https://logo.iptveditor.com/aztecainternacional.png" group-title="🌈🆁™Hispânicos 🇨🇺🇨🇴🇲🇽",Azteca Internacionalᶠᴴᴰ 🇲🇽
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
