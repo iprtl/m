@@ -2884,7 +2884,7 @@ http://185.236.183.118:14191/espn4fhd
 https://onplaytv.net/espn4/video.m3u8
 
 
-#EXTINF:-1 cuid="790" tvg-name="ESPN 5 🇧🇷" tvg-id="ESPN.5.br" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="🌈🆁™Liga Betclic 🌍",ESPN 5 🇧🇷
+#EXTINF:-1 cuid="790" tvg-name="ESPN 5 🇧🇷" tvg-id="ESPN.5.br" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="🌈🆁™Liga Betclic 🌍",ESPN 5 🏍 🇧🇷
 http://185.236.183.118:14214/espn5hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://embedcanaistv.com
@@ -2903,7 +2903,7 @@ https://onplaytv.net/espn6/video.m3u8
 
 #EXTINF:-1 cuid="824" tvg-name="Goltv 🇪🇨" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="🌈🆁™Liga Betclic 🌍",Goltv 🇪🇨
 http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.m3u8
-#EXTINF:-1 cuid="825" tvg-name="Goltv 🇺🇸" tvg-id="GOL.TV.uy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="🌈🆁™Liga Betclic 🌍",Goltv 🇺🇸
+#EXTINF:-1 cuid="825" tvg-name="Goltv 🇺🇸" tvg-id="Canal.GolTV.Latinoamérica.sv" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="🌈🆁™Liga Betclic 🌍",Goltv 🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8
 
 #EXTINF:-1 cuid="826" tvg-name="Dazn 1" tvg-id="DAZN.1.pt" tvg-logo="https://logo.iptveditor.com/dazn1.png" group-title="🌈🆁™Liga Betclic 🌍",Dasse1 🇵🇹
@@ -2998,12 +2998,10 @@ https://onplaytv.net/sportv3/video.m3u8
 
 #EXTINF:-1 cuid="800" tvg-name="Premiere Clubes 🇧🇷" tvg-id="PREMIERECLUBES" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",Premiere Clubes 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://embed.tvcdn.space
-#EXTVLCOPT:http-referrer=https://embed.tvcdn.space/
-https://abc3orwaaaaaaaamgyske232j4one.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/s620lgcejq/out/v1/f461147d7113450f8edfe0fc38bd9307/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-http://zutufo.in:80/live/781487031/K788a6763d/21269._m3u8
+#EXTVLCOPT:http-origin=https://embedcanaistv.com/
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/premiereclubes/video.m3u8
 http://185.246.208.74:14870/Premiere5
-https://new.ejaculacaoretardada.site/pre1/index.m3u8
 #EXTINF:-1 cuid="801" tvg-name="Premiere" tvg-id="PREMIERECLUBES" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",Premiere 🇧🇷
 http://185.236.183.118:14508/Premierefhd
 http://185.246.208.74:14870/Premiere2
@@ -3025,7 +3023,7 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 --- 🌈🆁™ 𝘿𝙀𝙎𝙋𝙊𝙍𝙏𝙊 🇪🇸
 
-#EXTINF:-1 cuid="805" tvg-name="Nosso Futebol" tvg-id="" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/nossofutebol.webp" group-title="🌈🆁™Sports 🇧🇷🇪🇸",Nosso Futebol 🇧🇷
+#EXTINF:-1 cuid="805" tvg-name="Nosso Futebol" tvg-id="" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_298,h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",Nosso Futebol 🇧🇷
 http://185.236.183.118:14657/NossoFutebolhd
 http://15.235.9.200:14069/NossoFutebolhd
 http://185.236.183.118:14336/NossoFutebolhd
@@ -3068,7 +3066,7 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://ztnr.rtve.es/ztnr/6712431.m3u8
 
 #EXTINF:-1 cuid="820" tvg-name="ETB Deportes 🇪🇸" tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="🌈🆁™Sports 🇧🇷🇪🇸",ETB Deportes 🇪🇸
-https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
+###https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 
 #EXTINF:-1 cuid="821" tvg-name="Mundo Náutica 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/mundonautica.webp" group-title="🌈🆁™Sports 🇧🇷🇪🇸",ETB Deportes 🇪🇸
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
