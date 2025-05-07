@@ -1,7 +1,7 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-05-06 11:15:11 GMT+7 "
+# (●) Last Update: 2025-05-07 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: Null
 
@@ -25,12 +25,11 @@ https://jerrymoz.wordpress.com/wp-content/uploads/2024/03/qr_paypal.png
 
 #EXTM3U 
 
-#EXTM3U x-tvg-url="https://bit.ly/RevolutionEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://bit.ly/Brazilepg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://bit.ly/Plutogz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://bit.ly/Samsunggz" refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
 --- 🌈🆁™  𝙍𝙏𝙋
@@ -41,7 +40,7 @@ https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 #EXTINF:-1 cuid="2" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" user-agent="Wink/1.31.1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",RTP Internacional 🇵🇹
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 https://github.com/inspirationlinks/m3u/raw/live/Streams/RTPi.m3u8
-http://78.128.125.60:9981/play/a00k/index.m3u8
++http://78.128.125.60:9981/play/a00k/index.m3u8
 
 
 #EXTINF:-1 cuid="3" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",RTP 1 🇵🇹
@@ -98,6 +97,7 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
 
 #EXTINF:-1 cuid="14" tvg-name="SIC 🇵🇹" tvg-id="SIC.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",SIC 🇵🇹
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
++http://fonte.lista.luxe:80/live/iptvgood/101011/7360.m3u8
 
 #EXTINF:-1 cuid="15" tvg-name="SIC Noticias 🇵🇹" tvg-id="SIC.Notícias.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="🌈🆁™ News 🇵🇹🇧🇷",SIC Noticias 🇵🇹
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
@@ -174,8 +174,6 @@ http://pfsv.io:80//live/6783460679/1233/303184.ts
 https://s2.fazoeli.fun/fontes/nossoplayer/bbb2.m3u8
 
 
-
-
 #EXTINF:-1 cuid="34" tvg-name="BBB Mosaico 🇧🇷" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-01/22303531LCDLF5logo-aa6f66.png" group-logo="https://cdn-icons-png.freepik.com/256/5695/5695545.png" group-title="🌈🆁™ Secret Story 👁️🌎",La Casa de los Famosos All Stars 🇲🇽
 http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/146252.m3u8
 http://nxt.plus:8080//live/olmos/1234guz/252301.m3u8
@@ -202,7 +200,7 @@ http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/14322
 
 --- 🌈🆁™ CANAIS LEGENDADOS BR
 
-#EXTINF:-1 cuid="40" tvg-name="USA Network 🇧🇷" tvg-id="USA" tvg-logo="https://www.usanetwork.com/generetic/generated/images/22cb4c7e029716aa34d858d6f9fb18f3.png" group-logo="https://cdn-icons-png.freepik.com/512/9434/9434699.png" group-title="🌈🆁™ Legendados 🇧🇷🇵🇹",USA Network 🇧🇷 (💬 🇧🇷)
+#EXTINF:-1 cuid="40" tvg-name="USA Network 🇧🇷" tvg-id="USA" tvg-logo="https://www.usanetwork.com/generetic/generated/images/22cb4c7e029716aa34d858d6f9fb18f3.png" group-logo="https://cdn-icons-png.freepik.com/512/9434/9434699.png" group-title="🌈🆁™ Legendados 🇧🇷🇵🇹",USA Network (💬 🇧🇷)
 http://fonte.lista.luxe:80/live/iptvgood/101011/7974.m3u8
 
 #EXTINF:-1 cuid="41" tvg-name="HBO" tvg-id="São.Paulo/SP..HBO.HD.³.br" tvg-logo="https://logo.iptveditor.com/hbo.png" group-logo="https://cdn-icons-png.freepik.com/512/9434/9434699.png" group-title="🌈🆁™ Legendados 🇧🇷🇵🇹",HBO (💬 🇧🇷)
@@ -896,35 +894,35 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869
 
 --- 🌈🆁™  𝘼𝙉𝙄𝙈𝙀
 
-#EXTINF:-1 cuid="206" tvg-name="Animax 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Animax 🇧🇷
-###https://stream.ichibantv.com:3547/hybrid/play.m3u8
+#EXTINF:-1 cuid="206" tvg-name="Anime Max" tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Max-anime-logo-1.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime Max 🇪🇸
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
-#EXTINF:-1 cuid="207" tvg-name="loading tv 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",loading tv 🇧🇷
+#EXTINF:-1 cuid="207" tvg-name="loading tv 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",loading tv 🇧🇷
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 cuid="208" tvg-name="Geekdot 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_CCTRU7Y.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Geekdot 🇧🇷
+#EXTINF:-1 cuid="208" tvg-name="Geekdot 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_CCTRU7Y.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Geekdot 🇧🇷
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 cuid="209" tvg-name="Anime 🇧🇷" tvg-id="608181d420fc8500075f612a" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Anime 🇧🇷
+#EXTINF:-1 cuid="209" tvg-name="Anime 🇧🇷" tvg-id="608181d420fc8500075f612a" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime 🇧🇷
 https://bit.ly/3qY2y4m?profile=608181d420fc8500075f612a.m3u8
-#EXTINF:-1 cuid="210" tvg-name="Anime Ação 🇧🇷" tvg-id="604b79c558393100078faeef" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Anime Ação 🇧🇷
+#EXTINF:-1 cuid="210" tvg-name="Anime Ação 🇧🇷" tvg-id="604b79c558393100078faeef" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime Ação 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="211" tvg-name="Anime TV 🇧🇷" tvg-logo="https://logo.com/image-cdn/images/kts928pd/production/a6dfe8cb484e8581a7f5cee1abb39d6814855920-731x731.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Anime TV 🇧🇷
+#EXTINF:-1 cuid="211" tvg-name="Anime TV 🇧🇷" tvg-logo="https://logo.com/image-cdn/images/kts928pd/production/a6dfe8cb484e8581a7f5cee1abb39d6814855920-731x731.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime TV 🇧🇷
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 cuid="212" tvg-name="Hallo! Anime 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Hallo! Anime 🇧🇷
+#EXTINF:-1 cuid="212" tvg-name="Hallo! Anime 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Hallo! Anime 🇧🇷
 https://cdn-3.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 cuid="213" tvg-name="Anime Onegai₁ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Anime Onegai₁ 🇧🇷
+#EXTINF:-1 cuid="213" tvg-name="Anime Onegai₁ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime Onegai₁ 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
-#EXTINF:-1 cuid="214" tvg-name="Anime Onegai₂ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Anime Onegai₂ 🇧🇷
+#EXTINF:-1 cuid="214" tvg-name="Anime Onegai₂ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime Onegai₂ 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
-#EXTINF:-1 cuid="215" tvg-name="Anime Onegai₃ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Anime Onegai₃ 🇧🇷
+#EXTINF:-1 cuid="215" tvg-name="Anime Onegai₃ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime Onegai₃ 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
-#EXTINF:-1 cuid="216" tvg-name="Anime Onegai₄ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Anime Onegai₄ 🇧🇷
+#EXTINF:-1 cuid="216" tvg-name="Anime Onegai₄ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime Onegai₄ 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
-#EXTINF:-1 cuid="217" tvg-name="Anime Onegai₅ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime 🇧🇷",Anime Onegai₅ 🇧🇷
+#EXTINF:-1 cuid="217" tvg-name="Anime Onegai₅ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime Onegai₅ 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
 
 --- 🌈🆁™  𝘼𝙙𝙪𝗹𝙩 𝙎𝙬𝙞𝙢 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇺🇸
@@ -2352,8 +2350,8 @@ https://zekonew.newkso.ru/zeko/premium294/mono.m3u8|referer=https://pkpakiplay.x
 #EXTINF:-1 cuid="595" tvg-name="MTV 2 East" tvg-id="MTV" tvg-logo="https://logo.iptveditor.com/mtv.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="🌈🆁™ Music 🎧",
 ###
 
-#EXTINF:-1 cuid="596" tvg-name="MTV" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://logo.iptveditor.com/mtv.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="🌈🆁™ Music 🎧",MTV 🇺🇸
-https://tvpass.org/live/MTVEast/sd
+#EXTINF:-1 cuid="596" tvg-name="MTV" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://logo.iptveditor.com/mtv.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="🌈🆁™ Music 🎧",
+###
 
 ---
 
@@ -3111,12 +3109,13 @@ https://s2.fazoeli.fun/fontes/nossoplayer/espn4.m3u8
 
 #EXTINF:-1 cuid="790" tvg-name="ESPN 5 🇧🇷" tvg-id="ESPN.5.br" tvg-logo="https://logo.iptveditor.com/espn5.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",ESPN 5 🏍 🇧🇷
 http://185.236.183.118:14214/espn5hd
++http://fonte.lista.luxe:80/live/iptvgood/101011/3964.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://embedcanaistv.com/
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
 #EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
-https://s2.fazoeli.fun/fontes/nossoplayer/espn5.m3u8
++#https://s2.fazoeli.fun/fontes/nossoplayer/espn5.m3u8
 
 
 #EXTINF:-1 cuid="791" tvg-name="ESPN 6 🇧🇷" tvg-id="ESPN.6.br" tvg-logo="https://logo.iptveditor.com/espn6.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",ESPN 6 🇧🇷
@@ -3512,8 +3511,11 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 cuid="855" tvg-name="" tvg-id="" tvg-logo="https://decider.com/wp-content/uploads/2020/01/pecock-logo.jpg" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ Sports 🇺🇸🇬🇧🇨🇦",
-###
+#EXTINF:-1 cuid="855" tvg-name="" tvg-id="" tvg-logo="https://www.infinityfree.com/images/logo-purple.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ Sports 🇺🇸🇬🇧🇨🇦",Infinity+ 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
+
 
 #EXTINF:-1 cuid="856" tvg-name="NBC Sports" tvg-id="NBC.Sports.Boston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇺🇸🇬🇧🇨🇦",NBC Sports Boston 🇺🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3643,12 +3645,22 @@ https://tvpass.org/live/ESPN2/sd
 ###https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
 #EXTINF:-1 cuid="892" tvg-name="Fanduel Sports Southeast South Carolina 🇺🇸" tvg-id="fanduel-sports-southeast-south-carolina" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇺🇸🇬🇧🇨🇦",Fanduel Sports Southeast South Carolina 🇺🇸
 ###https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
-#EXTINF:-1 cuid="893" tvg-name="Fanduel Sports Southeast Tennessee Nashville 🇺🇸" tvg-id="fanduel-sports-southeast-tennessee-nashville" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇺🇸🇬🇧🇨🇦",Fanduel Sports Southeast Tennessee Nashville 🇺🇸
-###https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
-#EXTINF:-1 cuid="894" tvg-name="Fanduel Sports Sun 🇺🇸" tvg-id="bally-sports-sun" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇺🇸🇬🇧🇨🇦",Fanduel Sports Sun 🇺🇸
-###https://tvpass.org/live/fanduel-sports-sun/sd
-#EXTINF:-1 cuid="895" tvg-name="Fanduel Sports Tennessee East 🇺🇸" tvg-id="fanduel-sports-tennessee-east" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇺🇸🇬🇧🇨🇦",Fanduel Sports Tennessee East 🇺🇸
-###https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+
+
+#EXTINF:-1 cuid="893" tvg-name="Bein sports Max" tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports5max.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇫🇷🇮🇹",Bein Sports Max 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+
+#EXTINF:-1 cuid="893" tvg-name="Bein sports Max" tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports6max.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇫🇷🇮🇹",Bein Sports Max 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+
+#EXTINF:-1 cuid="893" tvg-name="Bein sports Max" tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports7max.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇫🇷🇮🇹",Bein Sports Max 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
 
 --- 🌈🆁™ SKY SPORT ITALIA
 
@@ -3892,12 +3904,15 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 --- 🌈🆁™ Liga Betclic
 
 #EXTINF:-1 cuid="934" tvg-name="SPORT.TV1" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv1.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",αθλητική τηλεόραση 1
-https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa1.m3u8
+http://fonte.lista.luxe:80//live/iptvgood/101011/7439.m3u8
++https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa1.m3u8
 #EXTINF:-1 cuid="935" tvg-name="SPORT.TV2" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv5.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",αθλητική τηλεόραση 5
-https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa5.m3u8
+http://fonte.lista.luxe:80//live/iptvgood/101011/7427.m3u8
++https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa5.m3u8
 
 #EXTINF:-1 cuid="936" tvg-name="Dazn 1" tvg-id="DAZN.1.pt" tvg-logo="https://logo.iptveditor.com/dazn1.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",θαμπωμένος 1
-https://github.com/inspirationlinks/m3u/raw/live/Streams/Dass1.m3u8
+http://fonte.lista.luxe:80//live/iptvgood/101011/7458.m3u8
++https://github.com/inspirationlinks/m3u/raw/live/Streams/Dass1.m3u8
 
 --- 🌈🆁™ TV4 SP 🇸🇪
 
@@ -4159,6 +4174,10 @@ https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
+https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 http://154.58.202.185:8000/play/a06h
 
 #EXTINF:-1 cuid="975" tvg-name="SSC2 🇸🇦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1024px-Ssc_sports.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports in World 🌎",SSC2 🇸🇦
@@ -5583,14 +5602,15 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66bb374ba4ee27000841a
 #EXTINF:-1 cuid="1411" tvg-name="ESR Network 🇺🇸" tvg-id="5fb554d87a0c480007c8dada" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports Gaming 🎮",ESR Network 🇺🇸
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 
---- 🌈🆁™ HUNT & FISHING 🐗🎣
 
-#EXTINF:-1 cuid="1412" tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Hunt & Fishing 🐗🎣",
-###
+
+#EXTINF:-1 cuid="1412" tvg-name="ESports Max" tvg-id="" tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports Gaming 🎮",ESports Max
+https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 cuid="1413" tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Hunt & Fishing 🐗🎣", 🇧🇷
 ###
 
+--- 🌈🆁™ HUNT & FISHING 🐗🎣
 
 #EXTINF:-1 cuid="1414" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="IT600001L6" tvg-logo="https://logo.iptveditor.com/italianfishingtv.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Hunt & Fishing 🐗🎣",Italian Fishing TV 🇮🇹
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
@@ -6376,6 +6396,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u
 #EXTINF:-1 cuid="1650" tvg-name="MTV" tvg-id="MTV.Portugal.HD.pt" tvg-logo="https://logo.iptveditor.com/mtv.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",MTV Originals
 http://wovaer.com//live/K8N7fg/7E5hyV/112095.ts
 http://15.235.9.200:14858/MTVbrhd
+https://tvpass.org/live/MTVEast/sd
 
 #EXTINF:-1 cuid="1652" tvg-name="MTV Hits" tvg-id="MTV.HITS.uk" tvg-logo="https://logo.iptveditor.com/mtvhits.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",MTV Hits 🇬🇧
 http://185.189.225.150:85/MTVHits/index.m3u8
