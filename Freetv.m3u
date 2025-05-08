@@ -1942,37 +1942,38 @@ https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
 
 --- 🌈🆁™ SUL AMERICANOS
 
-#EXTINF:-1 cuid="492" tvg-name="RCN" tvg-id="RCN.co" tvg-logo="https://logo.iptveditor.com/rcn.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",RCN 🇨🇴
-http://190.0.241.181:8000/play/a09n/index.m3u8
-
-#EXTINF:-1 cuid="493" tvg-name="RCN Mas 🇨🇴 [ʀᴏkυ]" tvg-id="plex.tv.RCN.Más.plex" tvg-logo="https://logo.iptveditor.com/rcnmas.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",RCN Más 🇨🇴 [ʀᴏkυ]
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="494" tvg-name="Cubavisión TV Internacional 🇨🇺" tvg-id="Cubavisión.Internacional.es" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Cubavisión TV Internacional 🇨🇺
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-#KODIPROP:inputstream=inputstream.adaptive
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-
----
-
-#EXTINF:-1 cuid="495" tvg-name="UNIVERSAL.PREMIERE" tvg-id="UNIVERSAL.PREMIERE.uy" tvg-logo="https://logo.iptveditor.com/universalpremiere.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Premiere 🇺🇾🇸🇻
+#EXTINF:-1 cuid="492" tvg-name="UNIVERSAL.PREMIERE" tvg-id="UNIVERSAL.PREMIERE.uy" tvg-logo="https://logo.iptveditor.com/universalpremiere.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Premiere 🇺🇾🇸🇻
 http://clubtv.link/my0505/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
 http://45.184.87.142:8000/play/a058
 http://200.115.96.66:4000/play/a034/index.m3u8
 http://45.184.87.142:8000/play/a05r?West
 
-#EXTINF:-1 cuid="496" tvg-name="Universal.Cinema" tvg-id="Canal.Universal.Cinema.sv" tvg-logo="https://logo.iptveditor.com/universalcinema.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Cinema 🇺🇾🇸🇻
+#EXTINF:-1 cuid="493" tvg-name="Universal.Cinema" tvg-id="Canal.Universal.Cinema.sv" tvg-logo="https://logo.iptveditor.com/universalcinema.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Cinema 🇺🇾🇸🇻
+http://clubtv.link/my0505/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
 http://45.184.87.142:8000/play/a05o
 
-#EXTINF:-1 cuid="497" tvg-name="Universal Crime" tvg-id="Canal.Universal.Crime.sv" tvg-logo="https://logo.iptveditor.com/universalcrime.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Crime 🇺🇾🇸🇻
+#EXTINF:-1 cuid="494" tvg-name="Universal Crime" tvg-id="Canal.Universal.Crime.sv" tvg-logo="https://logo.iptveditor.com/universalcrime.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Crime 🇺🇾🇸🇻
 http://clubtv.link/my0505/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
 http://45.184.87.142:8000/play/a05q
 http://200.115.96.66:4000/play/a033/index.m3u8
 
-
-#EXTINF:-1 cuid="498" tvg-name="Universal Reality" tvg-id="Canal.Universal.Reality.sv" tvg-logo="https://logo.iptveditor.com/universalreality.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Reality 🇺🇾🇸🇻
+#EXTINF:-1 cuid="495" tvg-name="Universal Reality" tvg-id="Canal.Universal.Reality.sv" tvg-logo="https://logo.iptveditor.com/universalreality.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Reality 🇺🇾🇸🇻
 http://45.184.87.142:8000/play/a059
 http://200.115.96.66:4000/play/a036/index.m3u8
+
+---
+
+#EXTINF:-1 cuid="496" tvg-name="RCN" tvg-id="RCN.co" tvg-logo="https://logo.iptveditor.com/rcn.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",RCN 🇨🇴
+http://190.0.241.181:8000/play/a09n/index.m3u8
+
+#EXTINF:-1 cuid="497" tvg-name="RCN Mas 🇨🇴 [ʀᴏkυ]" tvg-id="plex.tv.RCN.Más.plex" tvg-logo="https://logo.iptveditor.com/rcnmas.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",RCN Más 🇨🇴 [ʀᴏkυ]
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 cuid="498" tvg-name="Cubavisión TV Internacional 🇨🇺" tvg-id="Cubavisión.Internacional.es" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Cubavisión TV Internacional 🇨🇺
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 ---
 
@@ -3919,9 +3920,9 @@ http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96439
 http://macete.xyz:2095/play/live.php?mac=00:1A:79:47:64:7A&stream=70484&extension=ts
 
 #EXTINF:-1 cuid="935" tvg-name="SPORT.TV2" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv5.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",αθλητική τηλεόραση 5
+http://wovaer.com//live/K8N7fg/7E5hyV/112004.ts
 http://fonte.lista.luxe:80//live/iptvgood/101011/7427.m3u8
 http://3.team.ga:80/ch1709/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsc6534duqhcXT45qPAdNuTIRaI9z5jpkb8iPz_iFHo1v
-http://wovaer.com//live/K8N7fg/7E5hyV/112004.ts
 http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.m3u8
 http://tv14s.xyz:8080//live/5ThaSM/484504/167742.ts
 http://wskunsa12.wanicelife.com:8880/DAALM2905/uRLWfdBcxr/29392
@@ -6487,7 +6488,7 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 
 #EXTINF:-1 cuid="1673" tvg-name="RetroPlus 🇨🇱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/retroplus.webp" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",RetroPlus 🇨🇱
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w30695301.m3u8
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 
 #EXTINF:-1 cuid="1674" tvg-name="Vintage tv 🇧🇷" tvg-logo="https://static.wixstatic.com/media/f98147_744ad37f90864e429604d647d396ef83~mv2.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Vintage tv 🇧🇷
 https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8
@@ -6559,16 +6560,16 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 ---
 
-#EXTINF:-1 cuid="1696" tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Rock TV
-###
+#EXTINF:-1 cuid="1696" tvg-name="" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/Snu-PktsqfjthE4GwulWDqi_KgmERwhe7GQB8SQc0zJUwwMwGUA5FG_IySGU9kJARu4=w0" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Recuerdos Retro 🇪🇸
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
-#EXTINF:-1 cuid="1697" tvg-name="Rocktv" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rocktv.webp" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Rocktv
-###
+#EXTINF:-1 cuid="1697" tvg-name="" tvg-id="" tvg-logo="https://www.italianissimotv.com/italianissimo%20tv.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Italianissimo 🇮🇹
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 
-#EXTINF:-1 cuid="1698" tvg-name="MTV Love Music" tvg-id="638f2d9aa530b200072ec8ef" tvg-logo="https://images.pluto.tv/channels/638f2d9aa530b200072ec8ef/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",
-###
+#EXTINF:-1 cuid="1698" tvg-name="" tvg-id="638f2d9aa530b200072ec8ef" tvg-logo="https://www.cantinatv.com/cantina%20tv.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Cantina tv 🇻🇪
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
-#EXTINF:-1 cuid="1699" tvg-name="Bom Channel 🇮🇹" tvg-logo="https://logo.iptveditor.com/bomchannel.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Bom Channel 🇮🇹
+#EXTINF:-1 cuid="1699" tvg-name="Bom Channel 🇮🇹" tvg-id="" tvg-logo="https://logo.iptveditor.com/bomchannel.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Bom Channel 🇮🇹
 ###
 
 #EXTINF:-1 cuid="1700" tvg-name="Love tv 🇲🇰" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Love tv 🇲🇰
