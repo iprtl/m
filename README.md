@@ -34,16 +34,17 @@
 
 * [📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
-### 🌍🌐 List of Main TV channels the Freetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+### 🌍🌐 Inspiration Links disponiblizados Lista de iptv personalizada, com o conteudo bastante variado e temáticas de varios Países: (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-* [📺 📋 Confira a Lista Completa de Canais da Freetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20FreeTV)
-
-✅ Lista m3u só com Streams de Sinal Aberto 
+✅ Lista m3u personalizada Inspiration Links: 
 (Basta copiar e colar)
 ```bash
 Lista Inspiration Links:
 https://github.com/inspirationlinks/m3u/raw/live/InspirationLinks.m3u
-Lista FreeStreaming:
+```
+✅ Lista m3u só com Free Streaming que o Inspiration Links elaborou: (Pluto; Plex; SamsungTvPlus, Rakuten; Roku; Freetv; Xumo, etc... )
+(Basta copiar e colar)
+```bash
 https://github.com/inspirationlinks/m3u/raw/live/FreeStreaming.m3u
 ```
 ---
