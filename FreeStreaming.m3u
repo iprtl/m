@@ -1,7 +1,7 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-05-12 11:15:11 GMT+7 "
+# (●) Last Update: 2025-05-14 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: Null
 
@@ -31,6 +31,9 @@ https://jerrymoz.wordpress.com/wp-content/uploads/2024/03/qr_paypal.png
 #EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
+
+#EXTINF:-1 cuid="0" tvg-name="EnglishTV" tvg-id="" tvg-logo="https://englishtv.us/img/english-tv-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",English TV 🇺🇸🇪🇸
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
 
 --- 🌈🆁™  𝙍𝙏𝙋
 
@@ -158,9 +161,12 @@ http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
 #EXTINF:-1 cuid="31" tvg-name="Famatv" tvg-id="" tvg-logo="https://famaradio.tv/wp-content/uploads/2024/12/cropped-favicon-1-180x180.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",Fama tv 🇵🇹
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 
+#EXTINF:-1 cuid="32" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
+###
+
 --- 🌈🆁™ SECRET STORY
 
-#EXTINF:-1 cuid="32" tvg-name="TVI Reality 🇵🇹" tvg-id="tvi.reality.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp" group-logo="https://cdn-icons-png.freepik.com/256/5695/5695545.png" group-title="🌈🆁™ Secret Story 👁️🌎",TVI Reality 🇵🇹
+#EXTINF:-1 cuid="33" tvg-name="TVI Reality 🇵🇹" tvg-id="tvi.reality.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp" group-logo="https://cdn-icons-png.freepik.com/256/5695/5695545.png" group-title="🌈🆁™ Secret Story 👁️🌎",TVI Reality 🇵🇹
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 #EXTINF:-1 cuid="35" tvg-name="RCN La Casa de los Famosos 🇨🇴" tvg-id="" tvg-logo="https://imagenes.noticiasrcn.com/cms/2025/02/03145405/cambio-de-horario-de-la-casa-de-los-famosos-colombia-2025-el-martes-4-de-febrero-de-2025.webp" group-logo="https://cdn-icons-png.freepik.com/256/5695/5695545.png" group-title="🌈🆁™ Secret Story 👁️🌎",RCN La Casa de los Famosos 🇨🇴
@@ -686,7 +692,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50
 
 --- 🌈🆁™  𝙆𝙞𝙙𝙨 🧒 🇺🇸🇬🇧
 
-#EXTINF:-1 cuid="218" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🌈🆁™ Kids 🧒🌎",
+#EXTINF:-1 cuid="218" tvg-name="ZTV Anime" tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",ZTV Anime 🇨🇱
+https://mitv.zplay.cl/Ztv/index.m3u8
 
 
 #EXTINF:-1 cuid="219" tvg-name="Animation+" tvg-id="US400002PS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20241112T000926SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🌈🆁™ Kids 🧒🌎",Animation+ 🇺🇸
@@ -759,7 +766,10 @@ https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 cuid="241" tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://logo.iptveditor.com/locomotiontv.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Locomotion 🇪🇸
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 cuid="242" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🌈🆁™ Kids 🧒🌎",
+#EXTINF:-1 cuid="242" tvg-name="" tvg-id="Canal.BabyFirst.TV.mx" tvg-logo="https://logo.iptveditor.com/babyfirst.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🌈🆁™ Kids 🧒🌎",BabyFirst 🇪🇸
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+
 #EXTINF:-1 cuid="243" tvg-name="Boing 🇮🇹" tvg-id="" tvg-logo="https://i.imgur.com/rabKj9i.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🌈🆁™ Kids 🧒🌎",Boing 🇮🇹
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 
@@ -843,6 +853,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
 #EXTINF:-1 cuid="217" tvg-name="Anime Onegai₅ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🌈🆁™ Anime",Anime Onegai₅ 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
+
+https://mitv.zplay.cl/Ztv/index.m3u8
 
 --- 🌈🆁™  𝘼𝙙𝙪𝗹𝙩 𝙎𝙬𝙞𝙢 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇺🇸
 
@@ -1111,43 +1123,47 @@ https://liveingesta318.cdnmedia.tv/badalonatvlive/live/playlist.m3u8
 #EXTINF:-1 cuid="491" tvg-name="Cugat Mèdia 🇪🇸" tvg-id="Xarxa_Cugat_Media.TV" tvg-logo="https://graph.facebook.com/cugatmedia/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="🌈🆁™ Espanha 🇪🇸",Cugat Mèdia 🇪🇸
 https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
 
+--- 🌈🆁™ Hispânicos
 
-#EXTINF:-1 cuid="498" tvg-name="Cubavisión TV Internacional 🇨🇺" tvg-id="Cubavisión.Internacional.es" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Cubavisión TV Internacional 🇨🇺
+#EXTINF:-1 cuid="498" tvg-name="Cubavisión TV Internacional 🇨🇺" tvg-id="Cubavisión.Internacional.es" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Cubavisión TV Internacional 🇨🇺
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 #KODIPROP:inputstream=inputstream.adaptive
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 ---
 
-#EXTINF:-1 cuid="499" tvg-name="Telemundo 🇲🇽" tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://logo.iptveditor.com/telemundo.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Telemundo 🇲🇽
+#EXTINF:-1 cuid="499" tvg-name="Telemundo 🇲🇽" tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://logo.iptveditor.com/telemundo.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Telemundo 🇲🇽
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
-#EXTINF:-1 cuid="500" tvg-name="Azteca Mundo 🇲🇽" tvg-id="Canal.TV.Azteca.Mundo.mx" tvg-logo="https://logo.iptveditor.com/aztecamundo.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Azteca Mundo 🇲🇽
+#EXTINF:-1 cuid="500" tvg-name="Azteca Mundo 🇲🇽" tvg-id="Canal.TV.Azteca.Mundo.mx" tvg-logo="https://logo.iptveditor.com/aztecamundo.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Azteca Mundo 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
-#EXTINF:-1 cuid="501" tvg-name="Azteca Clip 🇲🇽" tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Azteca Clip 🇲🇽
+#EXTINF:-1 cuid="501" tvg-name="Azteca Clip 🇲🇽" tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Azteca Clip 🇲🇽
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
 ---
 
-#EXTINF:-1 cuid="502" tvg-name="Azteca Internacionalᶠᴴᴰ 🇲🇽" tvg-id="646cce4d1593940008a33f09" tvg-logo="https://logo.iptveditor.com/aztecainternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Azteca Internacionalᶠᴴᴰ 🇲🇽
+#EXTINF:-1 cuid="502" tvg-name="Azteca Internacionalᶠᴴᴰ 🇲🇽" tvg-id="646cce4d1593940008a33f09" tvg-logo="https://logo.iptveditor.com/aztecainternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Azteca Internacionalᶠᴴᴰ 🇲🇽
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646cce4d1593940008a33f09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 --- 
 
-#EXTINF:-1 cuid="503" tvg-name="Azteca UNO -1 hora 🇲🇽" tvg-id="646ccc7a2858cb0008127367" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Azteca UNO -1 hora 🇲🇽
+#EXTINF:-1 cuid="503" tvg-name="Azteca UNO -1 hora 🇲🇽" tvg-id="646ccc7a2858cb0008127367" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Azteca UNO -1 hora 🇲🇽
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646ccc7a2858cb0008127367/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 
-#EXTINF:-1 cuid="504" tvg-name="Estrella tvᶠᴴᴰ 🇲🇽 [ʀᴏkυ]" tvg-id="5cf0622da00ca1e2f6fac712" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Estrella tvᶠᴴᴰ 🇲🇽 [ʀᴏkυ]
+#EXTINF:-1 cuid="504" tvg-name="Estrella tvᶠᴴᴰ 🇲🇽 [ʀᴏkυ]" tvg-id="5cf0622da00ca1e2f6fac712" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Estrella tvᶠᴴᴰ 🇲🇽 [ʀᴏkυ]
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 
 
-#EXTINF:-1 cuid="505" tvg-name="Las Estrellas 🇲🇽" tvg-id="Canal.de.las.Estrellas.-2.Horas.-.México.(XEW).sv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Las Estrellas 🇲🇽
+#EXTINF:-1 cuid="505" tvg-name="Las Estrellas 🇲🇽" tvg-id="Canal.de.las.Estrellas.-2.Horas.-.México.(XEW).sv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Las Estrellas 🇲🇽
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 cuid="506" tvg-name="Cosmos" tvg-id="" tvg-logo="https://logo.iptveditor.com/cosmostv.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos",Cosmo tv 🇦🇷
+https://videostream.shockmedia.com.ar:19360/cosmostv/cosmostv.m3u8
 
 --- 🌈🆁™  𝙁𝙧𝙖𝙣𝗰𝙚 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇫🇷
 
@@ -1425,6 +1441,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d
 #EXTINF:-1 cuid="781" tvg-name="13 Teleseries 🇨🇱" tvg-logo="https://i.imgur.com/aJMBnse.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",13 Teleseries 🇨🇱
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
+---
 
 #EXTINF:-1 cuid="802" tvg-name="" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvdapesca.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Tv da Pesca 🇧🇷
 https://isaocorp.cloudecast.com/tvdapesca/index.m3u8
@@ -1452,19 +1469,21 @@ https://d353v4sip9tsi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 --- 🌈🆁™  Sports 🇧🇷🇪🇸 🇪🇸🇲🇽🇺🇾
 
-#EXTINF:-1 cuid="818" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",tdp 🇪🇸
+#EXTINF:-1 cuid="817" tvg-name="itvdeportes" tvg-id="" tvg-logo="https://logo.iptveditor.com/itvdeportes.png"group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",CHV Deportes 🇨🇱
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
+
+#EXTINF:-1 cuid="818" tvg-name="Fight Network" tvg-id="plex.tv.Fight.Network.plex" tvg-logo="https://logo.iptveditor.com/fightnetwork.png"group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Fight Network 🇺🇸
+https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
+
+#EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",tdp 🇪🇸
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 https://ztnr.rtve.es/ztnr/6712431.m3u8
-
-
-#EXTINF:-1 cuid="819" tvg-name="+tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",+tdp 🇪🇸
-###
 
 #EXTINF:-1 cuid="820" tvg-name="ETB Deportes 🇪🇸" tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",ETB Deportes 🇪🇸
 https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 
-#EXTINF:-1 cuid="821" tvg-name="Mundo Náutica 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/mundonautica.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Mundo Náutica 🇪🇸
-###https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+#EXTINF:-1 cuid="821" tvg-name="Futgo" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",FutGO 🇨🇱
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
 
 ---
 
@@ -1863,6 +1882,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/62e91384210bec0007ba714c/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 #EXTINF:-1 cuid="1171" tvg-name="Alfred Hitchcock Presents 🇺🇸 [xυᴍᴏ]" tvg-id="US1800014CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20241022T004357SQUARE.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Tv Series 📺",Alfred Hitchcock Presents 🇺🇸 [xυᴍᴏ]
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_channelId=88814618&ads.xumo_streamId=88814618
 https://d24e5my1vwzi2w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ss5zd16s2phyk/out/v1/2db37dd41ee44050a6edad58f9a283be/HLS_CMAF_DRM/index.m3u8
 
@@ -3521,8 +3541,9 @@ https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
 #EXTINF:-1 cuid="1619" tvg-name="Cool Summer Channel" tvg-id="GB2500002K0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2500002K0_20240819T052918SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Cool Summer Channel
 https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8
 
-#EXTINF:-1 cuid="1620" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",
-
+#EXTINF:-1 cuid="1620" tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/cadenaelite.png" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+ 
 
 #EXTINF:-1 cuid="1621" tvg-name="Surf Roots TV 🇺🇸" tvg-id="Surf.Roots.TV.distro" tvg-logo="https://s3cdn.panda-os.com/8611/upload/ezgifcomgifmakerpng" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Surf Roots TV 🇺🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
@@ -3622,8 +3643,9 @@ https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
 
 --- 
 
-#EXTINF:-1 cuid="1649" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",
-
+#EXTINF:-1 cuid="1649" tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",Dance Hits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
+http://89.111.136.7:8080/index.m3u8
 
 #EXTINF:-1 cuid="1650" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/2625/2625992.png" group-title="🌈🆁™ Music 🎧",
 
