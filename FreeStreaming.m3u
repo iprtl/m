@@ -1,7 +1,7 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-06-02 11:15:11 GMT+7 "
+# (●) Last Update: 2025-05-27 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: Null
 
@@ -99,8 +99,8 @@ http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/manifest.mpd
 https://vavoo.to/play/3518481964/index.m3u8
 #EXTINF:-1 cuid="9" tvg-name="RTP Memoriaᴸᴼᵂ 🇵🇹" tvg-id="RTP.Memória.pt" user-agent="Wink/1.31.1" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-memoria-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="•🆁 Portugal",RTP Memoria 🇵🇹
 #EXTVLCOPT:http-user-agent=IE
-https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 cuid="10" tvg-name="RTP Açores" tvg-id="RTP.Açores.pt" user-agent="Wink/1.31.1" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="•🆁 Portugal",RTP Açores 🇵🇹
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
@@ -186,7 +186,7 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 
 ---
 
-#EXTINF:-1 cuid="29" tvg-name="Travelxp" tvg-id="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="•🆁 Portugal",Travelxp 
+#EXTINF:-1 cuid="29" tvg-name="Travelxp" tvg-id="UK:.Travelxp.en" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="•🆁 Portugal",Travelxp (💬 🇧🇷)
 https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="30" tvg-name="TVM Internacional" tvg-id="TVM.HD.mt" tvg-logo="https://www.tvm.co.mz/templates/templatetvmmain/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="•🆁 Portugal",TVM Internacional 🇲🇿
@@ -1517,10 +1517,10 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 --- ​•🆁 Fanny & Comedy 
 
-#EXTINF:-1 cuid="810" tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/qgsyzW4.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="​•🆁 Fanny & Comedy 😂",LOL Standup
+#EXTINF:-1 cuid="810" tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/qgsyzW4.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="​•🆁 Fanny & Comedy 😂",LOL! Standup
 https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
 
-#EXTINF:-1 cuid="811" tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/qgsyzW4.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="​•🆁 Fanny & Comedy 😂",LOL Network
+#EXTINF:-1 cuid="811" tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="​•🆁 Fanny & Comedy 😂",LOL! Network
 https://lol-lolnetwork-2-gb.rakuten.wurl.tv/playlist.m3u8
 https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 
@@ -3410,7 +3410,7 @@ http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
 
 --- •🆁 
 
-#EXTINF:-1 cuid="1551" tvg-name="Fuel tv 🇧🇷" tvg-id="Fuel.TV.HD.pt" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-logo="https://cdn-icons-png.freepik.com/512/9434/9434699.png" group-title="•🆁 Canais Legendados 🇧🇷🇵🇹",Fuel tv 🇧🇷
+#EXTINF:-1 cuid="1551" tvg-name="Fuel tv 🇧🇷" tvg-id="Fuel.TV.HD.pt" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-logo="https://cdn-icons-png.freepik.com/512/9434/9434699.png" group-title="•🆁 Canais Legendados 🇧🇷🇵🇹",Fuel tv (💬 🇧🇷)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 #EXTINF:-1 cuid="1552" tvg-name="Fuel tv 🇺🇸" tvg-id="Fuel.TV.English.(PT,EN).no" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/fuel.webp" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Radical 🏄⛷️",Fuel tv 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
@@ -3438,7 +3438,7 @@ https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 cuid="1559" tvg-name="Nautical Channel 🇺🇸 [sᴛɪʀʀ]" tvg-id="Nautical.Channel.pt" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-UCLjlC3fh-KPfXMiAwI4DhchBLQIeJXS4_Uo64aCq2Q=s900-c-k-c0x00ffffff-no-rj" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Radical 🏄⛷️",Nautical Channel 🇺🇸 [sᴛɪʀʀ]
 https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index_4.m3u8
 
-#EXTINF:-1 cuid="1560" tvg-name="Red Bull TV 🇺🇸" tvg-id="UK:.Red.Bull.TV.en" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20241106T143030SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/9434/9434699.png" group-title="•🆁 Canais Legendados 🇧🇷🇵🇹"",Red Bull TV 🇺🇸
+#EXTINF:-1 cuid="1560" tvg-name="Red Bull TV 🇺🇸" tvg-id="UK:.Red.Bull.TV.en" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20241106T143030SQUARE.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Radical 🏄⛷",Red Bull TV 🇺🇸
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 cuid="1561" tvg-name="Infast 🇺🇸" tvg-id="USBA300022JX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20240520T221237SQUARE.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Radical 🏄⛷️",Infast 🇺🇸
