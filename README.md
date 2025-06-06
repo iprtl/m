@@ -37,6 +37,18 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ---
 
+## Discussions
+
+* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline na secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
+
+---
+
+## Playlist Inspiration Links
+```bash
+https://github.com/inspirationlinks/m3u/raw/live/FreeStreaming.m3u
+```
+---
+
 ## EPG used in Freetv Inspiration
 
 ```bash
@@ -49,18 +61,6 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 📌 https://bit.ly/Samsunggz
 
 📌 https://www.tdtchannels.com/epg/TV.xml.gz
-```
----
-
-## Discussions
-
-* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline na secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
-
----
-
-## Playlist Inspiration Links
-```bash
-https://github.com/inspirationlinks/m3u/raw/live/FreeStreaming.m3u
 ```
 ---
 
