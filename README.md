@@ -52,15 +52,19 @@ https://github.com/inspirationlinks/m3u/raw/live/FreeStreaming.m3u
 ## EPG used in Freetv Inspiration
 
 ```bash
-📌 https://bit.ly/RevolutionEpg
-
-📌 https://bit.ly/Brazilepg
-
-📌 https://bit.ly/Plutogz
-
-📌 https://bit.ly/Samsunggz
-
-📌 https://www.tdtchannels.com/epg/TV.xml.gz
+https://bit.ly/RevolutionEpg
+```
+```bash
+https://bit.ly/Brazilepg
+```
+```bash
+https://bit.ly/Plutogz
+```
+```bash
+https://bit.ly/Samsunggz
+```
+```bash
+https://www.tdtchannels.com/epg/TV.xml.gz
 ```
 ---
 
