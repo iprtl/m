@@ -11,7 +11,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## Índice
 
-- 🕑 [Recentemente Adicionados](#Recentemente Adicionados, Most Recently Added)
+- 🕑 [Recentemente Adicionados](#Recentemente-Adicionados)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
@@ -23,7 +23,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ---
 
-## Recentemente Adicionados, Most Recently Added
+## Recentemente Adicionados
 
 - Channels PBS 🇬🇧
 - Dallas Cowboys Cheerleaders 🇺🇸
