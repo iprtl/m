@@ -23,28 +23,6 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ---
 
-## Recentemente Adicionados
-
-- Channels PBS 🇬🇧
-- Dallas Cowboys Cheerleaders 🇺🇸
-- Movies! 🇬🇧
-- Movies Action 🇬🇧
-- Movies Thriller 🇬🇧
-- TV Life America
-- Outlaw 🇺🇸
-- Right Now Tv 🇺🇸
-- AMG TV 🇺🇸
-- Reelz 🇺🇸
-- Grit 🇺🇸
-- AMC+ 🇺🇸
-- Reelz 🇺🇸
-- BBC America 🇺🇸
-- We Love Cars 🇺🇸
-- The Amazing Race 🇺🇸
-- ABC Entertains 🇬🇧
-
----
-
 ## Legendas
 
 📌 Se verificar que um determinado canal não abre utilize uma VPN. Existem canais que em determinados Países, como Portugal e não só... Bloqueiam geograficamente, (Geoblocked) um determinado canal. Se usarem uma VPN de outro Pais diferente, existe fortes possibilidades de conseguirem abrir o canal em questão.
@@ -105,6 +83,28 @@ Applications with support of IPTV streams.
 ---
 
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+
+---
+
+## Recentemente Adicionados
+
+- Channels PBS 🇬🇧
+- Dallas Cowboys Cheerleaders 🇺🇸
+- Movies! 🇬🇧
+- Movies Action 🇬🇧
+- Movies Thriller 🇬🇧
+- TV Life America
+- Outlaw 🇺🇸
+- Right Now Tv 🇺🇸
+- AMG TV 🇺🇸
+- Reelz 🇺🇸
+- Grit 🇺🇸
+- AMC+ 🇺🇸
+- Reelz 🇺🇸
+- BBC America 🇺🇸
+- We Love Cars 🇺🇸
+- The Amazing Race 🇺🇸
+- ABC Entertains 🇬🇧
 
 ---
 
