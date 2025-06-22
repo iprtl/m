@@ -88,6 +88,8 @@ Applications with support of IPTV streams.
 
 ## Recentemente Adicionados
 
+🕑 22/6/25
+
 - Channels PBS 🇬🇧
 - Dallas Cowboys Cheerleaders 🇺🇸
 - Movies! 🇬🇧
@@ -490,6 +492,23 @@ Applications with support of IPTV streams.
 - Rtp tv
 - Italia 2 TV 🇮🇹
 - Teatro tv 🇮🇹
+- Channels PBS 🇬🇧
+- Dallas Cowboys Cheerleaders 🇺🇸
+- Movies! 🇬🇧
+- Movies Action 🇬🇧
+- Movies Thriller 🇬🇧
+- TV Life America
+- Outlaw 🇺🇸
+- Right Now Tv 🇺🇸
+- AMG TV 🇺🇸
+- Reelz 🇺🇸
+- Grit 🇺🇸
+- AMC+ 🇺🇸
+- Reelz 🇺🇸
+- BBC America 🇺🇸
+- We Love Cars 🇺🇸
+- The Amazing Race 🇺🇸
+- ABC Entertains 🇬🇧
 - Tela Brasil tv 🇧🇷
 - Reviva tv 🇧🇷
 - Multi Mix 🇧🇷
