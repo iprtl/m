@@ -11,6 +11,8 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## Índice
 
+- 🏆 [Canais Extras Premium](#Canais-Extra-Premium)
+- 💰 [Faça o seu donativo](#Ajude-nos-Faça-o-seu-donativo)
 - 🕑 [Recentemente Adicionados](#Recentemente-Adicionados)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
@@ -86,7 +88,79 @@ Applications with support of IPTV streams.
 
 ---
 
-## Recentemente Adicionados
+## Canais Extra Premium
+
+🏆 Canais Premium. Esta lista só está disponível para quem fizer uma doação, (Donativos).
+
+- TNT 🇧🇷
+- Telecinco 🇪🇸
+- USA Network 🇺🇸
+- Goltv
+- ESPN 🇧🇷
+- ESPN 2 🇧🇷
+- ESPN 3 🇧🇷
+- ESPN 4 🇧🇷
+- ESPN 5 🇧🇷
+- ESPN 6 🇧🇷
+- ESPN 7 🇧🇷
+- Cazetv 🇧🇷
+- Band Sports 🇧🇷
+- Sportv 🇧🇷
+- Sportv 2 🇧🇷
+- Sportv 3 🇧🇷
+- Premiere Clubes 🇧🇷
+- Rally tv 🇬🇧
+- DAZN F1 🇪🇸
+- M+ #Vamos 🇪🇸
+- M+ Deportes 🇪🇸
+- DAZN LA LIGA 🇪🇸
+- M+ LALIGA tv Hypermotion 🇪🇸
+- M+ Liga de Campeones 🇪🇸
+- M+ Deportes 🇪🇸
+- Sky Sports Mix 🇬🇧
+- peacocktv Sports 🇬🇧
+- Vodafone Sport 🇬🇧
+- TNT Sport 1 🇬🇧
+- TNT Sport 2 🇬🇧
+- TNT Sport 3 🇬🇧
+- TNT Sport 4 🇬🇧
+- Bein Sports 1 🇫🇷
+- Bein Sports 2 🇫🇷
+- Bein Sports 3 🇫🇷
+- Bein Sports Max 5 🇫🇷
+- Bein Sports Max 6 🇫🇷
+- Bein Sports Max 7 🇫🇷
+- Bein Sports Max 8 🇫🇷
+- Bein Sports Max 9 🇫🇷
+- Bein Sports Max 10 🇫🇷
+- TUDN 🇺🇸🇲🇽
+- Claro Sports
+- DSports
+- DSports2
+- Fox Sports 🇲🇽
+- Fox Sports 🇦🇷
+- Fox Sports 2 🇲🇽
+- Fox Sports 3 🇦🇷
+- Fox Sports 3 🇲🇽
+- ESPN 🇲🇽
+- ESPN 2 🇨🇴
+- ESPN 2
+- ESPN 3 🇨🇴
+- ESPN 3
+- ESPN 4 🇨🇴
+- ESPN 5 🇨🇴
+- ESPN 5
+- ESPN 6 🇨🇴
+
+---
+
+## Ajude-nos Faça o seu donativo
+ 
+ <p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a>
+
+---
+
+## Recentemente Adicionados na Lista FREE(TV)
 
 🕑 22/6/25
 
@@ -110,7 +184,7 @@ Applications with support of IPTV streams.
 
 ---
 
-## List of Channels
+## List of Channels FREE(TV)
 
 - Tv Portuguesa 🇵🇹🇧🇷
 - RTP Internacional 🇵🇹
