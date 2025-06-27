@@ -90,7 +90,8 @@ Applications with support of IPTV streams.
 
 ## Canais Extra Premium
 
-🏆 Canais Premium. Esta lista só está disponível para quem fizer uma doação, (Donativos).
+🏆 Canais Premium. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
+* Quem doar, existe a possiblidade de criar uma lista personalizada só com canais que pretenda.
 
 - TNT 🇧🇷
 - Telecinco 🇪🇸
