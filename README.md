@@ -88,9 +88,18 @@ Applications with support of IPTV streams.
 
 ## Canais Extra Premium
 
-🏆 Canais Premium. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
+🕑 22/6/28
+
+🏆 🇵🇹 Canais Premium. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
 * Quem doar, existe a possiblidade de criar uma lista personalizada só com canais que pretenda.
 
+* https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
+
+🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
+* Those who donate have the option of creating a personalized list with only the channels they want.
+
+- Canal 11 🇵🇹
+- Sportin tv 🇵🇹
 - TNT 🇧🇷
 - Telecinco 🇪🇸
 - USA Network 🇺🇸
@@ -127,10 +136,20 @@ Applications with support of IPTV streams.
 - TNT Sport 4 🇬🇧
 - Eurosport 1 🇮🇹
 - Eurosport 2 🇮🇹
+- Sky Sport F1 🇮🇹
+- Sky Sport Motogp 🇮🇹
+- Eurosport 1 🇮🇹
+- Eurosport 2 🇮🇹
 - Bein sports 🇺🇸
 - Bein sports 1 🇺🇸
 - Bein sports 2 🇺🇸
 - Bein sports 3 🇺🇸
+- Bein sports 🇺🇸
+- Bein sports 1 🇺🇸
+- Bein sports 2 🇺🇸
+- Bein sports 3 🇺🇸
+- Bein sports 4 🇺🇸
+- Bein sports 5 🇺🇸
 - Bein Sports 1 🇫🇷
 - Bein Sports 2 🇫🇷
 - Bein Sports 3 🇫🇷
