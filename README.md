@@ -90,7 +90,7 @@ Applications with support of IPTV streams.
 
 🕑 22/6/28
 
-🏆 🇵🇹 Canais Premium. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
+🏆 🇵🇹 Canais Gold. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
 * Quem doar, existe a possiblidade de criar uma lista personalizada só com canais que pretenda.
 
 * https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
