@@ -5,7 +5,7 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-06-20 11:15:11 GMT+7 "
+# (●) Last Update: 2025-07-12 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: Null
 
@@ -955,17 +955,18 @@ https://aovivo.doozytv.com.br/31025556/10162214/playlist.m3u8
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
 
 #EXTINF:-1 cuid="364" tvg-name="BAND" tvg-id="São.Paulo/SP..Band.br" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/458/2024/01/bandlogonacional-1.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="🆁™ Brasil",BAND 🇧🇷
-https://aovivo.doozytv.com.br/31025556/10161894/playlist.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 cuid="365" tvg-name="Globo" tvg-id="São.Paulo/SP..Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="🆁™ Brasil",Globo ʙᴀ ⚽️ 🇧🇷
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 cuid="366" tvg-name="SBT Internacional 🇧🇷 ⚽️" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="🆁™ Brasil",SBT ʙᴀ ⚽️ 🇧🇷
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-
-#EXTINF:-1 cuid="367" tvg-name="SBT Interior 🇧🇷" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="🆁™ Brasil",SBT ⚽️ 🇧🇷
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/2.m3u8
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+
+#EXTINF:-1 cuid="367" tvg-name="recordtv" tvg-id="São.Paulo/SP..Record.HD.br" tvg-logo="https://logo.iptveditor.com/recordtv.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="🆁™ Brasil",Record tv ⚽️ 🇧🇷
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13.m3u8
+
 
 #EXTINF:-1 cuid="368" tvg-name="Globo" tvg-id="São.Paulo/SP..Canal.Rural.br" tvg-logo="https://imagens-cdn.canalrural.com.br/2024/10/cropped-favicon-1-1-180x180.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="🆁™ Brasil",Canal Rural 🇧🇷
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
@@ -1791,7 +1792,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #http
 
 #EXTINF:-1 cuid="809" tvg-name="Urban Turbo" tvg-id="" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/15/public/1666631616/urban_turbo-1666631616.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🆁™ World Sports 🌎",Urban Turbo 🇧🇷
-http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/106.m3u8
++http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 --- 🌈 ​Fanny & Comedy 
 
@@ -2045,7 +2047,8 @@ https://d1h1d6qoy9vnra.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="1224" tvg-name="Rakuten Thriller 🇬🇧" tvg-id="UK:.Drama.Movies.-.Rakuten.TV.en" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/20/public/1666632642/urban_movies-1666632642.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="🆁™ Films 📽️",Urban Movies 🇧🇷
-http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/108.m3u8
++http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
 #EXTINF:-1 cuid="1225" tvg-name="CinePride 🇺🇸" tvg-id="plex.tv.CINEPRIDE.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="🆁™ Films 📽️",CinePride 🇺🇸
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2250
@@ -2214,13 +2217,14 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="1028" tvg-name="Urban Series 🇧🇷" tvg-logo="https://imgur.com/Bav8k4e.png" group-title="🆁™ ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Tv • Series 📺",Urban Series 🇧🇷
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/110.m3u8
++http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 #EXTINF:-1 cuid="1029" tvg-name="FilmRise Séries Gratuitas 🇧🇷" tvg-id="FilmRiseSeriesGratis.us" tvg-logo="https://cdn.adrise.tv/image/channels/filmriseclassictv/logo_short.png" group-title="🆁™ ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Tv • Series 📺",FilmRise Séries Gratuitas 🇧🇷
 +https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 
 #EXTINF:-1 cuid="1030" tvg-name="Old Series 🇧🇷" tvg-logo="https://www.rd.com/wp-content/uploads/2022/01/classic-tv-shows-opener-with-100th-badge.jpg" group-title="🆁™ ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Tv • Series 📺",Old Series 🇧🇷
-http://200.194.238.229:8383/live/oldseries/playlist.m3u8
++http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 
 #EXTINF:-1 cuid="1031" tvg-name="Séries Classic 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100_RYYThZ7.png" group-title="🆁™ ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Tv • Series 📺",Séries Classic 🇧🇷
 https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
@@ -2570,7 +2574,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614398a08f30
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97.m3u8
 
 #EXTINF:-1 cuid="1370" tvg-name="Urban Doc 🇧🇷" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/18/public/1666632630/urban_docs-1666632630.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Urban Doc 🇧🇷
-http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/107.m3u8
++http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 #EXTINF:-1 cuid="1371" tvg-name="Filmzie Doc 🇺🇸" tvg-logo="https://filmzie.com/assets/images/common/favicon-a3ea3628.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Filmzie Doc 🇺🇸
 +https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8
