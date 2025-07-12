@@ -91,12 +91,12 @@ Applications with support of IPTV streams.
 🕑 22/6/28
 
 🏆 🇵🇹 Canais Gold. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
-* Quem doar, existe a possiblidade de criar uma lista personalizada só com canais que pretenda.
+* Quem optar por doações mensais, tem a possibilidade de criar uma lista personalizada só com canais que pretenda.
 
 * https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
 
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
-* Those who donate have the option of creating a personalized list with only the channels they want.
+* Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
 - Canal 11 🇵🇹
 - Sportin tv 🇵🇹
