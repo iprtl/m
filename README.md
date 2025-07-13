@@ -104,6 +104,13 @@ Applications with support of IPTV streams.
 - Telecinco 🇪🇸
 - USA Network 🇺🇸
 - Goltv
+- Cazetv 🇧🇷
+- Cazetv 1 🇧🇷
+- Cazetv 2 🇧🇷
+- Cazetv 3 🇧🇷
+- Amazon Prime 🇧🇷
+- Apple+ 🇧🇷
+- Paramount+ 🇧🇷
 - ESPN 🇧🇷
 - ESPN 2 🇧🇷
 - ESPN 3 🇧🇷
@@ -130,10 +137,22 @@ Applications with support of IPTV streams.
 - Sky Sports Mix 🇬🇧
 - peacocktv Sports 🇬🇧
 - Vodafone Sport 🇬🇧
+- Sky Sport News 🇬🇧
+- Sky Sport Main Event 🇬🇧
+- Sky Sport Plus 🇬🇧
+- Sky Sports Action 🇬🇧
+- Sky Sports Mix 🇬🇧
+- Sky Sport Football 🇬🇧
+- Sky Sport Premier League 🇬🇧
 - TNT Sport 1 🇬🇧
 - TNT Sport 2 🇬🇧
 - TNT Sport 3 🇬🇧
 - TNT Sport 4 🇬🇧
+- Ziggo Sport 🇳🇱
+- Ziggo Sport 2 🇳🇱
+- Ziggo Sport 3 🇳🇱
+- Ziggo Sport 4 🇳🇱
+- Ziggo Sport 5 🇳🇱
 - Eurosport 1 🇮🇹
 - Eurosport 2 🇮🇹
 - Sky Sport F1 🇮🇹
@@ -144,7 +163,6 @@ Applications with support of IPTV streams.
 - Bein sports 1 🇺🇸
 - Bein sports 2 🇺🇸
 - Bein sports 3 🇺🇸
-- Bein sports 🇺🇸
 - Bein sports 1 🇺🇸
 - Bein sports 2 🇺🇸
 - Bein sports 3 🇺🇸
