@@ -88,7 +88,7 @@ Applications with support of IPTV streams.
 
 ## Canais Extra Premium
 
-🕑 22/6/28
+🕑 13/7/25
 
 🏆 🇵🇹 Canais Gold. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
 * Quem optar por doações mensais, tem a possibilidade de criar uma lista personalizada só com canais que pretenda.
