@@ -9,13 +9,12 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 - 🏆 [Canais Extras Premium](#Canais-Extra-Premium)
 - 💰 [Faça o seu donativo](#Ajude-nos-Faça-o-seu-donativo)
-- 🕑 [Recentemente Adicionados](#Recentemente-Adicionados)
+- 📺 [List of Channels](#List-of-Channels)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
 - 📺 [Playlist](#Playlist-Inspiration-Links)
 - 🌐 [Apps](#Apps)
-- 📺 [List of Channels](#List-of-Channels)
 - 🟢 [Legal](#Legal)
 - 🔐 [License](#License)
 
@@ -199,30 +198,6 @@ Applications with support of IPTV streams.
 ---
 
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
-
----
-
-## Recentemente Adicionados na Lista FREE(TV)
-
-🕑 22/6/25
-
-- Channels PBS 🇬🇧
-- Dallas Cowboys Cheerleaders 🇺🇸
-- Movies! 🇬🇧
-- Movies Action 🇬🇧
-- Movies Thriller 🇬🇧
-- TV Life America
-- Outlaw 🇺🇸
-- Right Now Tv 🇺🇸
-- AMG TV 🇺🇸
-- Reelz 🇺🇸
-- Grit 🇺🇸
-- AMC+ 🇺🇸
-- Reelz 🇺🇸
-- BBC America 🇺🇸
-- We Love Cars 🇺🇸
-- The Amazing Race 🇺🇸
-- ABC Entertains 🇬🇧
 
 ---
 
