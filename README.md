@@ -99,7 +99,7 @@ Applications with support of IPTV streams.
 * Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
 - Canal 11 🇵🇹
-- Sportin tv 🇵🇹
+- Sporting tv 🇵🇹
 - TNT 🇧🇷
 - Telecinco 🇪🇸
 - USA Network 🇺🇸
