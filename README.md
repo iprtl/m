@@ -156,6 +156,7 @@ Entre em contacto Via Email:
 - Sportv 🇧🇷
 - Sportv 2 🇧🇷
 - Sportv 3 🇧🇷
+- Combate 🇧🇷
 - Premiere Clubes 🇧🇷
 - Sky Sport F1 🇮🇹
 - Sky Sport Motogp 🇮🇹
