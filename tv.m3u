@@ -20,6 +20,7 @@
 
 #EXTINF:-1 tvg-name="Contact: inspirationlivetv@gmail.com"
 tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/iconinspiration.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Agenda.png" group-title="AGENDA",AGENDA EVENTOS
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Agenda.png
 
 #EXTINF:-1 tvg-name="Contact: https://t.me/livetuga"
 tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/iconinspiration.webp" group-title="Canais Exclusivos",inspirationlivetv@gmail.com
