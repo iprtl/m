@@ -333,31 +333,100 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7
 
 --- 🌈🆁™ LIGA BETCLIC 🌍
 
+#EXTGRP:Liga Portuguesa
+#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.GolTV.Latinoamérica.pa" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Goltv 🇵🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+http://drewlive24.duckdns.org:4123?url=https://zekonew.newkso.ru/zeko/premium318/mono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
-#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Goltv 🇺🇸🇵🇪
+#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Goltv 🇺🇸🇵🇪
 http://181.78.106.127:9000/play/ca041/index.m3u8
 
-#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.GolTV.Latinoamérica.pa" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Goltv 🇵🇦
+#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.GolTV.Latinoamérica.pa" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Goltv 🇵🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 http://190.102.139.129:8090/play/a0gv
 
----
+#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Goltv 🇺🇸🇵🇪
+http://181.78.106.127:9000/play/ca041/index.m3u8
+http://38.41.8.1:8000/play/a0wi
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 1
+===========================================================
+
+#EXTINF:-1 tvg-id="Ring.BG.bg" tvg-name="Ring Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Ring 🇧🇬
+https://windnew.newkso.ru/wind/premium471/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+ELEVEN SPORTS 🇵🇱
+===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Eleven Sports 1 🇵🇱
+https://windnew.newkso.ru/wind/premium71/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Eleven Sports 2 🇵🇱
+https://windnew.newkso.ru/wind/premium72/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-3-int.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Eleven Sports 3 🇵🇱
+https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-4-int.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Eleven Sports 4 🇵🇱
+http://145.239.19.144:18088/272/mpegts
+
+===========================================================
+SPORTDIGITAL FUSSBALL 🇩🇪
+===========================================================
+
+#EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-logo="https://i.imgur.com/8KiZkJF.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Sportdigital Fussball 🇩🇪
+https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+CYTAVISION 🇨🇾
+===========================================================
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.1HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837138.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 1 🇨🇾
+https://windnew.newkso.ru/wind/premium911/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.2HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837147.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 2 🇨🇾
+https://windnew.newkso.ru/wind/premium912/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.3HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837156.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 3 🇨🇾
+https://windnew.newkso.ru/wind/premium913/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.4HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837177.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 4 🇨🇾
+https://windnew.newkso.ru/wind/premium914/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.5HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837186.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 5 🇨🇾
+https://windnew.newkso.ru/wind/premium915/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.6HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837195.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 6 🇨🇾
+https://windnew.newkso.ru/wind/premium916/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.7HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837204.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 7 🇨🇾
+https://windnew.newkso.ru/wind/premium917/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+SSC SPORT 🇸🇦
+===========================================================
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 1 🇸🇦
 https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 2 🇸🇦
 https://ddy6new.newkso.ru/ddy6/premium615/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 3 🇸🇦
 https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 4 🇸🇦
 https://ddy6new.newkso.ru/ddy6/premium617/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport 5 🇸🇦
 https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport Extra 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport Extra 1 🇸🇦
 https://dokko1new.newkso.ru/dokko1/premium619/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport Extra 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport Extra 2 🇸🇦
 https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport Extra 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",SSC Sport Extra 3 🇸🇦
 https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
@@ -2032,12 +2101,18 @@ https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 #EXTINF:-1 cuid="821" tvg-name="Futgo" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",FutGO 🇨🇱
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
 
---- 🌈
+=========================================================== 🌈
 
 #EXTINF:-1 cuid="911" tvg-name="L'Equipe 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",L'Equipe 1 🇫🇷
-https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+https://jmp2.uk/sam-FRBC4200004XH.m3u8
+#EXTINF:-1 cuid="911" tvg-name="L'Equipe 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",L'Equipe 1 🇫🇷
+https://d3fikx9gxqicmt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/Lequipe1_FR.m3u8
+
+
 #EXTINF:-1 cuid="912" tvg-name="L'Equipe 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",L'Equipe 2 🇫🇷
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
+#EXTINF:-1 cuid="912" tvg-name="L'Equipe 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",L'Equipe 2 🇫🇷
+https://jmp2.uk/sam-FRBC4200005X2.m3u8
 
 #EXTINF:-1 cuid="913" tvg-name="Sport en France 🇫🇷" tvg-id="Sport.en.France.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",Sport en France 🇫🇷
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
@@ -2724,13 +2799,13 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 cuid="1266" tvg-name="History Untold" tvg-id="" tvg-logo="https://i.imgur.com/JWihdcl.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",Movies Thriller 🇺🇸
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
---- 🌈SERIES BR
+--- 🆁™ 🌈SERIES BR ​
 
 #EXTINF:-1 cuid="1022" tvg-name="Sony One Emoções 🇧🇷" tvg-id="BRBA380003886" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Tv • Series 📺",Sony One Emoções 🇧🇷
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
-#EXTINF:-1 cuid="1023" tvg-name="Hallo! doc" tvg-id="" tvg-logo="https://hallo.tv.br/img/DOC.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Hallo! Doc 🇧🇷
+#EXTINF:-1 cuid="1023" tvg-name="Hallo! doc" tvg-id="" tvg-logo="https://hallo.tv.br/img/DOC.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Hallo! Doc 🇧🇷
 https://aovivo.doozytv.com.br/31025556/10162730/playlist.m3u8
 
 #EXTINF:-1 cuid="1024" tvg-name="Sony One Clássicos 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Tv • Series 📺",Sony One Clássicos 🇧🇷
@@ -3083,131 +3158,131 @@ https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 --- 🌈DOC & HISTORY
 
-#EXTINF:-1 cuid="1037" tvg-name="TV Investigação 🇧🇷" tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",TV Investigação 🇧🇷
+#EXTINF:-1 cuid="1037" tvg-name="TV Investigação 🇧🇷" tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",TV Investigação 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1038" tvg-name="Pronto Socorro 🇧🇷" tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Pronto Socorro 🇧🇷
+#EXTINF:-1 cuid="1038" tvg-name="Pronto Socorro 🇧🇷" tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Pronto Socorro 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1039" tvg-name="Curiosidade 🇧🇷" tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Curiosidade 🇧🇷
+#EXTINF:-1 cuid="1039" tvg-name="Curiosidade 🇧🇷" tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Curiosidade 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1040" tvg-name="Quebrando o Tabu 🇧🇷" tvg-id="62cd9e5a5c38c00007f5669a" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Quebrando o Tabu 🇧🇷
+#EXTINF:-1 cuid="1040" tvg-name="Quebrando o Tabu 🇧🇷" tvg-id="62cd9e5a5c38c00007f5669a" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Quebrando o Tabu 🇧🇷
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="1041" tvg-name="Docs Ville" tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B85AFD06-BBEB-4D60-9766-AAB20068F4E4/3-1x1.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Docs Ville 🇺🇸 [localnow]
+#EXTINF:-1 cuid="1041" tvg-name="Docs Ville" tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B85AFD06-BBEB-4D60-9766-AAB20068F4E4/3-1x1.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Docs Ville 🇺🇸 [localnow]
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=B85AFD06-BBEB-4D60-9766-AAB20068F4E4&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B85AFD06-BBEB-4D60-9766-AAB20068F4E4&ads.n4=content_name&ads.v4=EPG%20%7C%20Docsville&ads.n21=channel_id&ads.v21=B85AFD06-BBEB-4D60-9766-AAB20068F4E4
 
-#EXTINF:-1 cuid="1042" tvg-name="" tvg-id="plex.tv.True.History.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",True History
+#EXTINF:-1 cuid="1042" tvg-name="" tvg-id="plex.tv.True.History.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",True History
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=pAYwv6yWYjbLp7fkRvGU
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97.m3u8
 
-#EXTINF:-1 cuid="1370" tvg-name="Urban Doc 🇧🇷" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/18/public/1666632630/urban_docs-1666632630.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Urban Doc 🇧🇷
+#EXTINF:-1 cuid="1370" tvg-name="Urban Doc 🇧🇷" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/18/public/1666632630/urban_docs-1666632630.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Urban Doc 🇧🇷
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/107.m3u8
 +http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
-#EXTINF:-1 cuid="1371" tvg-name="Filmzie Doc 🇺🇸" tvg-logo="https://filmzie.com/assets/images/common/favicon-a3ea3628.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Filmzie Doc 🇺🇸
+#EXTINF:-1 cuid="1371" tvg-name="Filmzie Doc 🇺🇸" tvg-logo="https://filmzie.com/assets/images/common/favicon-a3ea3628.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Filmzie Doc 🇺🇸
 +https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="1372" tvg-name="Docu Vision" tvg-id="5739" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/docvision.webp" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Docu Vision
+#EXTINF:-1 cuid="1372" tvg-name="Docu Vision" tvg-id="5739" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/docvision.webp" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Docu Vision
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Documentary/title-DOCUVISION-ENG/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
 
-#EXTINF:-1 cuid="1373" tvg-name="True Lives By Tv Studios 🇺🇸" tvg-id="650315163a0d700008bb07f8" tvg-logo="https://images.pluto.tv/channels/650315163a0d700008bb07f8/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",True Lives By Tv Studios 🇺🇸
+#EXTINF:-1 cuid="1373" tvg-name="True Lives By Tv Studios 🇺🇸" tvg-id="650315163a0d700008bb07f8" tvg-logo="https://images.pluto.tv/channels/650315163a0d700008bb07f8/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",True Lives By Tv Studios 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/650315163a0d700008bb07f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89549daf-7b18-11ef-ba05-de36f43a927a
 
-#EXTINF:-1 cuid="1374" tvg-name="Biography The Icons 🇺🇸" tvg-id="US26000201N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20240826T235527SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Biography The Icons 🇺🇸
+#EXTINF:-1 cuid="1374" tvg-name="Biography The Icons 🇺🇸" tvg-id="US26000201N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20240826T235527SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Biography The Icons 🇺🇸
 https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8
 
-#EXTINF:-1 cuid="1375" tvg-name="CGTN Documentary 🇺🇸" tvg-id="CGTN.Documentary.(WOCK-CD4).Chicago,.IL.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CGTN-Documentary.webp" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",CGTN Documentary 🇺🇸
+#EXTINF:-1 cuid="1375" tvg-name="CGTN Documentary 🇺🇸" tvg-id="CGTN.Documentary.(WOCK-CD4).Chicago,.IL.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CGTN-Documentary.webp" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",CGTN Documentary 🇺🇸
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
-#EXTINF:-1 cuid="1376" tvg-name="World's Greatest 🇺🇸" tvg-id="625567abd664ea0007605f34" tvg-logo="https://images.pluto.tv/channels/625567abd664ea0007605f34/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",World's Greatest 🇺🇸
+#EXTINF:-1 cuid="1376" tvg-name="World's Greatest 🇺🇸" tvg-id="625567abd664ea0007605f34" tvg-logo="https://images.pluto.tv/channels/625567abd664ea0007605f34/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",World's Greatest 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/625567abd664ea0007605f34/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89549daf-7b18-11ef-ba05-de36f43a927a
 
-#EXTINF:-1 cuid="1377" tvg-name="REELZ Famous & Infamous 🇺🇸 [ᴛυʙɪ]" tvg-id="USBB3200001MG" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",REELZ Famous & Infamous 🇺🇸 [ᴛυʙɪ]
+#EXTINF:-1 cuid="1377" tvg-name="REELZ Famous & Infamous 🇺🇸 [ᴛυʙɪ]" tvg-id="USBB3200001MG" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",REELZ Famous & Infamous 🇺🇸 [ᴛυʙɪ]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
 
-#EXTINF:-1 cuid="1378" tvg-name="Real Disaster Channel 🇺🇸" tvg-id="64e89cfc9c1e3900084ca663" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb16500b-28af-4fc6-8c77-b76dd98b8b56/Logo_Real_Disaster_1500_x_1000_dark_-_Matt_Mattysiak.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Real Disaster Channel 🇺🇸
+#EXTINF:-1 cuid="1378" tvg-name="Real Disaster Channel 🇺🇸" tvg-id="64e89cfc9c1e3900084ca663" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb16500b-28af-4fc6-8c77-b76dd98b8b56/Logo_Real_Disaster_1500_x_1000_dark_-_Matt_Mattysiak.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Real Disaster Channel 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e89cfc9c1e3900084ca663/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1379" tvg-name="Real Disaster Channel² 🇺🇸" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb16500b-28af-4fc6-8c77-b76dd98b8b56/Logo_Real_Disaster_1500_x_1000_dark_-_Matt_Mattysiak.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Real Disaster Channel² 🇺🇸
+#EXTINF:-1 cuid="1379" tvg-name="Real Disaster Channel² 🇺🇸" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb16500b-28af-4fc6-8c77-b76dd98b8b56/Logo_Real_Disaster_1500_x_1000_dark_-_Matt_Mattysiak.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Real Disaster Channel² 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64d2b6bf9b414d0008187d83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1380" tvg-name="" tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-logo="https://declassified-tv.com/wp-content/uploads/2024/03/Declassified_Logo_Red.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Declassified 🇺🇸
+#EXTINF:-1 cuid="1380" tvg-name="" tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-logo="https://declassified-tv.com/wp-content/uploads/2024/03/Declassified_Logo_Red.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Declassified 🇺🇸
 https://is.gd/Bk9MyR?m3u8
 https://da8eq3kpws4wh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]
 https://stitcher.pluto.tv/stitch/hls/channel/62bdaf9cf1bdc500073a8bcb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc
 
 
-#EXTINF:-1 cuid="1381" tvg-name="Music Legends 🇺🇸" tvg-id="plex.tv.Music.Legends.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Music Legends 🇺🇸
+#EXTINF:-1 cuid="1381" tvg-name="Music Legends 🇺🇸" tvg-id="plex.tv.Music.Legends.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Music Legends 🇺🇸
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=MX62w_sAFbQMHQUaFY9h
 
-#EXTINF:-1 cuid="1382" tvg-name="Intervention by A&E 🇺🇸" tvg-id="GB2700002F7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acee4d52-4641-4ccf-bae2-120bec86f481/Intervention_COLOR_WIDE_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Intervention by A&E 🇺🇸
+#EXTINF:-1 cuid="1382" tvg-name="Intervention by A&E 🇺🇸" tvg-id="GB2700002F7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acee4d52-4641-4ccf-bae2-120bec86f481/Intervention_COLOR_WIDE_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Intervention by A&E 🇺🇸
 https://amg00276-aenetwork-amg00276c17-lg-ca-7271.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-interventionsubfeedall-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1 cuid="1383" tvg-name="PBS Digital Studios 🇺🇸" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20250325T020244SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",PBS Digital Studios 🇺🇸
+#EXTINF:-1 cuid="1383" tvg-name="PBS Digital Studios 🇺🇸" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20250325T020244SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",PBS Digital Studios 🇺🇸
 https://jmp2.uk/sam-USBB800001O7.m3u8
 
-#EXTINF:-1 cuid="1384" tvg-name="" tvg-id="10953" tvg-id="titanic-tv" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",The Titanic Channel 🇺🇸
+#EXTINF:-1 cuid="1384" tvg-name="" tvg-id="10953" tvg-id="titanic-tv" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",The Titanic Channel 🇺🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/titanic-tv/master.m3u8
 
-#EXTINF:-1 cuid="1385" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️", 🇺🇸
+#EXTINF:-1 cuid="1385" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️", 🇺🇸
 +https://
 
-#EXTINF:-1 cuid="1386" tvg-name="WBTV Mysteries Worlds [ᴛυʙɪ]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73512c80-94bf-4f2a-bf54-18d3f6d1a41a/MysteriousWorlds_Logo_Dark_1500x1000.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Mysteries Worlds by WBtv 🇺🇸
+#EXTINF:-1 cuid="1386" tvg-name="WBTV Mysteries Worlds [ᴛυʙɪ]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73512c80-94bf-4f2a-bf54-18d3f6d1a41a/MysteriousWorlds_Logo_Dark_1500x1000.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Mysteries Worlds by WBtv 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8
 
-#EXTINF:-1 cuid="1387" tvg-name="Beyond History 🇺🇸" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Beyond History 🇺🇸
+#EXTINF:-1 cuid="1387" tvg-name="Beyond History 🇺🇸" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Beyond History 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1388" tvg-name="World War TV 🇺🇸" tvg-id="6319ee0cf78bb10007ee5e6b" tvg-logo="https://images.pluto.tv/channels/6319ee0cf78bb10007ee5e6b/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",World War TV 🇺🇸
+#EXTINF:-1 cuid="1388" tvg-name="World War TV 🇺🇸" tvg-id="6319ee0cf78bb10007ee5e6b" tvg-logo="https://images.pluto.tv/channels/6319ee0cf78bb10007ee5e6b/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",World War TV 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6319ee0cf78bb10007ee5e6b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1389" tvg-name="Wonder tv 🇺🇸" tvg-id="plex.tv.Wonder.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Wonder tv 🇺🇸
+#EXTINF:-1 cuid="1389" tvg-name="Wonder tv 🇺🇸" tvg-id="plex.tv.Wonder.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Wonder tv 🇺🇸
 https://lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8
 
-#EXTINF:-1 cuid="1390" tvg-name="Inwonder tv 🇺🇸 [xɪᴀᴏᴍɪ]" tvg-id="USBA300023G8" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/INWONUS/large.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Inwonder tv 🇺🇸 [xɪᴀᴏᴍɪ]
+#EXTINF:-1 cuid="1390" tvg-name="Inwonder tv 🇺🇸 [xɪᴀᴏᴍɪ]" tvg-id="USBA300023G8" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/INWONUS/large.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Inwonder tv 🇺🇸 [xɪᴀᴏᴍɪ]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
 
-#EXTINF:-1 cuid="1391" tvg-name="Smithsonian Channel Selects 🇺🇸" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels//5f21ea08007a49000762d349/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Smithsonian Channel Selects 🇺🇸
+#EXTINF:-1 cuid="1391" tvg-name="Smithsonian Channel Selects 🇺🇸" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels//5f21ea08007a49000762d349/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Smithsonian Channel Selects 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1392" tvg-name="Doc+ 🇺🇸" tvg-id="CABC2300019UD" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Doc+ 🇺🇸
+#EXTINF:-1 cuid="1392" tvg-name="Doc+ 🇺🇸" tvg-id="CABC2300019UD" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Doc+ 🇺🇸
 https://linear-887.frequency.stream/mt/documentaryplus/887/hls/master/playlist.m3u8?1
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
 
 
 
-#EXTINF:-1 cuid="1393" tvg-name="Documentary+ 🇨🇦" tvg-id="CABC2300019UD" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Documentary+ 🇨🇦
+#EXTINF:-1 cuid="1393" tvg-name="Documentary+ 🇨🇦" tvg-id="CABC2300019UD" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Documentary+ 🇨🇦
 https://d1m3onyj8k8btx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-51sz7lei1ddj6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=CABC2300019UD
 
-#EXTINF:-1 cuid="1394" tvg-name="Documentary+" tvg-id="plex.tv.Documentary+.plex" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Documentary+ 🇺🇸
+#EXTINF:-1 cuid="1394" tvg-name="Documentary+" tvg-id="plex.tv.Documentary+.plex" tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=w0" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Documentary+ 🇺🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
 
-#EXTINF:-1 cuid="1395" tvg-name="Docu Plus" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Docu+ 🇺🇸
+#EXTINF:-1 cuid="1395" tvg-name="Docu Plus" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Docu+ 🇺🇸
 https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="1396" tvg-name="Historias de Ultratumba 🇲🇽" tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Historias de Ultratumba 🇲🇽
+#EXTINF:-1 cuid="1396" tvg-name="Historias de Ultratumba 🇲🇽" tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Historias de Ultratumba 🇲🇽
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1397" tvg-name="History 🇲🇽" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",History 🇲🇽
+#EXTINF:-1 cuid="1397" tvg-name="History 🇲🇽" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",History 🇲🇽
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1398" tvg-name="History 🇺🇸" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",History 🇺🇸
+#EXTINF:-1 cuid="1398" tvg-name="History 🇺🇸" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",History 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1399" tvg-name="Autentic History 🇺🇸" tvg-logo="https://cdn-01.watch4.com/01/1739453775_autentic-history_red_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Autentic History 🇺🇸
+#EXTINF:-1 cuid="1399" tvg-name="Autentic History 🇺🇸" tvg-logo="https://cdn-01.watch4.com/01/1739453775_autentic-history_red_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Autentic History 🇺🇸
 https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 
-#EXTINF:-1 cuid="1400" tvg-name="Xtreme Outdoor by History  🇺🇸" tvg-id="USAK3508706A" tvg-logo="https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Xtreme Outdoor by History  🇺🇸
+#EXTINF:-1 cuid="1400" tvg-name="Xtreme Outdoor by History  🇺🇸" tvg-id="USAK3508706A" tvg-logo="https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Xtreme Outdoor by History  🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1401" tvg-name="Modern Marvels by History 🇺🇸" tvg-id="657883cab228b700084414b3" tvg-logo="https://images.pluto.tv/channels/657883cab228b700084414b3/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Modern Marvels by History 🇺🇸
+#EXTINF:-1 cuid="1401" tvg-name="Modern Marvels by History 🇺🇸" tvg-id="657883cab228b700084414b3" tvg-logo="https://images.pluto.tv/channels/657883cab228b700084414b3/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Modern Marvels by History 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/657883cab228b700084414b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1402" tvg-name="Military 🇺🇸" tvg-id="5bb3fea0f711fd76340eebff" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Military 🇺🇸
+#EXTINF:-1 cuid="1402" tvg-name="Military 🇺🇸" tvg-id="5bb3fea0f711fd76340eebff" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Military 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 --- 🌈PETS
@@ -3249,16 +3324,16 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccb
 
 ---
 
-#EXTINF:-1 cuid="1055" tvg-name="Curiosity Now" tvg-id="UK:.Curiosity.Now.en" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900010X3_20220824T022304SQUARE.png_20220824022305.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",Curiosity Now
+#EXTINF:-1 cuid="1055" tvg-name="Curiosity Now" tvg-id="UK:.Curiosity.Now.en" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900010X3_20220824T022304SQUARE.png_20220824022305.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",Curiosity Now
 https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8?vpnusa
 
-#EXTINF:-1 cuid="1056" tvg-name="Docu Plus" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",
+#EXTINF:-1 cuid="1056" tvg-name="Docu Plus" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",
 #http
 
-#EXTINF:-1 cuid="1057" tvg-name="Docu Plus" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",
+#EXTINF:-1 cuid="1057" tvg-name="Docu Plus" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",
 #http
 
-#EXTINF:-1 cuid="1058" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ Doc & History 🏛️",
+#EXTINF:-1 cuid="1058" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Docuplus.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="Doc & History 🏛️",
 #http
 
 --- 🌈VIDA SELVAGEM
