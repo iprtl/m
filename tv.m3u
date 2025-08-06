@@ -18,9 +18,11 @@
 \\\\\\\\\\\\\\\\\\\\\\\\ FORA GITHUB/INSPIRATIONLINKS É UMA COPIA ///////////////////////
 
 
+#EXTINF:-1 tvg-name="Contact: inspirationlivetv@gmail.com"
+tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/iconinspiration.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Agenda.png" group-title="AGENDA",AGENDA EVENTOS
 
 #EXTINF:-1 tvg-name="Contact: https://t.me/livetuga"
-tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/iconinspiration.webp" group-title="Canais Exclusivos",@livetuga
+tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/iconinspiration.webp" group-title="Canais Exclusivos",inspirationlivetv@gmail.com
 https://t.me/livetuga
 
 #EXTINF:-1 tvg-name="Contact: https://t.me/livetuga" 
@@ -382,6 +384,25 @@ SPORTDIGITAL FUSSBALL 🇩🇪
 
 #EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-logo="https://i.imgur.com/8KiZkJF.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Sportdigital Fussball 🇩🇪
 https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+SPORT KLUB SK 🇷🇸
+===========================================================
+
+#EXTINF:-1 tvg-id="SK1.ba" tvg-name="Sport Klub 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-1-hr.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Sport Klub 1 🇷🇸
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="SK.2.HR.(Portals).ba" tvg-name="Sport Klub 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-2-hr.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Sport Klub 2 🇷🇸
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-3-hr.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Sport Klub 3 🇷🇸
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8|Referer=https%3A%2F%2Fxtreaweb.top%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxtreaweb.top
+
+#EXTINF:-1 tvg-id="SK.4.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-4-hr.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Sport Klub 4 🇷🇸
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Sportklub.HD.pl" tvg-name="Sport Klub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/hd/sportklub-hd-hr.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Sport Klub HD
+https://windnew.newkso.ru/wind/premium453/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ===========================================================
 CYTAVISION 🇨🇾
