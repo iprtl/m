@@ -157,21 +157,21 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #EXTINF:-1 cuid="19" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI Internacionalᶠᴴᴰ 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI Internacionalᶠᴴᴰ 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgNDo0ODoyMSBQTSZoYXNoX3ZhbHVlPU9KZ2lJVEk3Rng2ZG9weUYyRXZOelE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNDdhNDQyMy01ZjkwLTQ5NWQtODUwMy05NWIwMDczMTgwMGE=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgODo1MDo0IEFNJmhhc2hfdmFsdWU9cDNMa0RFM1FKdmQ3Ri96bFZBWkgydz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdhYjc1NTY2LTQ5NzUtNDc5Ni1hZjgyLWUyYzJmMTUxMGIzOQ==/
 
 =========================================================== 🌈 𝙏𝙑𝙡 
 
 #EXTINF:-1 cuid="21" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgNDo0ODoxOSBQTSZoYXNoX3ZhbHVlPVNCVGM5alRGMlJFRXkxY2pUNjhENFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00OTNhZmY3Yi02NmZlLTQyYzItYWM0Ni1iY2ZlNWNkNThkNDU=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgODo1MDoyIEFNJmhhc2hfdmFsdWU9SWNhVXJXNHNPVG1rNjRxeENnbGgrZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZlNWU3NTk5LTc1YjMtNDY3OC04M2Q5LTcxYzUxNmQxMzMyZg==/
 
 =========================================================== 🌈 CNN 𝙏𝙑𝙡 
 
 #EXTINF:-1 cuid="23" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNportugal.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNportugal.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgNDo0ODoyMSBQTSZoYXNoX3ZhbHVlPUpLZHVUM1d1SnhUcEsxTkl1d2thQ0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NWM3MmY2Yy03MzdmLTRhOWYtYmFkMi1lMDc4YmRmYzZhMzU=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgODo1MDozIEFNJmhhc2hfdmFsdWU9SHY0WXY5dGtNSWdYSDJFVWRrWFdqUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTcyYzA1MDBkLWE0NmYtNDM1MS1iMTgyLTE2MDhkYWQ0OThlYQ==/
 
 =========================================================== 🌈
 
@@ -331,7 +331,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7
 
 
 
-=========================================================== 🌈🆁™ LIGA BETCLIC 🌍
+=========================================================== 
+🌈🆁™ LIGA BETCLIC 🌍
+=========================================================== 
 
 #EXTGRP:Liga Portuguesa
 #EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.GolTV.Latinoamérica.pa" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Goltv 🇵🇦
@@ -350,31 +352,11 @@ http://181.78.106.127:9000/play/ca041/index.m3u8
 http://38.41.8.1:8000/play/a0wi
 
 ===========================================================
+Ring 🇧🇬
+===========================================================
 
 #EXTINF:-1 tvg-id="Ring.BG.bg" tvg-name="Ring Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Ring 🇧🇬
 https://windnew.newkso.ru/wind/premium471/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-===========================================================
-ELEVEN SPORTS 🇵🇱
-===========================================================
-
-#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Eleven Sports 1 🇵🇱
-https://windnew.newkso.ru/wind/premium71/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-===========================================================
-
-#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Eleven Sports 2 🇵🇱
-https://windnew.newkso.ru/wind/premium72/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-===========================================================
-
-#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-3-int.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Eleven Sports 3 🇵🇱
-https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-===========================================================
-
-#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-4-int.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Eleven Sports 4 🇵🇱
-http://145.239.19.144:18088/272/mpegts
 
 ===========================================================
 SPORTDIGITAL FUSSBALL 🇩🇪
@@ -382,6 +364,20 @@ SPORTDIGITAL FUSSBALL 🇩🇪
 
 #EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-logo="https://i.imgur.com/8KiZkJF.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Sportdigital Fussball 🇩🇪
 https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+COSMOTE SPORT 🇬🇷
+===========================================================
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-1.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cosmote Sport 1 🇬🇷
+https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8|Referer=https%3A%2F%2Fxextreamplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxextreamplay.xyz
+
+===========================================================
+SPORT 4 🇮🇱
+===========================================================
+
+#EXTINF:-1 tvg-id="Sport.4.HD.il" tvg-name="Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport4-il.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Sport 4 🇮🇱
+https://zekonew.newkso.ru/zeko/premium143/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ===========================================================
 SPORT KLUB SK 🇷🇸
@@ -406,26 +402,8 @@ https://windnew.newkso.ru/wind/premium453/mono.m3u8|referer=https://caq21harderv
 CYTAVISION 🇨🇾
 ===========================================================
 
-#EXTINF:-1 tvg-id="Cytavision.Sports.1HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837138.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 1 🇨🇾
-https://windnew.newkso.ru/wind/premium911/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Cytavision.Sports.2HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837147.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 2 🇨🇾
-https://windnew.newkso.ru/wind/premium912/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Cytavision.Sports.3HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837156.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 3 🇨🇾
-https://windnew.newkso.ru/wind/premium913/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Cytavision.Sports.4HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837177.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 4 🇨🇾
-https://windnew.newkso.ru/wind/premium914/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Cytavision.Sports.5HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837186.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 5 🇨🇾
-https://windnew.newkso.ru/wind/premium915/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
 #EXTINF:-1 tvg-id="Cytavision.Sports.6HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837195.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 6 🇨🇾
 https://windnew.newkso.ru/wind/premium916/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Cytavision.Sports.7HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837204.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Cytavision Sports 7 🇨🇾
-https://windnew.newkso.ru/wind/premium917/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ===========================================================
 SSC SPORT 🇸🇦
@@ -474,7 +452,17 @@ https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|referer=https://caq21har
 
 
 
-=========================================================== 🌈𝙈𝙚𝙩𝙚𝙤𝙧𝙤𝙡𝙤𝙜𝙮 ❄︎ 
+
+
+
+
+
+
+
+
+=========================================================== 
+🌈𝙈𝙚𝙩𝙚𝙤𝙧𝙤𝙡𝙤𝙜𝙮 ❄︎ 
+=========================================================== 
 
 #EXTINF:-1 cuid="52" tvg-name="FOX.Weather" tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
@@ -500,7 +488,9 @@ https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 cuid="59" tvg-name="The Weather Channel 🇺🇸🇨🇦" tvg-id="The.Weather.Channel.us" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",The Weather Channel 🇺🇸🇨🇦
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
 
-=========================================================== 🌈NEWS BRASIL
+=========================================================== 
+🌈NEWS BRASIL
+=========================================================== 
 
 #EXTINF:-1 cuid="60" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/euronews.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",Euronews 🇵🇹
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/e/26035/euronews-pt.m3u8
@@ -538,7 +528,9 @@ https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1 cuid="71" tvg-name="4POR4 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Icon-4por4-100x100-03_UrG9Y2y.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",4POR4 🇧🇷
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
-=========================================================== 🌈 𝙉𝙚𝙬𝙨 🌍
+=========================================================== 
+🌈 𝙉𝙚𝙬𝙨 🌍
+=========================================================== 
 
 #EXTINF:-1 cuid="72" tvg-name="24h 🇪🇸" tvg-id="ESBC4100004J1" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/24Horas.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",24h 🇪🇸
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
@@ -562,7 +554,9 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 cuid="78" tvg-name="Canal Sur Más Noticias 🇪🇸" tvg-logo="https://www.canalsurmas.es/icons/favicon-96x96.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Canal Sur Más Noticias 🇪🇸
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 
-=========================================================== 🌈SUL AMERICANOS
+=========================================================== 
+🌈SUL AMERICANOS
+=========================================================== 
 
 #EXTINF:-1 cuid="79" tvg-name="Noticias Telemundo Ahora" tvg-id="US3000005RS" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Noticias Telemundo Ahora 🇺🇸🇲🇽
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_channelId=88814626&ads.xumo_streamId=88814626
@@ -585,7 +579,9 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99993040/hls/master.m3u8?ads.xumo_ch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-=========================================================== 🌈ITALIANOS
+=========================================================== 
+🌈ITALIANOS
+=========================================================== 
 
 #EXTINF:-1 cuid="85" tvg-name="Rai News 24 🇮🇹" tvg-id="RaiNews24.it" tvg-logo="https://logo.iptveditor.com/rainews24.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Rai News 24 🇮🇹
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
@@ -598,7 +594,9 @@ https://stream6.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8?nimbleses
 #EXTINF:-1 cuid="87" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",
 #http
 
-=========================================================== 🌈FRANCESES
+=========================================================== 
+🌈FRANCESES
+=========================================================== 
 
 #EXTINF:-1 cuid="88" tvg-name="Euronews 🇫🇷" tvg-id="Euronews.fr" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0a48729-6f08-43e4-9cc4-44ba472281de/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Euronews 🇫🇷
 https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiMTYwZWIwZDUtM2JlNS00YmM4LWFlNjYtNTFlNGQ3YTU0NjI0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjoxfQ==/26032/euronews-fr.m3u8
@@ -634,7 +632,9 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 cuid="98" tvg-name="África News 🇺🇸🇫🇷" tvg-id="UK:.Africanews.en" tvg-logo="https://www.africaNews.com/apple-touch-icon-precomposed.png?v=3" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",África News 🇺🇸🇫🇷
 #https://rakuten-africaNews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
-=========================================================== 🌈INGLESES & NORTE AMERICANOS
+=========================================================== 
+🌈INGLESES & NORTE AMERICANOS
+=========================================================== 
 
 #EXTINF:-1 cuid="99" tvg-name="European Parliament tv 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://yt3.googleusercontent.com/y6I27yW5rcdKML5uWm2yuXD8KPbt9bjoDnSvPYaiLNFPs6uQzHCXMGsyvKSP1Y4Xxo_67Nb0jw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",European Parliament tv 🇬🇧
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
@@ -651,7 +651,9 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 #EXTINF:-1 cuid="103" tvg-name="Car Chase News 🇺🇸" tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Car Chase News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65244c403fd33c0008ffff31/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-=========================================================== 🌈CNN CHANNELS
+=========================================================== 
+🌈CNN CHANNELS
+=========================================================== 
 
 #EXTINF:-1 cuid="104" tvg-name="CNN 🇺🇸" tvg-id="CNN.HD.uk" tvg-logo="https://logo.iptveditor.com/cnn.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",CNN 🇺🇸
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
@@ -689,7 +691,9 @@ https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imaf
 #EXTINF:-1 cuid="113" tvg-name="Cheddar News 🇺🇸" tvg-id="USAJ3504714A" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/CheddarNews_1920x1080.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Cheddar News 🇺🇸
 https://cheddar-cheddar-3-us.vizio.wurl.tv/playlist.m3u8
 
-=========================================================== 🌈FOX CHANNELS
+=========================================================== 
+🌈FOX CHANNELS
+=========================================================== 
 
 #EXTINF:-1 cuid="114" tvg-name="Sky News 🇺🇸" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/sky_news_us.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Sky News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
@@ -713,7 +717,9 @@ https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8
 #EXTINF:-1 cuid="120" tvg-name="GB News 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",GB News 🇬🇧
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
-=========================================================== 🌈NBC
+=========================================================== 
+🌈NBC
+=========================================================== 
 
 #EXTINF:-1 cuid="121" tvg-name="NBC San Francisco News 🇺🇸" tvg-id="NBC.(KNTV).San.Francisco,.CA.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",NBC San Francisco News 🇺🇸
 https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
@@ -734,7 +740,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c8
 #EXTINF:-1 cuid="126" tvg-name="NBC News Now 🇺🇸" tvg-id="CW.(KRIS-DT2).Corpus.Christi,.TX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍"NBC 6 🇺🇸
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 
-=========================================================== 🌈CBS
+=========================================================== 
+🌈CBS
+=========================================================== 
 
 #EXTINF:-1 cuid="127" tvg-name="CBS News Boston 🇺🇸" tvg-id="CBSNewsBoston.us" tvg-logo="https://i.imgur.com/9un7R3N.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",CBS News Boston 🇺🇸
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
@@ -782,7 +790,9 @@ https://d36tuf8zz9b2bm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 cuid="141" tvg-name="CBS News 24/7 🇺🇸" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoSVG.svg" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",CBS News 24/7 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c6e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-=========================================================== 🌈ABC
+=========================================================== 
+🌈ABC
+=========================================================== 
 
 #EXTINF:-1 cuid="142" tvg-name="Global News Toronto" tvg-id="62cc00b3b821cf00070f82c3" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Global News Toronto
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -796,7 +806,9 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 cuid="145" tvg-name="ABC News Live 🇺🇸" tvg-id="ABC.NEWS.us" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",ABC News Live 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d700008c534e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-=========================================================== 🌈BBC
+=========================================================== 
+🌈BBC
+=========================================================== 
 
 #EXTINF:-1 cuid="146" tvg-name="BBC News 🇺🇸" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BBC_News_Logo_16_9501.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",BBC News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -804,7 +816,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e28
 #EXTINF:-1 cuid="147" tvg-name="BBC News 🇺🇸" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BBC_News_Logo_16_9501.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",BBC News₂ 🇬🇧
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
-=========================================================== 🌈VARIOS
+=========================================================== 
+🌈VARIOS
+=========================================================== 
 
 #EXTINF:-1 cuid="148" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍", 🇺🇸
 #http
@@ -849,7 +863,9 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/index.m3u8
 #EXTINF:-1 cuid="161" tvg-name="Channel News Asia" tvg-id="Channel.News.Asia.id" tvg-logo="https://logo.iptveditor.com/cna.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-=========================================================== 🌈 𝙆𝙞𝙙𝙨 🧒 🇵🇹🇧🇷
+=========================================================== 
+🌈 𝙆𝙞𝙙𝙨 🧒 🇵🇹🇧🇷
+=========================================================== 
 
 #EXTINF:-1 cuid="162" tvg-name="GLN 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_PNG_DIMENS%C3%A2O_100X100_-_GLN_TV_reduz_zKzqMEP.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Kids 🧒🌎",GLN 🇧🇷
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
@@ -1823,7 +1839,9 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1 cuid="1811" tvg-name="" tvg-id="AMG-TV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
-=========================================================== 🆁™ ABC
+=========================================================== 
+🆁™ ABC
+===========================================================
 
 #EXTINF:-1 cuid="1808" tvg-name="" tvg-id="ABCTV.au@Adelaide" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",ABC TV Adelaide
 https://c.mjh.nz/abc-sa.m3u8
@@ -1832,15 +1850,17 @@ https://c.mjh.nz/abc-qld.m3u8
 #EXTINF:-1 cuid="1810" tvg-name="" tvg-id="ABCTVPlus.au@Sydney" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
 
-=========================================================== 🆁™ PBS CHANNELS
+=========================================================== 
+🆁™ PBS CHANNELS
+===========================================================
 
-#EXTINF:-1 cuid="1806" tvg-name="" tvg-id="plex.tv.PBS.Antiques.Roadshow.plex" tvg-logo="https://i.imgur.com/U9CYaok.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",PBS Antiques Roadshow 
+#EXTINF:-1 cuid="1806" tvg-name="" tvg-id="plex.tv.PBS.Antiques.Roadshow.plex" tvg-logo="https://i.imgur.com/U9CYaok.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",PBS Antiques Roadshow (vᴘɴ 🇺🇸)
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="1807" tvg-name="" tvg-id="PBS.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",PBS National East 🇫🇷 
+#EXTINF:-1 cuid="1807" tvg-name="" tvg-id="PBS.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",PBS National East (vᴘɴ 🇺🇸)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
-#EXTINF:-1 cuid="1792" tvg-name="" tvg-id="plex.tv.PBS.Nature.plex" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",PBS Nature [vᴘɴ 🇺🇸]
+#EXTINF:-1 cuid="1792" tvg-name="" tvg-id="plex.tv.PBS.Nature.plex" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",PBS Nature (vᴘɴ 🇺🇸)
 https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="1797" tvg-name="" tvg-id="PBS.(WKPC).Louisville,.KY.us" tvg-logo="https://logo.iptveditor.com/pbs.png" group-logo="https://cdn-icons-png.freepik.com/256/17280/17280749.png" group-title="Internacionais",PBS KET Louisville KY
@@ -2005,6 +2025,183 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d
 
 #EXTINF:-1 cuid="781" tvg-name="13 Teleseries 🇨🇱" tvg-logo="https://i.imgur.com/aJMBnse.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",13 Teleseries 🇨🇱
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===========================================================
+ELEVEN SPORTS 🇵🇱
+===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Eleven Sports 1 🇵🇱
+https://windnew.newkso.ru/wind/premium71/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Eleven Sports 2 🇵🇱
+https://windnew.newkso.ru/wind/premium72/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-3-int.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Eleven Sports 3 🇵🇱
+https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-4-int.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Eleven Sports 4 🇵🇱
+http://145.239.19.144:18088/272/mpegts
+
+===========================================================
+CYTAVISION 🇨🇾
+===========================================================
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.1HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837138.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Cytavision Sports 1 🇨🇾
+https://windnew.newkso.ru/wind/premium911/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.2HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837147.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Cytavision Sports 2 🇨🇾
+https://windnew.newkso.ru/wind/premium912/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.3HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837156.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Cytavision Sports 3 🇨🇾
+https://windnew.newkso.ru/wind/premium913/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.4HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837177.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Cytavision Sports 4 🇨🇾
+https://windnew.newkso.ru/wind/premium914/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.5HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837186.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Cytavision Sports 5 🇨🇾
+https://windnew.newkso.ru/wind/premium915/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.7HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837204.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Cytavision Sports 7 🇨🇾
+https://windnew.newkso.ru/wind/premium917/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+============================SPORT 5 🇮🇱===============================
+
+#EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-name="Sport 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5sport-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 🇮🇱
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="5PLUS.HD.il" tvg-name="Sport 5 PLUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5plus-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 + 🇮🇱
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="5LIVE.HD.il" tvg-name="Sport 5 Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5live-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 Live 🇮🇱
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="5STARS.il" tvg-name="Sport 5 Star" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5stars-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 Star 🇮🇱
+https://zekonew.newkso.ru/zeko/premium147/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="5GOLD.il" tvg-name="Sport 5 Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 Gold 🇮🇱
+https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+===========================================================
+
+#EXTINF:-1 tvg-id="Sport.1.HD.il" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport1-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 1 🇮🇱 
+https://zekonew.newkso.ru/zeko/premium140/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Sport.2.HD.il" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport2-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 2 🇮🇱 
+https://zekonew.newkso.ru/zeko/premium141/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Sport.3.HD.il" tvg-name="Sport 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport3-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 3 🇮🇱
+https://zekonew.newkso.ru/zeko/premium142/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+===========================================================
+
+#EXTINF:-1 cuid="983" tvg-name="Alkass Two 🇸🇦" tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Alkass Two 🇸🇦
++https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+
+#EXTINF:-1 cuid="984" tvg-name="Alkass Three 🇸🇦" tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Alkass Three 🇸🇦
++https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+
+#EXTINF:-1 cuid="985" tvg-name="Alkass Five 🇸🇦" tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Alkass Five 🇸🇦
++https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+
+#EXTINF:-1 cuid="986" tvg-name="Alkass SHOOF 🇸🇦" tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Alkass SHOOF 🇸🇦
++https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+
+=========================================================== 
+🌈J SPORTS 🇯🇵
+=========================================================== 
+
+#EXTINF:-1 cuid="991" tvg-name="J Sports 1 🇯🇵" tvg-id="J.SPORTS.1.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",J Sports 1 🇯🇵
++https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 cuid="992" tvg-name="J Sports 2 🇯🇵" tvg-id="J.SPORTS.2.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",J Sports 2 🇯🇵
++https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 cuid="993" tvg-name="J Sports 3 🇯🇵" tvg-id="J.SPORTS.3.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",J Sports 3 🇯🇵
++https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 cuid="994" tvg-name="J Sports 4 🇯🇵" tvg-id="J.SPORTS.4.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",J Sports 4 🇯🇵
++https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+===========================================================
+
+#EXTINF:-1 cuid="995" tvg-name="" tvg-logo="https://logo.iptveditor.com/geosuper.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",GEO SUPER 🇮🇳
++http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+#EXTINF:-1 cuid="996" tvg-name="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",UZ sport 🇺🇿
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+
+#EXTINF:-1 cuid="997" tvg-name="Sukan rtm 🇲🇾🇺🇸" tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1600px-Sukan_RTM_1_April.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sukan rtm 🇲🇾🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 cuid="998" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Turkmenistan Sport 🇹🇲
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2454,7 +2651,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 cuid="979" tvg-name="Sports Connect" tvg-id="Sports.Connect.distro" tvg-logo="https://i.imgur.com/CZ2wQig.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",Sports Connect 🐴
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 
-=========================================================== 🌈 Dubai ALKASS 🇸🇦
+=========================================================== 
+🌈 Dubai ALKASS 🇸🇦
 
 #EXTINF:-1 cuid="980" tvg-name="Dubai.Racing" tvg-id="Dubai.Racing.ae" tvg-logo="https://logo.iptveditor.com/dubairacing.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",Dubai Racing 🇸🇦 🐴
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
@@ -2466,79 +2664,6 @@ https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 
 
-============================SPORT 5 🇮🇱===============================
-
-#EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-name="Sport 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5sport-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 🇮🇱
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="5PLUS.HD.il" tvg-name="Sport 5 PLUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5plus-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 + 🇮🇱
-https://zekonew.newkso.ru/zeko/premium145/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="5LIVE.HD.il" tvg-name="Sport 5 Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5live-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 Live 🇮🇱
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="5STARS.il" tvg-name="Sport 5 Star" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5stars-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 Star 🇮🇱
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="5GOLD.il" tvg-name="Sport 5 Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 5 Gold 🇮🇱
-https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-===========================================================
-
-#EXTINF:-1 tvg-id="Sport.1.HD.il" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport1-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 1 🇮🇱 
-https://zekonew.newkso.ru/zeko/premium140/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Sport.2.HD.il" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport2-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 2 🇮🇱 
-https://zekonew.newkso.ru/zeko/premium141/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Sport.3.HD.il" tvg-name="Sport 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport3-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 3 🇮🇱
-https://zekonew.newkso.ru/zeko/premium142/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Sport.4.HD.il" tvg-name="Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport4-il.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sport 4 🇮🇱
-https://zekonew.newkso.ru/zeko/premium143/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-===========================================================
-
-#EXTINF:-1 cuid="983" tvg-name="Alkass Two 🇸🇦" tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Alkass Two 🇸🇦
-+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
-
-#EXTINF:-1 cuid="984" tvg-name="Alkass Three 🇸🇦" tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Alkass Three 🇸🇦
-+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
-
-#EXTINF:-1 cuid="985" tvg-name="Alkass Five 🇸🇦" tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Alkass Five 🇸🇦
-+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
-
-#EXTINF:-1 cuid="986" tvg-name="Alkass SHOOF 🇸🇦" tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Alkass SHOOF 🇸🇦
-+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
-
-=========================================================== 🌈J SPORTS 🇯🇵
-
-#EXTINF:-1 cuid="991" tvg-name="J Sports 1 🇯🇵" tvg-id="J.SPORTS.1.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",J Sports 1 🇯🇵
-+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 cuid="992" tvg-name="J Sports 2 🇯🇵" tvg-id="J.SPORTS.2.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",J Sports 2 🇯🇵
-+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 cuid="993" tvg-name="J Sports 3 🇯🇵" tvg-id="J.SPORTS.3.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",J Sports 3 🇯🇵
-+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 cuid="994" tvg-name="J Sports 4 🇯🇵" tvg-id="J.SPORTS.4.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",J Sports 4 🇯🇵
-+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-===========================================================
-
-#EXTINF:-1 cuid="995" tvg-name="" tvg-logo="https://logo.iptveditor.com/geosuper.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",GEO SUPER 🇮🇳
-+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-
-#EXTINF:-1 cuid="996" tvg-name="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",UZ sport 🇺🇿
-https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
-
-#EXTINF:-1 cuid="997" tvg-name="Sukan rtm 🇲🇾🇺🇸" tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1600px-Sukan_RTM_1_April.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Sukan rtm 🇲🇾🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 cuid="998" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",Turkmenistan Sport 🇹🇲
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
 
 
