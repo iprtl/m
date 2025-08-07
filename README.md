@@ -18,7 +18,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
-- 📺 [Playlist](#Playlist-Inspiration-Links)
+- 📺 [Playlist M3U](#Playlist-Inspiration-Links)
 - 🌐 [Apps](#Apps)
 - 🟢 [Legal](#Legal)
 - 🔐 [License](#License)
