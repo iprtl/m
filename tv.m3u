@@ -372,8 +372,15 @@ SPORTDIGITAL FUSSBALL 🇩🇪
 https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ===========================================================
-BEIN SPORTS MAX 10 🇫🇷
+BEIN SPORTS MAX 🇫🇷
 ===========================================================
+
+#EXTINF:-1 cuid="901" tvg-name="bein sports" tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Bein Sports 3 🇫🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={441100b7de65d7c582a9c71140e46f79:ef37dadc14bdade17224ef4bc9f87ce6,92e8cc9527c7f56a10777278cb801027:4ce3f3e2234f00b21ba77006f197832a}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 #EXTINF:-1 cuid="893" tvg-name="Bein sports Max" tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="https://logo.iptveditor.com/beinsports10max.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Bein Sports Max 10 🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
