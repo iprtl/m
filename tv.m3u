@@ -5,7 +5,7 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-08-08 11:15:11 GMT+7 "
+# (●) Last Update: 2025-08-09 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: Null
 
@@ -152,7 +152,9 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTINF:-1 cuid="18" tvg-name="SIC Alta Definição 🇵🇹" tvg-id="SIC.Alta.Definição.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICAltaDefinicao.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",SIC Alta Definição 🇵🇹
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
-=========================================================== 🌈 𝙏𝙑𝙡 Internacional
+=========================================================== 
+🌈 𝙏𝙑𝙡 Internacional
+=========================================================== 
 
 #EXTINF:-1 cuid="19" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI Internacionalᶠᴴᴰ 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
@@ -342,7 +344,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7
 =========================================================== 
 
 #EXTGRP:Liga Portuguesa
-#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.GolTV.Latinoamérica.pa" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Goltv 🇵🇦
+#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Goltv 🇵🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 http://38.41.8.1:8000/play/a0wi
 
@@ -363,6 +365,9 @@ ZIGGO SPORT 🇳🇱
 
 #EXTINF:-1  tvg-name="Ziggo Sport" tvg-id="Ziggo.Sport.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Ziggo Sport 🇳🇱
 https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8|Referer=https%3A%2F%2Falldownplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Falldownplay.xyz
+
+#EXTINF:-1  tvg-name="Ziggo Sport 2" tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://logo.iptveditor.com/ziggosport2.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Ziggo Sport 2 🇳🇱
+https://zekonew.newkso.ru/zeko/premium398/mono.m3u8|Referer=https%3A%2F%2Falldownplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Falldownplay.xyz
 
 ===========================================================
 SPORTDIGITAL FUSSBALL 🇩🇪
@@ -390,6 +395,9 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 ===========================================================
 ELEVEN SPORTS 🇵🇱
 ===========================================================
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Liga Betclic 🌍",Eleven Sports 1 🇵🇱
+https://windnew.newkso.ru/wind/premium71/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Liga Betclic 🌍",Eleven Sports 2 🇵🇱
 https://windnew.newkso.ru/wind/premium72/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2094,10 +2102,43 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 
 
+=========================================================== 
+🌈 DIVERSOS
+===========================================================
+
+#EXTINF:-1 cuid="818" tvg-name="Fight Network" tvg-id="plex.tv.Fight.Network.plex" tvg-logo="https://nsports.com.br/wp-content/uploads/2025/06/Logo_NSports_Vertical-04.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",N Sports 🇧🇷
+https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
+
+#EXTINF:-1 cuid="817" tvg-name="chvdeportes" tvg-id="Canal.Chilevisión.(CHV).cl" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM=w0" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",CHV Deportes 🇨🇱
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
+
+#EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",tdp 🇪🇸
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+#EXTINF:-1 cuid="820" tvg-name="ETB Deportes 🇪🇸" tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",ETB Deportes 🇪🇸
+https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
+
+#EXTINF:-1 cuid="821" tvg-name="Futgo" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",FutGO 🇨🇱
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
+
+#EXTINF:-1 cuid="821" tvg-name="Top Barça" tvg-id="ES:.TOP.Barça.es" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/c8/29/b6c829ff-c213-0f34-ae5c-167d9f48f440/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/1200x1200mv.webp" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",TOP Barça 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
+
+=========================================================== 
+🌈 L'Equipe 🇫🇷
+===========================================================
+
+#EXTINF:-1 cuid="911" tvg-name="L'Equipe 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",L'Equipe 1 🇫🇷
+https://jmp2.uk/sam-FRBC4200004XH.m3u8
+#EXTINF:-1 cuid="911" tvg-name="L'Equipe 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",L'Equipe 1 🇫🇷
+https://d3fikx9gxqicmt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/Lequipe1_FR.m3u8
 
 
-
-
+#EXTINF:-1 cuid="912" tvg-name="L'Equipe 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",L'Equipe 2 🇫🇷
+https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
+#EXTINF:-1 cuid="912" tvg-name="L'Equipe 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Sports 🌍",L'Equipe 2 🇫🇷
+https://jmp2.uk/sam-FRBC4200005X2.m3u8
 
 ===========================================================
 ELEVEN SPORTS 🇵🇱
@@ -2336,34 +2377,6 @@ https://amg00136-wbd-amg00136c43-lg-us-5711.playouts.now.amagi.tv/playlist/amg00
 
 #EXTINF:-1 cuid="816" tvg-name="Wedotv Sports" tvg-id="" tvg-logo="https://logo.iptveditor.com/wedosports.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",Wedotv Sports 🇺🇸
 https://amg00735-amg00735c7-tcl-us-3621.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="817" tvg-name="chvdeportes" tvg-id="Canal.Chilevisión.(CHV).cl" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM=w0" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",CHV Deportes 🇨🇱
-https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
-
-#EXTINF:-1 cuid="818" tvg-name="Fight Network" tvg-id="plex.tv.Fight.Network.plex" tvg-logo="https://nsports.com.br/wp-content/uploads/2025/06/Logo_NSports_Vertical-04.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",N Sports 🇧🇷
-https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
-
-#EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",tdp 🇪🇸
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-#EXTINF:-1 cuid="820" tvg-name="ETB Deportes 🇪🇸" tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",ETB Deportes 🇪🇸
-https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
-
-#EXTINF:-1 cuid="821" tvg-name="Futgo" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",FutGO 🇨🇱
-https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
-
-=========================================================== 🌈
-
-#EXTINF:-1 cuid="911" tvg-name="L'Equipe 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",L'Equipe 1 🇫🇷
-https://jmp2.uk/sam-FRBC4200004XH.m3u8
-#EXTINF:-1 cuid="911" tvg-name="L'Equipe 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",L'Equipe 1 🇫🇷
-https://d3fikx9gxqicmt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/Lequipe1_FR.m3u8
-
-
-#EXTINF:-1 cuid="912" tvg-name="L'Equipe 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",L'Equipe 2 🇫🇷
-https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
-#EXTINF:-1 cuid="912" tvg-name="L'Equipe 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",L'Equipe 2 🇫🇷
-https://jmp2.uk/sam-FRBC4200005X2.m3u8
 
 #EXTINF:-1 cuid="913" tvg-name="Sport en France 🇫🇷" tvg-id="Sport.en.France.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports FreeStreaming 🌍",Sport en France 🇫🇷
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
