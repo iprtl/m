@@ -18,9 +18,14 @@ jobs:
           sed -i "/live_cnn/ c https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" tv.m3u
           sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" tv.m3u
 
+      - name: update total channels
+        run: |
+          TOTAL=$(grep -c '^#EXTINF:-1' tv.m3u)
+          sed -i "s/^# (●) Total Channels:.*/# (●) Total Channels: $TOTAL/" tv.m3u
+      
       - name: setup git config
         run: |
-          git config user.name "TVI.CNNPT bot"
+          git config user.name "m3u updater bot"
           git config user.email "<>"
 
       - name: commit
