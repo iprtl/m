@@ -27,7 +27,7 @@ jobs:
       - name: setup git config
         run: |
           git config user.name "m3u updater bot"
-          git config user.email "<>"
+          git config user.email "<inspirationlivetv@gmail.com>"
 
       - name: commit
         run: |
