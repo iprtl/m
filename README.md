@@ -53,7 +53,10 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 ```bash
 https://github.com/inspirationlinks/m3u/raw/live/tv.m3u
 ```
----
+## Playlist Inspiration Links by Streamings Pluto and more...
+```bash
+https://github.com/inspirationlinks/m3u/raw/live/Pluto.m3u
+```
 
 ## EPG used in Freetv Inspiration
 
