@@ -4,19 +4,23 @@
 
 ## COMUNICADO:
 
-Venho Por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponivel, pelo menos nos moldes em que sempre teve, ate nos dias de hoje.
-A decisao é inreversivel! 
-Por isso Ficará apenas disponivel 1 lista denominada de,(Freetv.m3u).
+Venho Por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponivel, pelo menos nos moldes em que sempre teve, ate ao dia de hoje.
+A decisão é inreversivel! 
 
-A lista continuara a estar dispovel mas... Só para aqueles que estejam disponiveis e quiserem obtar por (doações mensais).
-Dessa forma a lista será facultada invividualmente.
-A unica forma de voltarem a ter acesso ao conteudo de iptv que eu partilhava, é enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condiçoes e moldes, o conteudo que partilhava ate aqui sera facultada aos iteressados.
+Por isso ficará apenas disponivel 1 lista denominada de,(Freetv.m3u), disponível para todos.
+
+A lista (tv.m3u) continuará a estar dispovel mas... Só para aqueles que estejam disponíveis e quiserem obtar por (doações mensais via PayPal).
+Dessa forma a lista será facultada individualmente.
+É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava...
+enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos iteressados.
 
 NOTAS FINAIS:
-A partir do dia 17/09/25- A lista deixará de estar disponivel, pelo menos de forma gratuita. 
-Quem nao gostar desta decisao, apenas tenho a dizer ... Temos pena!
-Comecem a fazer voçes mesmos as vossas proprias listas, ou limitarem-se ao que existe por ai...
-Modestia a parte sei que em Portugal, nao existe uma lista tao completa e organizada como a que eu partilhei durante decadas, sem nada pedir em troca.
+Como ja fiz referência... A partir do dia 17/09/25- A lista deixará de estar disponivel, pelo menos de forma gratuita. 
+Quem não gostar desta decisão, apenas tenho a dizer ... Temos pena!!!
+
+Como alternativa podem começar a fazer voçes mesmos as vossas proprias listas, ou limitarem-se ao que existe por ai...
+
+Modestia á parte sei que em Portugal, nao existe uma lista tão completa e organizada como a que eu partilhei durante décadas, sem nada pedir em troca.
 
 ## 💛 Support me to continue this project
 
@@ -68,11 +72,11 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## Playlist Inspiration Links
 ```bash
-https://github.com/inspirationlinks/m3u/raw/live/tv.m3u
+Entre em contacto via 📩 inspirationlivetv@gmail.com
 ```
 ## Playlist Inspiration Links: Free Streamings by (Pluto and more)...
 ```bash
-https://github.com/inspirationlinks/m3u/raw/live/Pluto.m3u
+https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
 ```
 
 ## EPG used in Freetv Inspiration
@@ -118,17 +122,12 @@ Applications with support of IPTV streams.
 Entre em contacto Via Email:
 ⏩ inspirationlivetv@gmail.com ⏪
 
----
-
-🏆 Canais Gold. Esta lista só está disponível para quem fizer uma doação, (Donativos). ATENÇÃO não tem canais premium português. Só canais premium Internacionais.
-* Quem optar por doações mensais, tem a possibilidade de criar uma lista personalizada só com canais que pretenda.
-
 * https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
 
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
 * Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
-🕑 24/7/2025
+🕑 lista em manutenção 
 
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
