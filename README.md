@@ -4,12 +4,12 @@
 
 ## COMUNICADO:
 
-Venho Por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponivel, pelo menos nos moldes em que sempre teve, ate ao dia de hoje.
+Venho Por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponível, pelo menos nos moldes em que sempre teve, ate ao dia de hoje.
 A decisão é inreversivel! 
 
 Por isso ficará apenas disponivel 1 lista denominada de,(Freetv.m3u), disponível para todos.
 
-A lista (tv.m3u) continuará a estar dispovel mas... Só para aqueles que estejam disponíveis e quiserem obtar por (doações mensais via PayPal).
+A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem obtar por (doações mensais via PayPal).
 Dessa forma a lista será facultada individualmente.
 É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava...
 enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos iteressados.
@@ -122,12 +122,14 @@ Applications with support of IPTV streams.
 Entre em contacto Via Email:
 ⏩ inspirationlivetv@gmail.com ⏪
 
-* https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
-
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
 * Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
-🕑 lista em manutenção 
+* https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
+
+---
+
+🕑 EM MANUTENÇÃO 
 
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
