@@ -2,6 +2,22 @@
 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="133" height="140" border="0" /></a></p>
 
+## ⚠️ COMUNICADO:
+
+Venho Por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponivel, pelo menos nos moldes em que sempre teve, ate nos dias de hoje.
+A decisao é inreversivel! 
+Por isso Ficará apenas disponivel 1 lista denoinada de,(Freetv.m3u).
+
+A lista continuara a estar dispovel mas... So para aqueles que estejam disponiveis e quiserem obtar por (doações mensais).
+Dessa forma a lista será facultada invividualmente.
+A unica forma de voltarem a ter acesso ao conteudo de ipiv que eu partilhava, é enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condiçoes e moldes, o conteudo que partilhava ate aqui sera facultada.
+
+NOTAS FINAIS:
+A partir do dia 17/09/25- A lista deixará de estar disponivel, pelo menos de forma gratuita. 
+Quem nao gostar desta decisao, apenas tenho a dizer ... Temos pena!
+Comecem a fazer voçes mesmos as vossas proprias listas, ou limitarem-se ao que existe por ai...
+Modestia a parte sei que em Portugal, nao existe uma lista tao completa e organizada como a que eu partilhei durante decadas, sem nada pedir em troca.
+
 ## 💛 Support me to continue this project
 
 If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
@@ -12,6 +28,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## Índice
 
+- ⚠️ [COMUNICADO](#COMUNICADO)
 - 🏆 [Canais Extras Premium](#Canais-Extra-Premium)
 - 💰 [Faça o seu donativo](#Ajude-nos-Faça-o-seu-donativo)
 - 📺 [List of Channels](#List-of-Channels)
