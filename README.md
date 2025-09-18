@@ -131,14 +131,65 @@ Entre em contacto Via Email:
 
 ## List of Channels (tv.m3u)
 (Se estviver interessado nesta lista de Canais. Enviar um email para: inspirationlivetv@gmail.com)
+
+ 🔹 CANAIS TRASMITEM A LIGA BETCLIC 🇵🇹 🔹
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
 - Benfica tv 🇵🇹
-- TNT 🇧🇷⚽︎
+- Sport tv 1 (📆👪 Max Con:5)
+- Sport tv 2 (📆👪 Max Con:5)
+- Sport tv 3 (📆👪 Max Con:5)
+- Sport tv 4 (📆👪 Max Con:5)
+- Sport tv 5 (📆👪 Max Con:5)
+- Dazn 1 (📆👪 Max Con:5)
+- Dazn 3 (📆👪 Max Con:5)
+- Dazn 4 (📆👪 Max Con:5)
+- Dazn 5 (📆👪 Max Con:5)
+- Goltv 🇺🇸
+- Goltv 🇵🇦
+- Arena Sport 2 🇸🇰
+- Ring 🇧🇬
+- Ziggo Sport 🇳🇱
+- Ziggo Sport 2 🇳🇱
+- Ziggo Sport 3 🇳🇱
+- Ziggo Sport 4 🇳🇱
+- Ziggo Sport 5 🇳🇱
+- Ziggo Sport 6 🇳🇱
+- Sportdigital Fussball 🇩🇪
+- bEIN Sports1 🇫🇷
+- bEIN Sports3 🇫🇷
+- Eleven Sports 1 🇵🇱
+- Eleven Sports 2 🇵🇱
+- Eleven Sports 4 🇵🇱
+- Arena Sport 1 Premium 🇷🇸
+- Arena Sport 2 Premium 🇷🇸
+- Arena Sport 3 Premium 🇷🇸
+- Arena Sport 1 🇷🇸
+- Arena Sport 2 🇷🇸
+- Arena Sport 3 🇭🇷
+- Arena Sport 4 🇭🇷
+- Cosmote Sport 1 🇬🇷
+- Sport Klub 1 🇷🇸
+- Sport Klub 2 🇷🇸
+- Sport Klub 3 🇷🇸
+- Sport Klub 4 🇷🇸
+- Sport Klub HD
+- Cytavision Sports 6 🇨🇾
+- Cytavision Sports 7 🇨🇾
+- Sport 2 🇮🇱
+- Sport 3 🇮🇱
+- Sport 4 🇮🇱
+- SSC Sport 1 🇸🇦
+- SSC Sport 2 🇸🇦
+- SSC Sport 3 🇸🇦
+- SSC Sport 4 🇸🇦
+- SSC Sport 5 🇸🇦
+- SSC Sport Extra 1 🇸🇦
+- SSC Sport Extra 2 🇸🇦
+- SSC Sport Extra 3 🇸🇦
 - Telecinco 🇪🇸⚽︎
 - USA Network 🇺🇸⚽︎
-- Goltv
-- =BRASIL=
+🔹 CANAIS BRASILEIROS 🔹
 - HBO 🇧🇷
 - HBO+ 🇧🇷
 - HBO Family 🇧🇷
@@ -164,14 +215,14 @@ Entre em contacto Via Email:
 - Telecine Fun 🇧🇷
 - Telecine Touch 🇧🇷
 - Film & Arts 🇧🇷
-- = DESPORTO =
+🔹 DESPORTOS BRASILEIROS 🔹
 - Cazetv 🇧🇷
 - Cazetv 1 🇧🇷
 - Cazetv 2 🇧🇷
 - Cazetv 3 🇧🇷
-- Amazon Prime 🇧🇷
-- Apple+ 🇧🇷
-- Paramount+ 🇧🇷
+- Amazon Prime 🇧🇷 (NEM SEMPRE DISPONIVEL)
+- Apple+ 🇧🇷 (NEM SEMPRE DISPONIVEL)
+- Paramount+ 🇧🇷 (NEM SEMPRE DISPONIVEL)
 - ESPN 🇧🇷
 - ESPN 2 🇧🇷
 - ESPN 3 🇧🇷
@@ -179,49 +230,61 @@ Entre em contacto Via Email:
 - ESPN 5 🇧🇷
 - ESPN 6 🇧🇷
 - ESPN 7 🇧🇷
-- Cazetv 🇧🇷
 - Band Sports 🇧🇷
 - Sportv 🇧🇷
 - Sportv 2 🇧🇷
 - Sportv 3 🇧🇷
 - Combate 🇧🇷
 - Premiere Clubes 🇧🇷
+ 🔹 CANAIS FUTEBOL CLUB 🔹
+TOP Barça 🇪🇸
+Real Madrid Tv 🇬🇧
+Real Madrid Tv 🇪🇸
+MUTV 🇬🇧
+Inter TV 🇮🇹
+FENERBAHÇE TV
+ 🔹 CANAIS FORMULA 1 🔹
 - Sky Sport F1 🇮🇹
 - Sky Sport Motogp 🇮🇹
 - Rally tv 🇬🇧
 - DAZN F1 🇪🇸
-- M+ #Vamos 🇪🇸
-- M+ Deportes 🇪🇸
-- DAZN LA LIGA 🇪🇸
-- M+ LALIGA tv Hypermotion 🇪🇸
+- Sky Sport F1 🇮🇹
+- Sky Sport Motogp 🇮🇹 (NEM SEMPRE DISPONIVEL)
+ 🔹 DESPORTOS PREMIUM 🇪🇸🇬🇧 🔹
+- Championstv 1 🇮🇳🇬🇧
+- Championstv 2 🇮🇳🇬🇧
+- Championstv 5 🇮🇳🇬🇧
+- Championstv 6 🇮🇳🇬🇧
+- M+ LALIGA tv 🇪🇸 
 - M+ Liga de Campeones 🇪🇸
-- M+ Deportes 🇪🇸
-- Sky Sports Mix 🇬🇧
+- M+ #Vamos 🇪🇸 (NEM SEMPRE DISPONIVEL)
+- M+ Deportes 🇪🇸 (NEM SEMPRE DISPONIVEL)
+- DAZN LA LIGA 🇪🇸 (NEM SEMPRE DISPONIVEL)
+- M+ LALIGA tv Hypermotion 🇪🇸 (NEM SEMPRE DISPONIVEL)
+- M+ Deportes 🇪🇸 (NEM SEMPRE DISPONIVEL)
+- Sky Sports Mix 🇬🇧 (NEM SEMPRE DISPONIVEL)
 - peacocktv Sports 🇬🇧
 - Vodafone Sport 🇬🇧
-- Sky Sport News 🇬🇧
-- Sky Sport Main Event 🇬🇧
-- Sky Sport Plus 🇬🇧
-- Sky Sports Action 🇬🇧
-- Sky Sports Mix 🇬🇧
-- Sky Sport Football 🇬🇧
-- Sky Sport Premier League 🇬🇧
+- Sky Sport News 🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Sky Sport Main Event 🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Sky Sport Plus 🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Sky Sports Action 🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Sky Sports Mix 🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Sky Sport Football 🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Sky Sport Premier League 🇬🇧 (NEM SEMPRE DISPONIVEL)
 - TNT Sport 1 🇬🇧
 - TNT Sport 2 🇬🇧
 - TNT Sport 3 🇬🇧
 - TNT Sport 4 🇬🇧
-- Ziggo Sport 🇳🇱
-- Ziggo Sport 2 🇳🇱
-- Ziggo Sport 3 🇳🇱
-- Ziggo Sport 4 🇳🇱
-- Ziggo Sport 5 🇳🇱
-- Ziggo Sport 6 🇳🇱
-- Eurosport 1 🇮🇹
-- Eurosport 2 🇮🇹
-- Sky Sport F1 🇮🇹
-- Sky Sport Motogp 🇮🇹
-- Eurosport 1 🇮🇹
-- Eurosport 2 🇮🇹
+  🔹 EUROSPORTS CHANNELS 🔹
+- Eurosport 1 🇪🇸
+- Eurosport 1 🔉🇩🇪
+- Eurosport 1 🔉🇨🇿🇬🇧
+- Eurosport 1 🇵🇱
+- Eurosport 2 🇪🇸
+- Eurosport 2 🔉🇨🇿🇬🇧
+- EuroSports 2 🇵🇱
+  🔹 DESPORTOS FRANCESES 🔹
 - Canal+Sport 🇫🇷
 - Canal+Foot 🇫🇷
 - Canal+Sport 360 🇫🇷
@@ -230,6 +293,38 @@ Entre em contacto Via Email:
 - Canal+ Sport 3 🇿🇦
 - Canal+ Sport 4 🇿🇦 ⛳
 - Canal+ Sport 5 🇿🇦 🎾
+  🔹 DESPORTOS HISPANICOS 🔹
+- TUDN 🇺🇸🇲🇽
+- Claro Sports
+- DSports
+- DSports2
+- Fox Sports 🇲🇽
+- Fox Sports 🇦🇷
+- Fox Sports 2 🇲🇽
+- Fox Sports 3 🇦🇷
+- Fox Sports 3 🇲🇽
+- ESPN 🇲🇽
+- ESPN 2 🇨🇴
+- ESPN 3 🇨🇴
+- ESPN 4 🇨🇴
+- ESPN 5 🇨🇴
+- ESPN 6 🇨🇴
+- ESPN 7 🇨🇴
+- Ring 🇧🇬
+- Eleven Sports 1 🇵🇱
+- Eleven Sports 2 🇵🇱
+- Eleven Sports 3 🇵🇱
+- Sportdigital Fussball 🇩🇪
+ 🔹 VARIOS CHANNELS DESPORTO 🔹
+- Sport 1 Baltic
+- Sport 2 Baltic
+- Sport 1 🇨🇿🇸🇰
+- Sport 2 🇨🇿🇸🇰
+- Match Football 1 🇷🇺
+- Match Football 2 🇷🇺
+- Match Football 3 🇷🇺
+- Match Football 3 🇷🇺
+  🔹 bEIN SPORTS CHANNELS 🔹
 - Bein sports 🇺🇸
 - Bein sports 1 🇺🇸
 - Bein sports 2 🇺🇸
@@ -257,38 +352,46 @@ Entre em contacto Via Email:
 - beIN Sports MENA 7 🇦🇷
 - beIN Sports MENA 8 🇦🇷
 - beIN Sports MENA 9 🇦🇷
-- Sport Klub 1 🇷🇸
-- Sport Klub 2 🇷🇸
-- Sport Klub HD
-- Sport 1 Baltic
-- Sport 2 Baltic
-- Sport 1 🇨🇿🇸🇰
-- Sport 2 🇨🇿🇸🇰
-- Match Football 1 🇷🇺
-- Match Football 2 🇷🇺
-- Match Football 3 🇷🇺
-- Match Football 3 🇷🇺
-- TUDN 🇺🇸🇲🇽
-- Claro Sports
-- DSports
-- DSports2
-- Fox Sports 🇲🇽
-- Fox Sports 🇦🇷
-- Fox Sports 2 🇲🇽
-- Fox Sports 3 🇦🇷
-- Fox Sports 3 🇲🇽
-- ESPN 🇲🇽
-- ESPN 2 🇨🇴
-- ESPN 3 🇨🇴
-- ESPN 4 🇨🇴
-- ESPN 5 🇨🇴
-- ESPN 6 🇨🇴
-- ESPN 7 🇨🇴
-- Ring 🇧🇬
-- Eleven Sports 1 🇵🇱
-- Eleven Sports 2 🇵🇱
-- Eleven Sports 3 🇵🇱
-- Sportdigital Fussball 🇩🇪
+    🔹 MUSICA 🔹
+- MTV U ᴸᴼᵂ 🇺🇸
+- MTV Live 🇺🇸
+- MTV Hits ᴸᴼᵂ 🇬🇧
+- MTV Classic ᴸᴼᵂ 🇺🇸
+- MTV 00 ᴸᴼᵂ 🇬🇧
+- MTV 80s 🇬🇧
+- MTV 90s ᴸᴼᵂ 🇬🇧
+- Nick Music ᴸᴼᵂ 🇬🇧
+- MCM Top ᴸᴼᵂ 🇫🇷
+- ONFM 🇵🇹
+- Rádio Sines 🇵🇹
+- NPC TV 🇵🇹
+- Assim é Portugal 🇵🇹
+- RFPtv ᴸᴼᵂ 🇵🇹
+- Muzangala TV 🇦🇴
+- Fitdance 🇧🇷
+- Muzzik Rock&Roll ᴸᴼᵂ 🇷🇸
+- Muzzik Pop Star ᴸᴼᵂ 🇷🇸
+- Muzzik Flashback ᴸᴼᵂ 🇷🇸
+- Country Big Rig
+- The Box
+- POP World TV
+- Dance Hits 80 ᴸᴼᵂ
+- XPTV 1
+- Ocko Star ᴸᴼᵂ 🇨🇿
+- Retro tv ᴸᴼᵂ 🇨🇿
+- Magic TV 🇷🇴
+- Magic TV 🇧🇬
+- Rock TV
+- Rocktv
+- Cadena Elite 🇪🇸
+- Sol Musica 🇪🇸
+- Sabor tv 🇨🇱
+- Radio Capital 🇮🇹
+- Kiss kiss tv 🇮🇹
+- 51 Radio Tv ᴸᴼᵂ 🇮🇹
+- Kiss tv 🇷🇴
+- 70-80.it 🇮🇹
+- 4Music
 
 ---
 
