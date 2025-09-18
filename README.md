@@ -9,6 +9,10 @@ A decisão é inreversivel!
 
 Por isso ficará apenas disponivel 1 lista denominada de,(Freetv.m3u), disponível para todos.
 
+```bash
+https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
+```
+
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem obtar por (doações mensais via PayPal).
 Dessa forma a lista será facultada individualmente.
 É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava...
@@ -1174,15 +1178,12 @@ List of Channels (Freetv.m3u)
 - Marquee Sports Network 🇺🇸
 - Старт 🇷🇺
 - Sirius tv 🇹🇲🇷🇺
-- 🇲🇾🇺🇸
 - Turkmenistan Sport 🇹🇲
 - Real Madrid Tv 🇬🇧
 - Real Madrid Tv 🇪🇸
 - Real Madrid Tv 🇪🇸
 - Bein SportsXtra ñ 🇪🇸
 - Bein SportXtra 🇺🇸
-- 🇺🇸
-- 🇺🇸
 - Fox Deportes 🇺🇸
 - Fox Deportes Español 🇲🇽 [ᴛυʙɪ]
 - Zona TUDN 🇲🇽
