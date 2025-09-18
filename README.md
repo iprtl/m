@@ -129,7 +129,7 @@ Entre em contacto Via Email:
 
 ---
 
-🕑 EM MANUTENÇÃO 
+## List of Channels (tv.m3u)
 
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
@@ -296,7 +296,7 @@ Entre em contacto Via Email:
 
 ---
 
-## List of Channels FREE(TV)
+List of Channels (Freetv.m3u)
 
 - Tv Portuguesa 🇵🇹🇧🇷
 - RTP Internacional 🇵🇹
