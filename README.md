@@ -12,7 +12,7 @@ Por isso ficará apenas disponivel 1 lista denominada de,(Freetv.m3u), disponív
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem obtar por (doações mensais via PayPal).
 Dessa forma a lista será facultada individualmente.
 É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava...
-enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos iteressados.
+enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos interessados.
 
 NOTAS FINAIS:
 Como ja fiz referência... A partir do dia 17/09/25- A lista deixará de estar disponivel, pelo menos de forma gratuita. 
