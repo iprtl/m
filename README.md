@@ -24,8 +24,6 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 [<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS)
 
-Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente de todo o mundo.
-
 ## Índice
 
 - ⚠️ [COMUNICADO](#COMUNICADO)
