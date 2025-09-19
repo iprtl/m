@@ -82,7 +82,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - Rtp Açores
 - Sic Noticias
 - Rtp 3
-- - Cnn Portugal
+- Cnn Portugal
 - Cmtv
 - News Now
 - Globo News
