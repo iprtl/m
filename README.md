@@ -5,27 +5,29 @@
 ## COMUNICADO:
 
 Venho por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponível, pelo menos nos moldes em que sempre teve, ate ao dia de hoje.
-A decisão é inreversivel! 
+A decisão é irreversível! 
 
-Por isso ficará apenas disponivel 1 lista denominada de,(Freetv.m3u), disponível para todos.
+Por isso ficará apenas disponível 1 lista denominada de,(Freetv.m3u), disponível para todos só com streamings de sinal aberto. 
 
 ```bash
 https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
 ```
 
-A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem obtar por (doações mensais via PayPal).
+A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem optar por (doações mensais via PayPal).
 Dessa forma a lista será facultada individualmente.
-É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava...
+É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava ate então...
 
 Enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos interessados.
 
+IMPORTANTE: A grande novidade é o surgimento de um pacote NOVO E EXCLUSIVO INSPIRATION. Denominada de DREAMIPTV. [Saiba mais...](#EXCLUSIVO INSPIRATION LINKS)
+
 NOTAS FINAIS:
-Como ja fiz referência... A partir do dia 17/09/25. A lista deixará de estar disponivel, pelo menos de forma Free. 
+Como já fiz referência... A partir do dia 17/09/25. A lista deixará de estar disponível, pelo menos de forma Free. 
 Quem não gostar desta decisão, apenas tenho a dizer ... Temos pena!!!
 
-COMO ALTERNATIVA: Podem começar a fazer voçes mesmos as vossas proprias listas, ou limitarem-se ao que existe por ai...
+COMO ALTERNATIVA: Podem começar a fazer voçes mesmos as vossas próprias listas, ou limitarem-se ao que existe por ai...
 
-Modestia á parte sei que em Portugal, nao existe uma lista tão completa e organizada como a que eu partilhei durante décadas, sem nada pedir em troca.
+Modéstia há parte sei que em Portugal, não existe uma lista tão completa e organizada como a que eu partilhei durante décadas, sem nada pedir em troca.
 
 ## 💛 Support me to continue this project
 
@@ -38,80 +40,22 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 ## Índice
 
 - ⚠️ [COMUNICADO](#COMUNICADO)
-- 📺 [List of Channels](#list-of-channels-tvm3u)
-- 🏆 [Canais Extras Premium](#Canais-Extra-Premium)
+- 📺 [Canais PREMIUM 🇵🇹](#EXCLUSIVO INSPIRATION LINKS)
+- 📺 [Lista Canais tv.m3u](#list-of-channels-tvm3u)
+- 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
 - 💰 [Faça o seu donativo](#Ajude-nos-Faça-o-seu-donativo)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
-- 📺 [Playlist M3U](#Playlist-Inspiration-Links)
 - 🌐 [Apps](#Apps)
 - 🟢 [Legal](#Legal)
 - 🔐 [License](#License)
 
 ---
 
-## Legendas
-
-📌 Se um determinado canal tiver identificado com este termo, EXEMPLO: [📆👪 Max Con:5]. Significa que esse canal é Temporário, (pode ficar offline em qualquer momento)! E Informa quantas conexões permite em simultâneo, EXEMPLO: [Con:5] (o máximo de pessoas podem ver esse determinado canal). É Normal que o canal vá abaixo com alguma frequência, dependendo do numero de conexões pessoas permitidas.
-
-📌 Se verificar que um determinado canal não abre utilize uma VPN. Existem canais que em determinados Países, como Portugal e não só... Bloqueiam geograficamente, (Geoblocked) um determinado canal. Se usarem uma VPN de outro Pais diferente, existe fortes possibilidades de conseguirem abrir o canal em questão.
-
-📌 Se encontrar à frente do nome do canal a flag de um País, (🇵🇹🇧🇷🇪🇸🇺🇸), OU (💬), OU este simbolo, (🔉) . Significa a origem e nacionalidade do canal, como também quais os idiomas disponíveis de (áudio e legendas) disponiblizadas.
-
-📌 Se encontrar à frente do nome do canal varios simpolos de desporto, 🏉⚾⚽️🏍. Significa que o canal é de Entretenimento, mas transmite em direto eventos desportivos.
-
-📌 Se encontrar à frente do nome do canal este símbolo, ▶️. Significa que o canal é oriundo do (Youtube, Dailymotion, etc...)
-
-📌 Se encontrar à frente do nome do canal este símbolo [ᴠᴘɴ]. Significa que o canal so abre usando uma VPN.
-
-📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)
-
----
-
 ## Discussions
 
 * Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline na secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
-
----
-
-## Playlist Inspiration Links
-```bash
-Entre em contacto via 📩 inspirationlivetv@gmail.com
-```
-## Playlist Inspiration Links: Free Streamings by (Pluto and more)...
-```bash
-https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
-```
-
-## EPG used in Freetv Inspiration
-
-```bash
-https://bit.ly/RevolutionEpg
-```
-```bash
-https://bit.ly/Brazilepg
-```
-```bash
-https://bit.ly/Plutogz
-```
-```bash
-https://bit.ly/Samsunggz
-```
-```bash
-https://www.tdtchannels.com/epg/TV.xml.gz
-```
----
-
-## Apps
-
-Applications with support of IPTV streams.
-
-#### OTTNavigator
-
-- [👉 Download OTTNavigator](https://app.ott-nav.com/dist/std/latest.apk) - Latest Version Original 
-
-- [👉 By iptv-org](https://github.com/iptv-org/awesome-iptv/blob/master/README.md#apps) - Vários Players e plataformas para IPTV (.m3u) playlists.
 
 ---
 
@@ -134,10 +78,176 @@ Entre em contacto Via Email:
 
 ---
 
-## List of Channels (tv.m3u)
-(Se estviver interessado nesta lista de Canais. Enviar um email para: inspirationlivetv@gmail.com)
+## EXCLUSIVO INSPIRATION LINKS, (Dreamiptv).
+* NOTA: fonte fidedigna, sem falhas, sem breaks, só desfrutar do melhor que temos em Portugal ;)
+* ALEM DESTA LISTA DE CANAIS - Está incluída também a secção de "Biblioteca de Midia", ou seja Seção de cinema com os filmes e series mais recentes.
+* (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
 
- 🔹 CANAIS TRASMITEM A LIGA BETCLIC 🇵🇹 🔹
+canais adicionados;156
+- Rtp 1
+- Rtp 2
+- Sic
+- Tvi
+- Rtp Memoria
+- Rtp Madeira
+- Rtp Açores
+- Sic Noticias
+- Rtp 3
+- - Cnn Portugal
+- Cmtv
+- News Now
+- Globo News
+- Record News
+- Canal Parlamento
+- Stv Noticias
+- Tve
+- Euro News
+- Cnn
+- Sky News
+- Aljazeera
+- Dw
+- Cnbc
+- Cgtn
+- Bloomberg
+- Sport Tv +
+- Canal 11
+- Sport Tv 1
+- Sport Tv 2
+- Sport Tv 3
+- Sport Tv 4
+- Sport Tv 5
+- Sport Tv 6
+- Sport Tv 7
+- Benfica Tv
+- Porto Canal
+- Sporting Tv
+- Dazn 1
+- Dazn 2
+- Dazn 3
+- Dazn 4
+- Dazn 5
+- W Sport
+- Eurosport 1
+- Eurosport 2
+- Fight Network
+- Sport Tv Nba
+- Dazn 6
+- A Bola Tv
+- Fight Box
+- Fast&fun Box
+- Ginx Esports Tv
+- Fast Acl
+- Fast Billiard
+- Fast Boxing Tv
+- Fast Matchroom
+- Fast Motor Vision
+- Fast Pdc
+- Fast Pll
+- Fast Powersports
+- Disney Jr
+- Nick Jr.
+- Canal Panda
+- Panda Kids
+- Cartoonito
+- Disney Channel
+- Nickelodeon
+- Cartoon Network
+- Sic K
+- Baby Tv
+- Nos Studios
+- Tvcine Top
+- Tvcine Edition
+- Tvcine Emotion
+- Tvcine Action
+- Canal Hollywood
+- Hollywood
+- Star Comedy
+- Axn
+- Axn Movies
+- Star Life
+- Star Channel
+- Syfy
+- Star Crime
+- Star Movies
+- Axn White
+- Biggs
+- Dizi
+- Cinemundo
+- Globo
+- Tvi Reality
+- Sic Mulher
+- Sic Caras
+- Sic Radical
+- V+
+- Travel Channel
+- Amc Break
+- My Zen Tv
+- S +
+- Sic Novelas
+- Tlc
+- E TV
+- Fashion Tv
+- Casa E Cozinha
+- 24 Kitchen
+- Food Network
+- Hgtv
+- Canal Q
+- Mtv
+- Fuel Tv
+- Motor Vision
+- Морской
+- Horse Tv
+- Record
+- Canal 180
+- Dog Tv
+- One Toro
+- Caça E Pesca
+- Insight
+- Gametoon
+- Discovery Channel
+- National Geographic
+- Nat Geo Wild
+- Odisseia
+- Historia
+- Amc Crime
+- Investigation Discovery
+- Docubox
+- Mtv 00s
+- Mtv Live
+- Mcm Top
+- Mcm Pop
+- Mezzo
+- Mezzo Live
+- I Concerts
+- Afro Music
+- Trace Toca
+- Trace Urban
+- Trace Brasil
+- Stingray Classica
+- Stingray Djazz
+- Cmusic
+- Canal Galeria
+- Local Visao
+- Unife
+- Kuriakos Tv
+- Canção Nova
+- Vitec
+- Hot
+- Hot Taboo
+- Vixen
+- Penthouse Gold
+- Venus
+- Playboy
+- Dorcel Tv
+- Sextreme
+
+---
+
+## List of Channels (tv.m3u) 
+* (Se estiver interessado nesta lista de Canais. Enviar um email para: inspirationlivetv@gmail.com)
+* AVISO: Esta lista é construida por fontes encontradas da Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade.
+	
+ 🔹 CANAIS TRANSMITEM A LIGA BETCLIC 🇵🇹 🔹
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
 - Benfica tv 🇵🇹
@@ -329,16 +439,8 @@ FENERBAHÇE TV
 - Match Football 2 🇷🇺
 - Match Football 3 🇷🇺
 - Match Football 3 🇷🇺
-  🔹 bEIN SPORTS CHANNELS 🔹
+  🔹 bEIN SPORTS CHANNELS 🔹 (NEM SEMPRE DISPONIVEL)
 - Bein sports 🇺🇸
-- Bein sports 1 🇺🇸
-- Bein sports 2 🇺🇸
-- Bein sports 3 🇺🇸
-- Bein sports 1 🇺🇸
-- Bein sports 2 🇺🇸
-- Bein sports 3 🇺🇸
-- Bein sports 4 🇺🇸
-- Bein sports 5 🇺🇸
 - Bein Sports 1 🇫🇷
 - Bein Sports 2 🇫🇷
 - Bein Sports 3 🇫🇷
@@ -677,6 +779,7 @@ List of Channels (Freetv.m3u)
 - Comedy Central Roast 🇺🇸
 - Comedy Central Animation 🇺🇸
 - The Pet Collective 🇺🇸🇲🇽
+  🔹 DESPORTOS 🔹
 - B/R [vᴘɴ 🇺🇸]
 - Wedotv Sports 🇺🇸
 - CHV Deportes 🇨🇱
@@ -1464,6 +1567,64 @@ List of Channels (Freetv.m3u)
 - Miami TV Music
 - Europulse
 - Babestation
+
+---
+
+## Legendas
+
+📌 Se um determinado canal tiver identificado com este termo, EXEMPLO: [📆👪 Max Con:5]. Significa que esse canal é Temporário, (pode ficar offline em qualquer momento)! E Informa quantas conexões permite em simultâneo, EXEMPLO: [Con:5] (o máximo de pessoas podem ver esse determinado canal). É Normal que o canal vá abaixo com alguma frequência, dependendo do numero de conexões pessoas permitidas.
+
+📌 Se verificar que um determinado canal não abre utilize uma VPN. Existem canais que em determinados Países, como Portugal e não só... Bloqueiam geograficamente, (Geoblocked) um determinado canal. Se usarem uma VPN de outro Pais diferente, existe fortes possibilidades de conseguirem abrir o canal em questão.
+
+📌 Se encontrar à frente do nome do canal a flag de um País, (🇵🇹🇧🇷🇪🇸🇺🇸), OU (💬), OU este simbolo, (🔉) . Significa a origem e nacionalidade do canal, como também quais os idiomas disponíveis de (áudio e legendas) disponiblizadas.
+
+📌 Se encontrar à frente do nome do canal varios simpolos de desporto, 🏉⚾⚽️🏍. Significa que o canal é de Entretenimento, mas transmite em direto eventos desportivos.
+
+📌 Se encontrar à frente do nome do canal este símbolo, ▶️. Significa que o canal é oriundo do (Youtube, Dailymotion, etc...)
+
+📌 Se encontrar à frente do nome do canal este símbolo [ᴠᴘɴ]. Significa que o canal so abre usando uma VPN.
+
+📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)
+
+---
+
+## Playlist Inspiration Links
+```bash
+Entre em contacto via 📩 inspirationlivetv@gmail.com
+```
+## Playlist Inspiration Links: Free Streamings by (Pluto and more)...
+```bash
+https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
+```
+
+## EPG used in Freetv Inspiration
+
+```bash
+https://bit.ly/RevolutionEpg
+```
+```bash
+https://bit.ly/Brazilepg
+```
+```bash
+https://bit.ly/Plutogz
+```
+```bash
+https://bit.ly/Samsunggz
+```
+```bash
+https://www.tdtchannels.com/epg/TV.xml.gz
+```
+---
+
+## Apps
+
+Applications with support of IPTV streams.
+
+#### OTTNavigator
+
+- [👉 Download OTTNavigator](https://app.ott-nav.com/dist/std/latest.apk) - Latest Version Original 
+
+- [👉 By iptv-org](https://github.com/iptv-org/awesome-iptv/blob/master/README.md#apps) - Vários Players e plataformas para IPTV (.m3u) playlists.
 
 ---
 
