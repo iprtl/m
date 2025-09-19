@@ -52,12 +52,6 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ---
 
-## Canais Extra Premium
-
-💲 Se pretender um Lista com Canais Premium 🇵🇹. Nesta lista contem pacote total de canais existentes em Portugal e muito mais, como: (VOB), Filmes & Series.
-Entre em contacto Via Email:
-⏩ inspirationlivetv@gmail.com ⏪
-
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
 * Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
