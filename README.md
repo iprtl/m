@@ -66,7 +66,7 @@ Entre em contacto Via Email:
 
 ## EXCLUSIVO INSPIRATION LINKS, (Dreamiptv).
 * NOTA: fonte fidedigna, sem falhas, sem breaks, só desfrutar do melhor que temos em Portugal ;)
-* ALEM DESTA LISTA DE CANAIS - Está incluída também a secção de "Biblioteca de Midia", ou seja Seção de cinema com os filmes e series mais recentes.
+* ALEM DESTA LISTA DE CANAIS - Está incluída também a secção de "Biblioteca de Midia", ou seja, sessão de cinema com os filmes e series mais recentes.
 * (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
 
 LISTA DE CANAIS DA DREAMIPTV
