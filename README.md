@@ -19,7 +19,7 @@ Dessa forma a lista será facultada individualmente.
 
 Enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos interessados.
 
-IMPORTANTE: A grande novidade é o surgimento de um pacote NOVO E EXCLUSIVO INSPIRATION. Denominada de DREAMIPTV. [Saiba mais...](#EXCLUSIVO INSPIRATION LINKS)
+IMPORTANTE: A grande novidade é o surgimento de um pacote NOVO E EXCLUSIVO INSPIRATION. Denominada de DREAMIPTV. [Saiba mais...](#exclusivo-inspiration-links-dreamiptv)
 
 NOTAS FINAIS:
 Como já fiz referência... A partir do dia 17/09/25. A lista deixará de estar disponível, pelo menos de forma Free. 
