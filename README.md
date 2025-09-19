@@ -493,10 +493,7 @@ LISTA DE CANAIS DA DREAMIPTV
 ---
 
 ## Playlist Inspiration Links
-```bash
-Entre em contacto via 📩 inspirationlivetv@gmail.com
-```
-## Playlist Inspiration Links: Free Streamings by (Pluto and more)...
+Free Streamings by (Pluto and more)...
 ```bash
 https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
 ```
