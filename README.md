@@ -291,6 +291,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - SSC Sport Extra 3 🇸🇦
 - Telecinco 🇪🇸⚽︎
 - USA Network 🇺🇸⚽︎
+  
 🔹 CANAIS BRASILEIROS 🔹
 - HBO 🇧🇷
 - HBO+ 🇧🇷
@@ -317,6 +318,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - Telecine Fun 🇧🇷
 - Telecine Touch 🇧🇷
 - Film & Arts 🇧🇷
+
 🔹 DESPORTOS BRASILEIROS 🔹
 - Cazetv 🇧🇷
 - Cazetv 1 🇧🇷
@@ -338,6 +340,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - Sportv 3 🇧🇷
 - Combate 🇧🇷
 - Premiere Clubes 🇧🇷
+
  🔹 CANAIS FUTEBOL CLUB 🔹
 TOP Barça 🇪🇸
 Real Madrid Tv 🇬🇧
@@ -345,6 +348,7 @@ Real Madrid Tv 🇪🇸
 MUTV 🇬🇧
 Inter TV 🇮🇹
 FENERBAHÇE TV
+
  🔹 CANAIS FORMULA 1 🔹
 - Sky Sport F1 🇮🇹
 - Sky Sport Motogp 🇮🇹
@@ -352,6 +356,7 @@ FENERBAHÇE TV
 - DAZN F1 🇪🇸
 - Sky Sport F1 🇮🇹
 - Sky Sport Motogp 🇮🇹 (NEM SEMPRE DISPONIVEL)
+  
  🔹 DESPORTOS PREMIUM 🇪🇸🇬🇧 🔹
 - Championstv 1 🇮🇳🇬🇧
 - Championstv 2 🇮🇳🇬🇧
@@ -378,6 +383,7 @@ FENERBAHÇE TV
 - TNT Sport 2 🇬🇧
 - TNT Sport 3 🇬🇧
 - TNT Sport 4 🇬🇧
+  
   🔹 EUROSPORTS CHANNELS 🔹
 - Eurosport 1 🇪🇸
 - Eurosport 1 🔉🇩🇪
@@ -386,6 +392,7 @@ FENERBAHÇE TV
 - Eurosport 2 🇪🇸
 - Eurosport 2 🔉🇨🇿🇬🇧
 - EuroSports 2 🇵🇱
+  
   🔹 DESPORTOS FRANCESES 🔹
 - Canal+Sport 🇫🇷
 - Canal+Foot 🇫🇷
@@ -395,6 +402,7 @@ FENERBAHÇE TV
 - Canal+ Sport 3 🇿🇦
 - Canal+ Sport 4 🇿🇦 ⛳
 - Canal+ Sport 5 🇿🇦 🎾
+  
   🔹 DESPORTOS HISPANICOS 🔹
 - TUDN 🇺🇸🇲🇽
 - Claro Sports
@@ -417,6 +425,7 @@ FENERBAHÇE TV
 - Eleven Sports 2 🇵🇱
 - Eleven Sports 3 🇵🇱
 - Sportdigital Fussball 🇩🇪
+  
  🔹 VARIOS CHANNELS DESPORTO 🔹
 - Sport 1 Baltic
 - Sport 2 Baltic
@@ -426,6 +435,7 @@ FENERBAHÇE TV
 - Match Football 2 🇷🇺
 - Match Football 3 🇷🇺
 - Match Football 3 🇷🇺
+  
   🔹 bEIN SPORTS CHANNELS 🔹 (NEM SEMPRE DISPONIVEL)
 - Bein sports 🇺🇸
 - Bein Sports 1 🇫🇷
@@ -446,6 +456,7 @@ FENERBAHÇE TV
 - beIN Sports MENA 7 🇦🇷
 - beIN Sports MENA 8 🇦🇷
 - beIN Sports MENA 9 🇦🇷
+  
     🔹 MUSICA 🔹
 - MTV U ᴸᴼᵂ 🇺🇸
 - MTV Live 🇺🇸
@@ -521,11 +532,13 @@ List of Channels (Freetv.m3u)
 - TVM Internacional 🇲🇿
 - Fama tv 🇵🇹
 - Teledifusão de Macau 🇲🇴
+  
   🔹 REALITY SHOWS 🔹
 - RCN La Casa de los Famosos 🇨🇴
 - La Academia 🇲🇽
 - Secret Story 🇺🇸
 - Big Brother 🇨🇦
+  
   🔹 CANAIS LEGENDADOS 🔹
 - Travelxp (💬 🇧🇷)
 - HALLO! Dorama (💬 🇧🇷)
@@ -539,6 +552,7 @@ List of Channels (Freetv.m3u)
 - My Time Movie Network (💬 🇧🇷)
 - Smithsonian Channel (💬 🇧🇷)
 - Pluto TV Documentários (💬 🇧🇷)
+  
   🔹 METEOROLOGIA 🔹
 - Sky News Weather
 - MeteoNews 🇦🇹
@@ -547,6 +561,7 @@ List of Channels (Freetv.m3u)
 - AccuWeather Network 🇺🇸
 - WeatherNation TV 🇺🇸
 - The Weather Channel 🇺🇸🇨🇦
+  
   🔹 WORLD NEWS 🔹
 - Euronews 🇵🇹
 - Record News 🇧🇷
@@ -637,6 +652,7 @@ List of Channels (Freetv.m3u)
 - NDR 🇩🇪
 - Das Erste 🇩🇪
 - Channel News Asia
+  
   🔹 INFANTIL 🔹
 - GLN 🇧🇷
 - Duck tv 🇧🇷
@@ -719,6 +735,7 @@ List of Channels (Freetv.m3u)
 - Anime Onegai₄ 🇧🇷
 - Anime Onegai₅ 🇧🇷
 - Ztv 🇨🇱
+  
   🔹 NOVELAS 🔹
 - Tela Brasil tv 🇧🇷
 - Reviva tv 🇧🇷
@@ -766,6 +783,7 @@ List of Channels (Freetv.m3u)
 - Comedy Central Roast 🇺🇸
 - Comedy Central Animation 🇺🇸
 - The Pet Collective 🇺🇸🇲🇽
+  
   🔹 DESPORTOS 🔹
 - B/R [vᴘɴ 🇺🇸]
 - Wedotv Sports 🇺🇸
@@ -947,7 +965,6 @@ List of Channels (Freetv.m3u)
 - All Reality WE TV [ᴘʟᴇx]
 - At Home with Family Handyman 🇺🇸
 - This Old House 🇺🇸
-- 🇺🇸
 - AX Men 🇺🇸
 - BBC Home & Garden 🇬🇧
 - Homes Under the Hammer 🇬🇧 [ᴠɪᴅᴀᴀ]
