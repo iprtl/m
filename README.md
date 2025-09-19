@@ -83,7 +83,7 @@ Entre em contacto Via Email:
 * ALEM DESTA LISTA DE CANAIS - Está incluída também a secção de "Biblioteca de Midia", ou seja Seção de cinema com os filmes e series mais recentes.
 * (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
 
-canais adicionados;156
+LISTA DE CANAIS DA DREAMIPTV
 - Rtp 1
 - Rtp 2
 - Sic
