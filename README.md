@@ -255,7 +255,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - Telecine Touch 🇧🇷
 - Film & Arts 🇧🇷
 
- 🔹 CANAIS TRANSMITEM A LIGA BETCLIC 🇵🇹 🔹
+ 🔹 CANAIS TRANSMITEM A LIGA BETCLIC 🇵🇹 E NÃO SÓ...🔹
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
 - Benfica tv 🇵🇹
