@@ -4,7 +4,12 @@
 
 ## COMUNICADO:
 
-Venho por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponível, pelo menos nos moldes em que sempre teve, ate ao dia de hoje.
+IMPORTANTE: A grande novidade é o surgimento de um pacote NOVO E EXCLUSIVO INSPIRATION. Denominada de DREAMIPTV. [Saiba mais...](#exclusivo-inspiration-links-dreamiptv)
+
+---
+
+INFORMAÇÃO:
+Venho por este meio Comunicar que a lista de IPTV denominada de, [tv.m3u](#list-of-channels-tvm3u), deixará de estar disponível, pelo menos nos moldes em que sempre teve, ate ao dia de hoje.
 A decisão é irreversível! A partir do dia 17/09/25. A lista deixará de estar disponível, pelo menos de forma Free. 
 
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem optar por (doações mensais via PayPal).
@@ -12,8 +17,6 @@ Dessa forma a lista será facultada individualmente.
 É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava ate então...
 
 Enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos interessados.
-
-IMPORTANTE: A grande novidade é o surgimento de um pacote NOVO E EXCLUSIVO INSPIRATION. Denominada de DREAMIPTV. [Saiba mais...](#exclusivo-inspiration-links-dreamiptv)
 
 ## 💛 Support me to continue this project
 
