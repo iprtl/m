@@ -820,6 +820,8 @@ List of Channels (Freetv.m3u)
 - UZ sport 🇺🇿
 - o2 Cпорт 🇷🇺
 - Turkmenistan Sport 🇹🇲
+
+🔹 FILMEA E SÉRIES  🔹
 - Channel 1 🇧🇷
 - 1980 Channel 🇧🇷
 - Ficção Científica 🇧🇷
@@ -964,6 +966,8 @@ List of Channels (Freetv.m3u)
 - AX Men 🇺🇸
 - BBC Home & Garden 🇬🇧
 - Homes Under the Hammer 🇬🇧 [ᴠɪᴅᴀᴀ]
+
+🔹 FILMES SUSPENSE E TERROR 🔹
 - Assombrações 🇧🇷
 - Paranormal 🇧🇷
 - Clube de Terror 🇧🇷
@@ -997,6 +1001,8 @@ List of Channels (Freetv.m3u)
 - Filmrise Horror₂ 🇺🇸
 - FilmRise Horror 🇨🇦 [ᴛυʙɪ]
 - Fear Zone 🇺🇸
+
+🔹 DOCUMENTÁRIOS 🔹
 - TV Investigação 🇧🇷
 - Pronto Socorro 🇧🇷
 - Curiosidade 🇧🇷
@@ -1036,6 +1042,8 @@ List of Channels (Freetv.m3u)
 - Xtreme Outdoor by History 🇺🇸
 - Modern Marvels by History 🇺🇸
 - Military 🇺🇸
+
+🔹 PETS 🔹
 - AKC Dogs tv 🇺🇸
 - Tv + Pet 🇧🇷
 - Pet Lovers tv 🇧🇷
@@ -1048,6 +1056,8 @@ List of Channels (Freetv.m3u)
 - Dog Whisperer 🇺🇸
 - Dogs 24/7 🇺🇸
 - Cats 24/7 🇺🇸
+
+🔹 VIDA SELVAGEM 🔹
 - Docu+ 🇺🇸
 - Love Nature 🇪🇸
 - Love Nature 🇧🇷
@@ -1071,6 +1081,8 @@ List of Channels (Freetv.m3u)
 - Animaux 🇫🇷
 - Xplore 🇺🇸
 - The Jack Hanna Channel 🇺🇸
+
+🔹 GASTRONOMIA 🔹
 - Love Wine 🇺🇸
 - CTV @ Home 🇬🇧
 - Hungry 🇺🇸
@@ -1085,6 +1097,8 @@ List of Channels (Freetv.m3u)
 - Tv Cocina 🇪🇸
 - BBC Food 🇺🇸
 - Pluto Food 🇬🇧
+
+🔹 TRAVEL 🔹
 - Drone TV
 - Travel Escapes 🇺🇸
 - 4k Travel
@@ -1108,6 +1122,8 @@ List of Channels (Freetv.m3u)
 - GoUSA 🇺🇸
 - Trips Marter 🇺🇸
 - Tastemade Home 🇺🇸
+
+🔹 LIFESTALY 🔹
 - The Bob Ross Channel 🇺🇸
 - Escape to the Country 🇺🇸
 - 5 Minute Crafts 🇺🇸
@@ -1217,6 +1233,8 @@ List of Channels (Freetv.m3u)
 - Crime Investigation 🇺🇸
 - The FBI Files 🇺🇸
 - C4 en Alerta
+
+🔹 GAMES 🔹
 - Ubisoft tv 🇧🇷 🎮
 - ESR Network 🇺🇸 🎮
 - Polidoro tv 🇧🇷
@@ -1225,6 +1243,8 @@ List of Channels (Freetv.m3u)
 - Pixel tv
 - ESR Network 🇺🇸
 - ESports Max
+
+🔹 PESCA & CAÇA  🔹
 - Tv da Pesca 🇧🇷
 - Italian Fishing TV 🇮🇹
 - Fishing 🇺🇸
@@ -1238,6 +1258,8 @@ List of Channels (Freetv.m3u)
 - Outdoor America 🇺🇸
 - MeatEater 🇺🇸
 - Waypoint TV 🇺🇸
+
+🔹 DESPORTO DIVERSOS 🔹
 - Canela Tv Deportes 🇲🇽
 - MUTV 🇬🇧
 - ACCDN 🇺🇸 [ғɪʀᴇᴛᴠ]
@@ -1399,6 +1421,8 @@ List of Channels (Freetv.m3u)
 - World Billiards tv 🇺🇸
 - Billiard TV 🇺🇸
 - Billiard TV ² 🇺🇸
+
+🔹 MUSICA 🔹
 - ONFM 🇵🇹
 - Rádio Sines 🇵🇹
 - NPC TV 🇵🇹
@@ -1514,6 +1538,8 @@ List of Channels (Freetv.m3u)
 - Stingray Pop Adult
 - Stingray Greatest Hits
 - Stingray Hot Country
+
+🔹 RÁDIOS 🔹
 - Wonder 80's
 - ZigZag fm
 - ONfm
