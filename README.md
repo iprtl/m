@@ -350,6 +350,9 @@ LISTA DE CANAIS DA DREAMIPTV
 - Sky Sport Motogp 🇮🇹 (NEM SEMPRE DISPONIVEL)
   
  🔹 DESPORTOS PREMIUM 🇪🇸🇬🇧 🔹
+
+- FS1 🇺🇸
+- FS2 🇺🇸 
 - Championstv 1 🇮🇳🇬🇧
 - Championstv 2 🇮🇳🇬🇧
 - Championstv 5 🇮🇳🇬🇧
