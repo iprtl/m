@@ -399,6 +399,12 @@ LISTA DE CANAIS DA DREAMIPTV
 - Canal+ Sport 5 🇿🇦 🎾
   
   🔹 DESPORTOS HISPANICOS 🔹
+
+- Sky Sports Bundesliga (🔉🇪🇸🇬🇧)
+- Sky Sports Laliga (🔉🇪🇸🇬🇧)
+- Sky Sports 16 (🔉🇪🇸🇬🇧)
+- Sky Sports 21 (🔉🇪🇸🇬🇧)
+- Sky Sports 24 (🔉🇪🇸🇬🇧)
 - TUDN 🇺🇸🇲🇽
 - Claro Sports
 - DSports
