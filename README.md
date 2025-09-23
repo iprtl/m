@@ -319,7 +319,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - ProSieben Maxx 🇩🇪
 - Sat1 🇩🇪
 
-🔹 CANAIS CANADIANOS & INGLESES & USA 🔹
+🔹 CANAIS CANADIANOS 🔹
 - Crave1 🇨🇦
 - Crave2 🇨🇦
 - Crave3 🇨🇦
