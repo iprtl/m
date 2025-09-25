@@ -221,7 +221,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - Playboy
 - Dorcel Tv
 - Sextreme
-- + (VOB), Filmes & Séries 
+- Tem também canais (VOB), com Filmes & Séries 
 
 ---
 
