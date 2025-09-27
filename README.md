@@ -64,7 +64,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 * ALEM DESTA LISTA DE CANAIS.
 * (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
 
-[👉 VEJA VIDEO ☜](https://streamable.com/e/vxzdm9)
+[👉 VEJA VIDEO](https://streamable.com/e/vxzdm9)
 
 LISTA DE CANAIS DA DREAMIPTV
 - Rtp 1
