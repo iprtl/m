@@ -64,7 +64,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 * ALEM DESTA LISTA DE CANAIS.
 * (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
 
-[👉 VEJA VIDEO](https://streamable.com/e/vxzdm9)
+[👉 VEJA VIDEO ☜](https://streamable.com/e/vxzdm9)
 
 LISTA DE CANAIS DA DREAMIPTV
 - Rtp 1
@@ -232,31 +232,35 @@ LISTA DE CANAIS DA DREAMIPTV
 [👉 VEJA VIDEO ☜](https://www.youtube.com/watch?v=uG3IB7cBIkM)
 
 🔹 CANAIS BRASILEIROS 🔹
-- HBO 🇧🇷
-- HBO+ 🇧🇷
-- HBO Family 🇧🇷
-- HBO Mundi 🇧🇷
-- HBO Pop 🇧🇷
-- HBO Signature 🇧🇷
-- HBO Xtreme 🇧🇷
-- AMC Channel 🇧🇷
-- USA Channel 🇧🇷
+- Estrela da Casa 🇧🇷
+- A Fazenda 17 🇧🇷
+- Globo ʀᴊ/sᴘ 🇧🇷
+- BAND ʀᴊ 
+- HBO 💬 🇧🇷
+- HBO+ 💬 🇧🇷
+- HBO Family 💬 🇧🇷
+- HBO Mundi 💬 🇧🇷
+- HBO Pop 💬 🇧🇷
+- HBO Signature V 🇧🇷
+- HBO Xtreme 💬 🇧🇷
+- AMC Channel 💬 🇧🇷
+- USA Channel 💬 🇧🇷
 - TNT 💬 🇧🇷 ⚽️
-- TNT Series 🇧🇷
-- Canal Sony 🇧🇷
+- TNT Series 💬 🇧🇷
+- Canal Sony 💬 🇧🇷
 - Warner Channel 🇧🇷
 - Universal tv 🇧🇷
 - Studio Universal 🇧🇷
-- Space 🇧🇷
+- Space 💬 🇧🇷
 - Megapix 🇧🇷
-- Cinemax 🇧🇷
-- Telecine Premium 🇧🇷
-- Telecine Pipoca 🇧🇷
-- Telecine Action 🇧🇷
-- Telecine Cult 🇧🇷
-- Telecine Fun 🇧🇷
-- Telecine Touch 🇧🇷
-- Film & Arts 🇧🇷
+- Cinemax 💬 🇧🇷
+- Telecine Premium 💬 🇧🇷
+- Telecine Pipoca 💬 🇧🇷
+- Telecine Action 💬 🇧🇷
+- Telecine Cult 💬 🇧🇷
+- Telecine Fun 💬 🇧🇷
+- Telecine Touch 💬 🇧🇷
+- Film & Arts 💬 🇧🇷
 
 🔹 CANAIS HISPÂNICOS 🔹
 
