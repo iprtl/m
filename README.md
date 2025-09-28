@@ -4,7 +4,7 @@
 
 ## COMUNICADO:
 
-IMPORTANTE: A grande novidade é o surgimento de um pacote NOVO E EXCLUSIVO DREAMIPTV. [Saiba mais...](#exclusivo-dreamiptv)
+IMPORTANTE: A grande novidade é a parceria com a DREAMIPTV, um pacote NOVO E EXCLUSIVO DREAMIPTV. [Saiba mais...](#exclusivo-dreamiptv)
 
 ---
 
