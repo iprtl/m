@@ -229,8 +229,12 @@ LISTA DE CANAIS DA DREAMIPTV
 ---
 
 ## List of Channels (tv.m3u) 
-* (Se estiver interessado nesta lista de Canais. Enviar um email para: inspirationlivetv@gmail.com)
-* AVISO: Esta lista é construida por fontes encontradas da Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade.
+* (Se estiver interessado nesta lista de Canais. 
+Entre em contato:
+
+<a href = "mailto:inspirationlivetv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+* AVISO: Esta lista é construida por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos servidores.
 [👉 VEJA VIDEO](https://www.youtube.com/watch?v=uG3IB7cBIkM)
 
 🔹 CANAIS BRASILEIROS 🔹
