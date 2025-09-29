@@ -18,6 +18,15 @@ Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 
 ---
 
+[![stars](https://img.shields.io/github/stars/inspirationlinks/m3u?label=Stars)](https://github.com/inspirationlinks/m3u)
+[![forks](https://img.shields.io/github/forks/inspirationlinks/m3u?label=Forks)](https://github.com/inspirationlinks/m3u)
+[![Watchers](https://img.shields.io/github/watchers/inspirationlinks/m3u?style=social)](https://github.com/inspirationlinks/m3u/watchers)
+[![GitHub Issues](https://img.shields.io/github/issues-search/Jursin/Awesome-Class-Softwares?query=is%3Aopen&style=social&logo=github&label=Issues)](https://github.com/Jursin/Awesome-Class-Softwares/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/inspirationlinks/m3u?style=social&logo=Github&label=Discussions)](https://github.com/inspirationlinks/m3u/discussions)
+[![Created At](https://img.shields.io/github/created-at/inspirationlinks/m3u)](https://github.com/inspirationlinks/m3u)
+[![Github Last Commit](https://img.shields.io/github/last-commit/inspirationlinks/m3u?style=flat&logo=Github&label=Last%20commit)](https://github.com/inspirationlinks/m3u/commits/master)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Finspirationlinks%2Fm3u&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://wp.me/p11I1T-68V)](https://wp.me/p11I1T-68V)
 [![Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
 
@@ -1660,6 +1669,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
