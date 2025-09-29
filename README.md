@@ -2,10 +2,6 @@
 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="133" height="140" border="0" /></a></p>
 
-## COMUNICADO:
-
-IMPORTANTE: A grande novidade é a parceria com a DREAMIPTV, um pacote NOVO E EXCLUSIVO DREAMIPTV. [Saiba mais...](#exclusivo-dreamiptv)
-
 ---
 
 INFORMAÇÃO:
@@ -1640,3 +1636,4 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
