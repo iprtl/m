@@ -25,7 +25,6 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ## Índice
 
-- ⚠️ [COMUNICADO](#COMUNICADO)
 - 📺 [Lista Canais TV.M3U](#list-of-channels-tvm3u)
 - 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
 - 💬 [Legendas](#Legendas)
@@ -1636,4 +1635,5 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
