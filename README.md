@@ -70,9 +70,6 @@ Acrescento que o inspiration Links é apenas e só um intermediário.
 * (Se estiver interessado nesta lista, O primeiro passo é contactar.
 
 <a href = "mailto:inspirationlivetv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-[👉 VEJA VIDEO](https://streamable.com/e/vxzdm9)
-
 ---
 
 ## List of Channels (tv.m3u) 
