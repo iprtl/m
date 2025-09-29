@@ -88,7 +88,6 @@ If you want to support me continuing the work, you can donate by clicking the do
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
 * Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
-* https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
 ---
 
 ## List of Channels (tv.m3u) 
