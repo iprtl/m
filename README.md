@@ -93,7 +93,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 Entre em contato via Telegram:
 [![Entre em Contacto via Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
 
-* AVISO: Esta lista é construida por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos servidores.
+* AVISO: Esta lista é construida por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos tenho servidores para tal.
 
 ---
 
@@ -1266,6 +1266,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
