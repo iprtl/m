@@ -12,9 +12,7 @@ Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/inspirationlinks?logo=GitHub&style=for-the-badge)](https://github.com/inspirationlinks)
-
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/inspirationlinks?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/inspirationlinks)
+[![GitHub followers](https://img.shields.io/github/followers/inspirationlinks?logo=GitHub&style=for-the-badge)](https://github.com/inspirationlinks) [![GitHub Sponsors](https://img.shields.io/github/sponsors/inspirationlinks?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/inspirationlinks)
 
 ---
 
@@ -1268,6 +1266,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
