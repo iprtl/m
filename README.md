@@ -20,19 +20,19 @@ Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/inspirationlinks?logo=GitHub&style=for-the-badge)](https://github.com/inspirationlinks) [![GitHub Sponsors](https://img.shields.io/github/sponsors/inspirationlinks?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/inspirationlinks)
+[![GitHub followers](https://img.shields.io/github/followers/iprtl?logo=GitHub&style=for-the-badge)](https://github.com/iprtl) [![GitHub Sponsors](https://img.shields.io/github/sponsors/iprtl?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/iprtl)
 
 ---
 
-[![stars](https://img.shields.io/github/stars/inspirationlinks/m3u?label=Stars)](https://github.com/inspirationlinks/m3u)
-[![forks](https://img.shields.io/github/forks/inspirationlinks/m3u?label=Forks)](https://github.com/inspirationlinks/m3u)
-[![Watchers](https://img.shields.io/github/watchers/inspirationlinks/m3u?style=social)](https://github.com/inspirationlinks/m3u/watchers)
+[![stars](https://img.shields.io/github/stars/iprtl/m3u?label=Stars)](https://github.com/iprtl/m3u)
+[![forks](https://img.shields.io/github/forks/iprtl/m3u?label=Forks)](https://github.com/iprtl/m3u)
+[![Watchers](https://img.shields.io/github/watchers/iprtl/m3u?style=social)](https://github.com/iprtl/m3u/watchers)
 [![GitHub Issues](https://img.shields.io/github/issues-search/Jursin/Awesome-Class-Softwares?query=is%3Aopen&style=social&logo=github&label=Issues)](https://github.com/Jursin/Awesome-Class-Softwares/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/inspirationlinks/m3u?style=social&logo=Github&label=Discussions)](https://github.com/inspirationlinks/m3u/discussions)
-[![Created At](https://img.shields.io/github/created-at/inspirationlinks/m3u)](https://github.com/inspirationlinks/m3u)
-[![Github Last Commit](https://img.shields.io/github/last-commit/inspirationlinks/m3u?style=flat&logo=Github&label=Last%20commit)](https://github.com/inspirationlinks/m3u/commits/master)
+[![GitHub Discussions](https://img.shields.io/github/discussions/iprtl/m3u?style=social&logo=Github&label=Discussions)](https://github.com/iprtl/m3u/discussions)
+[![Created At](https://img.shields.io/github/created-at/iprtl/m3u)](https://github.com/iprtl/m3u)
+[![Github Last Commit](https://img.shields.io/github/last-commit/iprtl/m3u?style=flat&logo=Github&label=Last%20commit)](https://github.com/iprtl/m3u/commits/master)
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Finspirationlinks%2Fm3u&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fiprtl%2Fm3u&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://wp.me/p11I1T-68V)](https://wp.me/p11I1T-68V)
 
 
@@ -1256,6 +1256,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
