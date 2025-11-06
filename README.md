@@ -14,8 +14,8 @@ Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inspirationlinks&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=inspirationlinks&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=iprtl&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iprtl&theme=dark&hide_border=true" width="400">
 </p>
 
 ---
@@ -1256,6 +1256,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
