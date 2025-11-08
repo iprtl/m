@@ -1006,32 +1006,19 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 cuid="" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/USANetwork.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ USA Network 🇺🇸 ⚽️
-http://195.181.163.243/USA_NETWORK/index.m3u8
-
-#EXTINF:-1 cuid="" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/USANetwork.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ USA Network 🇺🇸 ⚽️
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
-
-
-#EXTINF:-1 cuid="" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/USANetwork.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ USA Network 🇺🇸 ⚽️
-https://a1xs.vip/1100020
 
 =====================🔹========================
 METV 🇺🇸
 =====================🔹========================
 
 #EXTINF:-1 cuid="525" tvg-name="MeTV Wjlp New Jerseynew York" tvg-id="MeTV.Toons.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/MeTVToons.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ MeTV Toons 🇺🇸
-http://97.82.50.17:8182/play/metv_toons-127.m3u8
-
-#EXTINF:-1 cuid="525" tvg-name="MeTV Wjlp New Jerseynew York" tvg-id="MeTV.Plus.us2" tvg-logo="https://logo.m3uassets.com/metvplus.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ MeTV+ 🇺🇸
-http://97.82.50.17:8182/play/me_tv_plus-82.m3u8
+https://tvpass.org/live/metv-toons/sd
 
 =====================🔹========================
 
 #EXTINF:-1 cuid="525" tvg-name="MeTV Wjlp New Jerseynew York" tvg-id="Me.TV.Network.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/MeTV.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ MeTV 🇺🇸
-http://97.82.50.17:8182/play/me_tv-44.m3u8
-
-#EXTINF:-1 cuid="525" tvg-name="Me.TV.Network.us2" tvg-id="Me.TV.Network.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/MeTV.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ MeTV 🇺🇸 ᴸᴼᵂ
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+https://tvpass.org/live/metv-toons/sd
 
 =====================🔹========================
 BBC AMERICA
@@ -1093,10 +1080,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/o
 #KODIPROP:inputstream.adaptive.license_key=34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17
 https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
 
-#EXTINF:-1 cuid="" tvg-name="" tvg-id="MGM+.HD.us2" tvg-logo="https://logo.m3uassets.com/mgmplus.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ MGM+ 🇺🇸
-http://143.244.60.30/EPIX/index.m3u8
-+http://195.181.163.243/EPIX/index.m3u8
-
 #EXTINF:-1  tvg-id="MGM+.Drive-In.us2" tvg-logo="https://i.imgur.com/3fsnLQn.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ MGM+ Drive In
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
@@ -1131,9 +1114,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/o
 
 #EXTINF:-1 cuid="529" tvg-name="HBO" tvg-id="HBO.East.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ HBO East 🇺🇸
 https://tvpass.org/live/HBOEast/sd
-
-#EXTINF:-1 cuid="529" tvg-name="HBO" tvg-id="HBO.East.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ HBO East 🇺🇸
-http://143.244.60.30/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖HBO East 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -1203,9 +1183,6 @@ https://tvpass.org/live/HBOComedyEast/sd
 #EXTINF:-1 cuid="532" tvg-name="HBO Family" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ HBO Family 🇺🇸
 https://tvpass.org/live/HBOFamilyEast/sd
 
-#EXTINF:-1  tvg-id="Hallmark.Family.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ HBO Family 🇺🇸
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium691%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
 #EXTINF:-1 cuid="1792" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ HBO Family (🔉🇪🇸🇬🇧 💬🇪🇸)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -1242,9 +1219,6 @@ https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
-#EXTINF:-1 cuid="528" tvg-name="HBO Zone East" tvg-id="HBO.Zone.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/HBOZone.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ HBO Zone 🇺🇸
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-
 =====================🔹========================
 
 #EXTINF:-1 cuid="528" tvg-name="HBO Zone East" tvg-id="Cg.Hbohits.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbohits.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ HBO Hits 🇺🇸🇵🇭
@@ -1257,7 +1231,7 @@ WARNER CHANNEL
 =====================🔹========================
 
 #EXTINF:-1 cuid="" tvg-name="Warner" tvg-id="WARNER.TV.HD.ph" tvg-logo="https://logo.m3uassets.com/warnerchannel.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ Warner Channel 🇺🇸🇵🇭
-#EXTHTTP:{"origin":"https://tunex.space",❖ "referer":"https://tunex.space/",❖ "User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+#EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://hide.skygoplus.workers.dev/warner-tv.m3u8
 
 =====================🔹========================
@@ -1472,15 +1446,6 @@ http://97.82.50.17:8182/play/history-33.m3u8
 🌈 DISCOVERY CHANNELS 🌎
 =====================🔹========================
 
-#EXTINF:-1 cuid="546" tvg-name="Discovery.Channel" tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Discovery Channel 🇺🇸
-http://195.181.163.243/Discovery_Channel/index.m3u8
-
-=====================🔹========================
-
-#EXTINF:-1 cuid="546" tvg-name="Discovery.Channel" tvg-id="Discovery.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Discovery Channel 🇺🇸🇵🇭
-#EXTHTTP:{"origin":"https://tunex.space",❖ "referer":"https://tunex.space/",❖ "User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
-https://hide.skygoplus.workers.dev/discovery-channel.m3u8
-
 #EXTINF:-1 cuid="546" tvg-name="Discovery.Channel" tvg-id="Discovery.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Discovery Channel 🇺🇸🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
@@ -1495,9 +1460,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0e5b4f0f0bf641029b2b2000665a8b49":"152408adb88d19b5bfac04ccb6c493bb"}
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/562104/index.mpd
-
-#EXTINF:-1 cuid="546" tvg-name="Discovery.Channel" tvg-id="Discovery.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Discovery Channel 🇷🇺
-http://94.232.127.28:8080/discovery-east/index.m3u8
 
 =====================🔹========================
 
@@ -1515,7 +1477,7 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpr
 
 
 #EXTINF:-1 tvg-name="Discovery.Science" tvg-id="Discovery.Science.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Discovery Science 🇺🇸
-#EXTHTTP:{"origin":"https://tunex.space",❖ "referer":"https://tunex.space/",❖ "User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+#EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://hide.skygoplus.workers.dev/discovery-science.m3u8
 
 =====================🔹========================
@@ -1568,12 +1530,6 @@ Animal Planet 🇺🇸
 
 #EXTINF:-1 cuid="542" tvg-name="Animal Planet US East" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Animal Planet 🇺🇸
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium304%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-#EXTINF:-1 cuid="542" tvg-name="Animal Planet US East" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Animal Planet 🇺🇸
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-
-#EXTINF:-1 cuid="542" tvg-name="Animal Planet US East" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Animal Planet 🇺🇸
-http://143.244.60.30/Animal_Planet/index.m3u8
-https://a1xs.vip/300035
 
 =====================🔹========================
 
@@ -1584,11 +1540,6 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561803/index.mpd
 
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Animal Planet 🇺🇸
 https://a1xs.vip/300035
-
-#EXTINF:-1 cuid="542" tvg-name="Animal Planet US East" tvg-id="ANIMAL.PLANET.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Animal Planet 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 cuid="542" tvg-name="Animal Planet US East" tvg-id="Animal.Planet.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Animal Planet 🇺🇸🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
