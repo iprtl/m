@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2025-11-06 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 1013
+# (●) Total Channels: 334
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -146,7 +146,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #EXTINF:-1 cuid="19" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVI Internacional 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI1IDQ6NDA6MjYgUE0maGFzaF92YWx1ZT1pekpKM3NMU2JFOG8yMzlIeU8vY0hnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2ZhY2IyZWItOTFmNC00NTU5LTkzZDktMTY1MDc3ZWE2YjNj/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI1IDQ6NDE6NDQgUE0maGFzaF92YWx1ZT16dXFYTWhKclJsS3BJQjkvcWJOMnd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGRmYWIzZjMtYTZlMS00NjMyLWJlNTktM2RlYzY4ODdkNjU0/
 
 =====================❖======================== 
 🌈 𝙏𝙑𝙡 
@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 cuid="21" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVI 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 #EXTINF:-1 cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI1IDQ6NDA6MjUgUE0maGFzaF92YWx1ZT1hTGRFWjVaRVVDT0ZWMDk2QktQK01BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTU0MDljNTctNTFkNi00MWQzLWE4MGUtNDljNGEzZDc4NDJj/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI1IDQ6NDE6NDMgUE0maGFzaF92YWx1ZT1lMWYvS0Jzb0NmTkNxT25VelF2Ylp3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDdjZDJlNWUtOWIwOS00ZWQ2LTlmMDUtYzE2MzA1MzZkOGRj/
 
 =====================❖======================== 
 🌈 CNN 𝙏𝙑𝙡 
@@ -168,7 +168,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 cuid="23" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI1IDQ6NDA6MjYgUE0maGFzaF92YWx1ZT1ac1UzZW54Vm1qQ1JNaWJNSkg2YjNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDExNzk4OWYtZTZmMS00OTYxLTgxNjUtYzBmMzdlMGRkNjY3/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI1IDQ6NDE6NDQgUE0maGFzaF92YWx1ZT1ZU3NpWDNRRllZR2grM2Q0VlRGQ0lRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjMwZGZhNzQtOGQwNy00MjMyLWJkNjctMGNhYjAzOWJiZDY0/
 
 =====================❖======================== 
 🌈
