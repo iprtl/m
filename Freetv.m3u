@@ -38,16 +38,16 @@ https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 
-#EXTINF:-1 cuid="3" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP 1 🇵🇹
+#EXTINF:-1 cuid="3" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP1 🇵🇹
 +https://ddy6new.newkso.ru/ddy6/premium719/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 
-#EXTINF:-1 cuid="4" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP 1 🇵🇹
+#EXTINF:-1 cuid="4" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP1 🇵🇹
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-#EXTINF:-1 cuid="4" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP 1 🇵🇹
+#EXTINF:-1 cuid="4" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP1 🇵🇹
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 
 =====================❖========================
@@ -506,14 +506,8 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 🌈𝙈𝙚𝙩𝙚𝙤𝙧𝙤𝙡𝙤𝙜𝙮 ❄︎ 
 =====================❖======================== 
 
-#EXTINF:-1 cuid="52" tvg-name="FOX.Weather" tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ Sky News Weather
+#EXTINF:-1 cuid="52" tvg-name="SkyWeather" tvg-id="SkyWeather.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ Sky News Weather 🇺🇸
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-
-#EXTINF:-1 cuid="53" tvg-name="Meteonews" tvg-id="Meteonews.ch" tvg-logo="https://wetter.tv/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ MeteoNews 🇦🇹
-https://streaming.meteonews.net/hls/stream.m3u8
-
-#EXTINF:-1 cuid="54" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ 
-+https://
 
 #EXTINF:-1 cuid="55" tvg-name="WeatherSpy 🇺🇸" tvg-id="USAJ3400014LK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ WeatherSpy 🇺🇸
 https://d12gab6t5iutxf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5f9kx6t1zhw2i/playlist.m3u8
@@ -527,10 +521,11 @@ https://accuweatherx-lg.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 cuid="58" tvg-name="WeatherNation TV 🇺🇸" tvg-id="CABC23000223U" tvg-logo="https://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ WeatherNation TV 🇺🇸
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 
-#EXTINF:-1 cuid="59" tvg-name="The Weather Channel 🇺🇸🇨🇦" tvg-id="The.Weather.Channel.us" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ The Weather Channel 🇺🇸🇨🇦
+#EXTINF:-1 cuid="59" tvg-name="The Weather Channel 🇺🇸🇨🇦" tvg-id="The.Weather.Network.Canada.HD.ca2" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ The Weather Channel 🇺🇸🇨🇦
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
 
-
+#EXTINF:-1 cuid="53" tvg-name="Meteonews" tvg-id="Meteonews.ch" tvg-logo="https://wetter.tv/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/5493/5493244.png" group-title="Meteorology 🌎",❖ MeteoNews 🇦🇹
+https://streaming.meteonews.net/hls/stream.m3u8
 
 
 
@@ -556,6 +551,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwor
 =====================❖======================== 
 🌈 𝙉𝙚𝙬𝙨 🌍
 =====================❖======================== 
+
+#EXTINF:-1 tvg-id="Celebrity Scene TV" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/celebrityscene.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Celebrity Scene TV 🇺🇸
+https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 
 #EXTINF:-1 cuid="72" tvg-name="24h 🇪🇸" tvg-id="ESBC4100004J1" tvg-logo="https://logo.m3uassets.com/24h.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ 24h 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
@@ -636,9 +634,6 @@ https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/franceinfo.m3u8
 
-#EXTINF:-1 cuid="89" tvg-name="France Info 🇫🇷" tvg-id="franceinfo:.fr" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/180-1797f52d.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ France Info 🇫🇷
-+http
-
 
 #EXTINF:-1 cuid="90" tvg-name="Cnews" tvg-id="CNews.fr" tvg-logo="https://www.cnews.fr/themes/cnews/cnews-logo-mobile.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Cnews 🇫🇷
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
@@ -656,10 +651,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 cuid="94" tvg-name="RDI Canada 🇨🇦🇫🇷" tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20240527T200833SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ RDI Canada 🇨🇦🇫🇷
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 cuid="95" tvg-name="France24 🇫🇷🇬🇧" tvg-id="ESBD1100001PQ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/640px-FRANCE_24_logo.svg.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ France24 🇫🇷🇬🇧
+#EXTINF:-1 cuid="95" tvg-name="France24 🇫🇷🇬🇧" tvg-id="ESBD1100001PQ" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/france24-eng.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ France 24 🇫🇷🇬🇧
 https://amg00106-france24-france24-samsungspain-n4tez.amagi.tv/playlist/amg00106-france24-france24-samsungspain/playlist.m3u8
 
-#EXTINF:-1 cuid="96" tvg-name="France 24 Fast 🇫🇷" tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100002WX_20241022T051609SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ France 24 Fast 🇫🇷
+#EXTINF:-1 cuid="96" tvg-name="France 24 Fast 🇫🇷" tvg-id="GBBD1100002L5" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/France24FastENG.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ France 24 Fast 🇫🇷
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 
 #EXTINF:-1 cuid="97" tvg-name="Africa 24 🇫🇷" tvg-id="Africa.24.fr" tvg-logo="https://i.ibb.co/pdnMrZn/a24.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Africa 24 🇫🇷
@@ -671,9 +666,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 =====================❖======================== 
 🌈INGLESES & NORTE AMERICANOS
 =====================❖======================== 
-
-#EXTINF:-1 tvg-id="Celebrity Scene TV" tvg-logo="https://flixhousecom.cdn.ypt.me/videos/v_230414152616_v16ab/v_230414152616_v16ab_thumbsV2_jpg.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Celebrity Scene TV 🇺🇸
-https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 
 #EXTINF:-1 cuid="99" tvg-name="European Parliament tv 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://yt3.googleusercontent.com/y6I27yW5rcdKML5uWm2yuXD8KPbt9bjoDnSvPYaiLNFPs6uQzHCXMGsyvKSP1Y4Xxo_67Nb0jw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ European Parliament tv 🇬🇧
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
@@ -700,7 +692,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c45afaa72e7b0008a2b
 #EXTINF:-1 cuid="106" tvg-name="CNN Highlights 🇺🇸" tvg-id="5421f71da6af422839419cb3" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CNN Highlights 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgpt/playlist.m3u8
 
-#EXTINF:-1 cuid="107" tvg-name="CNN XPRESS 🇲🇽" tvg-id="673248f9030a2c0008033af8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42343540-3224-4dc1-9c4f-c056ddeb57e3/CNNE_EXPRES_LOGO_DARK.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CNN XPRESS 🇲🇽
+#EXTINF:-1 cuid="107" tvg-name="CNN XPRESS 🇲🇽" tvg-id="673248f9030a2c0008033af8" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CNNXpress_1920x1080_Logo.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CNN XPRESS 🇲🇽
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/673248f9030a2c0008033af8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="108" tvg-name="CNN Fast 🇺🇸" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CNN Fast 🇺🇸
@@ -716,7 +708,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/66b646f9cd0d3100086af83c/master.m3u
 https://dai.google.com/linear/hls/event/nrb-l85CR7SIr-rGXqz4zA/master.m3u8
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2Fnrb-l85CR7SIr-rGXqz4zA%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&ip_addr=195.179.200.80&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080
 
-#EXTINF:-1 cuid="110" tvg-name="newsword" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ NewsWord 🇺🇸
+#EXTINF:-1 cuid="110" tvg-name="newsword" tvg-id="" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011.jpeg" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ NewsWord 🇺🇸
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 
 #EXTINF:-1 cuid="113" tvg-name="Cheddar News 🇺🇸" tvg-id="USAJ3504714A" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/CheddarNews_1920x1080.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Cheddar News 🇺🇸
@@ -729,7 +721,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_chan
 #EXTINF:-1 cuid="114" tvg-name="Sky News 🇺🇸" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/sky_news_us.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Sky News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 
-#EXTINF:-1 cuid="114" tvg-name="Sky News " tvg-id="55b285cd2665de274553d66f" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logosTv/Skynewsnow.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Sky News Now 🇺🇸
+#EXTINF:-1 cuid="114" tvg-name="Sky News " tvg-id="55b285cd2665de274553d66f" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Skynewsnow.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Sky News Now 🇺🇸
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/ts-eu-w1-n2/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 cuid="115" tvg-name="Fox News Now 🇺🇸" tvg-id="USBA300024TN" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s119219_ld_h8_ab.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Fox News Now 🇺🇸
@@ -741,10 +733,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious
 #EXTINF:-1 cuid="117" tvg-name="FOX 11 Los Angeles 🇺🇸" tvg-id="667f2c7b22acab0008b7072b" tvg-logo="https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ FOX 11 Los Angeles 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/667f2c7b22acab0008b7072b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5df26085-4618-11f0-a8d7-0ede5cc29e67
 
-#EXTINF:-1 cuid="119" tvg-name="FOX 12 New York 🇺🇸" tvg-logo="https://canvas-lb.tubitv.com/opts/-7LfJWOBjXLPNQ==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjVAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ FOX 12 New York 🇺🇸
+#EXTINF:-1 cuid="119" tvg-name="FOX 12 New York 🇺🇸" tvg-id="plex.tv.News.12.New.York.plex" tvg-logo="https://canvas-lb.tubitv.com/opts/-7LfJWOBjXLPNQ==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjVAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ News12  New York 🇺🇸
 https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8
 
-#EXTINF:-1 cuid="120" tvg-name="GB News 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ GB News 🇬🇧
+#EXTINF:-1 cuid="120" tvg-name="GB News 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://assets.rbl.ms/61228189/origin.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ GB News 🇬🇧
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 =====================❖======================== 
@@ -755,55 +747,55 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 
-#EXTINF:-1 cuid="126" tvg-name="NBC News Now 🇺🇸" tvg-id="CW.(KRIS-DT2).Corpus.Christi,.TX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ NBC 6 🇺🇸
+#EXTINF:-1 cuid="126" tvg-name="NBC News Now 🇺🇸" tvg-id="KRIS-DT.us_locals1" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_south_florida_news.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ NBC 6 🇺🇸
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 
 =====================❖======================== 
 🌈CBS
 =====================❖======================== 
 
-#EXTINF:-1 cuid="127" tvg-name="CBS News Boston 🇺🇸" tvg-id="CBSNewsBoston.us" tvg-logo="https://i.imgur.com/9un7R3N.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Boston 🇺🇸
-https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-
-#EXTINF:-1 cuid="128" tvg-name="CBS News Chicago 🇺🇸" tvg-id="CBSNewsChicago.us" tvg-logo="https://i.imgur.com/qGbVQir.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Chicago 🇺🇸
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 cuid="130" tvg-name="CBS News Colorado 🇺🇸" tvg-id="CBSNewsColorado.us" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Colorado 🇺🇸
-https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-
-#EXTINF:-1 cuid="131" tvg-name="CBS News Detroit 🇺🇸" tvg-id="CBSNewsDetroit.us" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_detroit.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Detroit 🇺🇸
-https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
-
-#EXTINF:-1 cuid="132" tvg-name="CBS News Los Angeles 🇺🇸" tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Los Angeles 🇺🇸
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-
-#EXTINF:-1 cuid="133" tvg-name="CBS News Miami 🇺🇸" tvg-id="CBSNewsMiami.us" tvg-logo="https://i.imgur.com/DExbVa9.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Miami 🇺🇸
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-
-#EXTINF:-1 cuid="134" tvg-name="CBS News Minnesota 🇺🇸" tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Minnesota 🇺🇸
-https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-
-#EXTINF:-1 cuid="135" tvg-name="CBS News New York 🇺🇸" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News New York 🇺🇸
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-
-#EXTINF:-1 cuid="136" tvg-name="CBS News Philadelphia 🇺🇸" tvg-id="CBSNewsPhilly.us" tvg-logo="https://i.imgur.com/FmtTbNY.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Philadelphia 🇺🇸
-https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-
-#EXTINF:-1 cuid="137" tvg-name="CBS News Pittsburgh 🇺🇸" tvg-id="CBSNewsPittsburgh.us" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Pittsburgh 🇺🇸
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-
-#EXTINF:-1 cuid="138" tvg-name="CBS News Sacramento 🇺🇸" tvg-id="CBSNewsSacramento.us" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Sacramento 🇺🇸
-https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
-
 #EXTINF:-1 cuid="139" tvg-name="CBS News 🇺🇸" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://m.media-amazon.com/images/X/lsmP/M/1lsmPhEDvDwPGUY.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="140" tvg-name="CBS News Explore 🇺🇸" tvg-id="CABC2300009KD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Explore 🇺🇸
-+https://d36tuf8zz9b2bm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/82023db6-4ade-4add-be40-13d271a74f89/3.m3u8
-
 #EXTINF:-1 cuid="141" tvg-name="CBS News 24/7 🇺🇸" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoSVG.svg" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News 24/7 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c6e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="127" tvg-name="CBS News" tvg-id="KPIX-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cbsbatarea.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Bay Area 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="127" tvg-name="CBS News Boston 🇺🇸" tvg-id="WBZ-DT.us_locals1" tvg-logo="https://i.imgur.com/9un7R3N.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Boston 🇺🇸
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+
+#EXTINF:-1 cuid="134" tvg-name="CBS News Minnesota 🇺🇸" tvg-id="WCCO-DT.us_locals1" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Minnesota 🇺🇸
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+
+#EXTINF:-1 cuid="137" tvg-name="CBS News Pittsburgh 🇺🇸" tvg-id="KDKA-DT.us_locals1" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Pittsburgh 🇺🇸
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
+#EXTINF:-1 cuid="128" tvg-name="CBS News Chicago 🇺🇸" tvg-id="WBBM-DT.us_locals1" tvg-logo="https://i.imgur.com/qGbVQir.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Chicago 🇺🇸
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="130" tvg-name="CBS News Colorado 🇺🇸" tvg-id="KCNC-DT.us_locals1" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Colorado 🇺🇸
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+
+#EXTINF:-1 cuid="131" tvg-name="CBS News Detroit 🇺🇸" tvg-id="WWJ-DT.us_locals1" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_detroit.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Detroit 🇺🇸
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+
+#EXTINF:-1 cuid="132" tvg-name="CBS News Los Angeles 🇺🇸" tvg-id="KCAL-DT.us_locals1" tvg-logo="https://i.imgur.com/klULxMV.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Los Angeles 🇺🇸
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+
+#EXTINF:-1 cuid="133" tvg-name="CBS News Miami 🇺🇸" tvg-id="WFOR-DT.us_locals1" tvg-logo="https://i.imgur.com/DExbVa9.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Miami 🇺🇸
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+
+#EXTINF:-1 cuid="135" tvg-name="CBS News New York 🇺🇸" tvg-id="WCBS-DT.us_locals1" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News New York 🇺🇸
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+
+#EXTINF:-1 cuid="136" tvg-name="CBS News Philadelphia 🇺🇸" tvg-id="KYW-DT.us_locals1" tvg-logo="https://i.imgur.com/FmtTbNY.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Philadelphia 🇺🇸
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+
+#EXTINF:-1 cuid="138" tvg-name="CBS News Sacramento 🇺🇸" tvg-id="KOVR-DT.us_locals1" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Sacramento 🇺🇸
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 
 =====================❖======================== 
 🌈ABC
@@ -812,21 +804,21 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c
 #EXTINF:-1 cuid="142" tvg-name="Global News Toronto" tvg-id="62cc00b3b821cf00070f82c3" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Global News Toronto
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="143" tvg-name="ABC News Australia 🇦🇺" tvg-id="ABC.NEWS.us" tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ ABC News Australia 🇦🇺
+#EXTINF:-1 cuid="143" tvg-name="ABC News Australia 🇦🇺" tvg-id="ABC.NEWS.us" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ABCNEWS.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ ABC News Australia 🇦🇺
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 cuid="145" tvg-name="ABC News Live 🇺🇸" tvg-id="ABC.NEWS.us" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ ABC News Live 🇺🇸
+#EXTINF:-1 cuid="145" tvg-name="ABC News Live 🇺🇸" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ ABC News Live 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d700008c534e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 =====================❖======================== 
 🌈BBC
 =====================❖======================== 
 
-#EXTINF:-1 cuid="146" tvg-name="BBC News 🇺🇸" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BBC_News_Logo_16_9501.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ BBC News 🇺🇸
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 cuid="147" tvg-name="BBC News 🇺🇸" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BBC_News_Logo_16_9501.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ BBC News₂ 🇬🇧
+#EXTINF:-1 cuid="147" tvg-name="BBC News 🇺🇸" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/bbcnews.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ BBC News 🇬🇧
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 cuid="146" tvg-name="BBC News 🇺🇸" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/bbcnews.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ BBC News 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 =====================❖======================== 
 🌈VARIOS
@@ -839,16 +831,16 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8
 
-#EXTINF:-1 cuid="151" tvg-name="CGTN News 🇬🇧" tvg-id="CGTN.News.ng" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CGTN News 🇬🇧
+#EXTINF:-1 cuid="151" tvg-name="CGTN News 🇬🇧" tvg-id="CGTN.News.ng" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cgtn.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CGTN News 🇬🇧
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
-#EXTINF:-1 cuid="153" tvg-name="Press Tvᴸᴼᵂ 🇺🇸" tvg-logo="https://www.presstv.ir/custom/images/site/LOGO.gif" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Press Tvᴸᴼᵂ 🇺🇸
+#EXTINF:-1 cuid="153" tvg-name="Press Tvᴸᴼᵂ 🇺🇸" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/presstv.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Press Tvᴸᴼᵂ 🇺🇸
 https://live.presstv.ir/hls/presstv.m3u8
 
-#EXTINF:-1 cuid="154" tvg-name="Al Jazeera 🇬🇧" tvg-id="Al.Jazeera.pt" tvg-logo="https://www.aljazeera.com/favicon_aje.ico" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Al Jazeera 🇬🇧
+#EXTINF:-1 cuid="154" tvg-name="Al Jazeera 🇬🇧" tvg-id="Al.Jazeera.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/AlJazeera.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ Al Jazeera 🇬🇧
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 cuid="155" tvg-name="DW 🇬🇧" tvg-id="DW.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ DW 🇬🇧
+#EXTINF:-1 cuid="155" tvg-name="DW 🇬🇧" tvg-id="DW.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/dw.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ DW 🇬🇧
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 
 #EXTINF:-1 cuid="158" tvg-name="NHK World 🇬🇧" tvg-id="NHK.World.TV.pt" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ NHK World 🇬🇧
@@ -997,12 +989,12 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 
 =====================🔹========================
 
-#EXTINF:-1 cuid="" tvg-name="" tvg-id="AMC.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/amc1.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ AMC (💬🇬🇧) 🇺🇸
+#EXTINF:-1 cuid="" tvg-name="" tvg-id="AMC.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/amcpt.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ AMC (💬🇬🇧) 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
 https://aba2ohkaaaaaaaama62xttrwjeeps.dd4bc9f2d43e4d9d8c0f402f186632fb.emt.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
 
-#EXTINF:-1 cuid="" tvg-name="" tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/amc1.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ AMC
+#EXTINF:-1 cuid="" tvg-name="" tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/amcpt.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34c1715a9fd24e7d8497da043669ad66":"e3ce21758f33b38413d7cfecfddcb289"}
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560908/index.mpd
@@ -1350,13 +1342,10 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 📺 ✰ 𝘿𝙊𝘾𝙐𝙈𝙀𝙉𝙏𝘼𝙍𝙄𝙊𝙎
 =====================🔹========================
 
-#EXTINF:-1 cuid="311" tvg-chno="135" tvg-name="Travel.Channel" tvg-id="Travel.Channel.ph" tvg-logo="https://logo.m3uassets.com/travelchannel.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ TRVL Channel 🇺🇸🇵🇭
+#EXTINF:-1 cuid="311" tvg-chno="135" tvg-name="Travel.Channel" tvg-id="Travel.Channel.ph" tvg-logo="https://logo.m3uassets.com/travelchannel.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Ttvl Channel 🇺🇸🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
-
-#EXTINF:-1 cuid="311" tvg-chno="135" tvg-name="Travel.Channel" tvg-id="Travel.Channel.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Travelxp.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentários 🌎",❖ Travel xp 🇧🇷
-https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 
 =====================🔹========================
 
@@ -1601,30 +1590,9 @@ https://a1xs.vip/2000024
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
-
-#EXTINF:-1 cuid="7824545789" tvg-name="ESPN" tvg-id="ESPN.co" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
 =====================🔹========================
 ESPN 2
 =====================🔹========================
-
-#EXTINF:-1 cuid="783" tvg-name="ESPN 2" tvg-id="ESPN.2.co" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 2 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #EXTINF:-1 cuid="783" tvg-name="ESPN 2" tvg-id="ESPN.2.co" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 2 🇨🇴
 #EXTVLCOPT:network-caching=1000
