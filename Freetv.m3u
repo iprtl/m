@@ -200,7 +200,7 @@ INTERNACIONAIS
 #EXTINF:-1 tvg-chno="31" cuid="30" tvg-name="Globo" tvg-id="São.Paulo/SP..Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ Globo ʙᴀ ⚽️ 🇧🇷
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8?@iprtlk
 
-#EXTINF:-1 tvg-chno="59" cuid="36" tvg-name="Record" tvg-id="São.Paulo/SP..Globo.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/recordtv.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ Record Internacional
+#EXTINF:-1 tvg-chno="59" cuid="36" tvg-name="Record" tvg-id="São.Paulo/SP..Record.HD.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/recordtv.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ Record Internacional
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-dash/rederecordinternacional.mpd
 
